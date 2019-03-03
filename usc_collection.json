@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from the University of South Carolina, Irvin Department of Special Collections",
 "viewingHint": "top",

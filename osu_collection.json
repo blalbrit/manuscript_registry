@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace me",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from Ohio State University",
 "viewingHint": "top",

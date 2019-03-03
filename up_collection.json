@@ -1,0 +1,141 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from the University of Portland, Clark Library",
+"viewingHint": "top",
+"description": "The University of Portland's Clark Library houses a small collection of Medieval Manuscripts from the 12th-15thcentury. The collection consist of manuscripts, manuscript fragments, musical notations, and individual leaf from larger work. Among the digitized objects are work from Saint Anthony of Egypt; Hugo of Saint Victor; Peter Lombard, Bishop of Paris; and Pope Saint Gregory the Great. https://up.contentdm.oclc.org/digital/collection/p16472coll6",
+"attribution": "Provided by the University of Portland, Clark Library",
+"manifests": [
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/26",
+"@type": "sc:Manifest",
+"label": "Unidentified manuscript"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/14",
+"@type": "sc:Manifest",
+"label": "Fragments from the Book of Job. Germany, 2nd half of the 13th century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/308",
+"@type": "sc:Manifest",
+"label": "Commentaria in aliquas distinctiones Sententiarum"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/439",
+"@type": "sc:Manifest",
+"label": "Planctus super morte Christi."
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/17",
+"@type": "sc:Manifest",
+"label": "Leaf from the bible, St. Jerome's translation, Germany, 13th century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/49",
+"@type": "sc:Manifest",
+"label": "English provenience, 12th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/339",
+"@type": "sc:Manifest",
+"label": "Inventio ac translatio corporis antonii"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/732",
+"@type": "sc:Manifest",
+"label": "Dialogorum Librir IV, 14th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/32",
+"@type": "sc:Manifest",
+"label": "Unidentified manuscript"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/11",
+"@type": "sc:Manifest",
+"label": "Fragment from a theological work, Italy, 11th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/76",
+"@type": "sc:Manifest",
+"label": "De institutione novitiorum, Hugo of Saint Victor, 12th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/189",
+"@type": "sc:Manifest",
+"label": "Summa artis grammaticae, Magister Caesarius, and Notulae grammaticae"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/8",
+"@type": "sc:Manifest",
+"label": "S. N. Isidorus, Defide catholica contra Judaeos 35.3"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/23",
+"@type": "sc:Manifest",
+"label": "Unidentified manuscript"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/37",
+"@type": "sc:Manifest",
+"label": "Missal fragment, Italy, early 14th century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/40",
+"@type": "sc:Manifest",
+"label": "Manuscript fragment from a Missal with early musical notation (Neumes), France(?), 11th century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/1447",
+"@type": "sc:Manifest",
+"label": "Flores Sanctorum, Italy, 13th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/29",
+"@type": "sc:Manifest",
+"label": "Unidentified manuscript"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/46",
+"@type": "sc:Manifest",
+"label": "Unidentified manuscript"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/5",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf, Italy, probably 12 century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/2",
+"@type": "sc:Manifest",
+"label": "Graduale"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/20",
+"@type": "sc:Manifest",
+"label": "Fragment with early musical notation, Germany (?), 14th century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/414",
+"@type": "sc:Manifest",
+"label": "Epistola ad Paulinum de haeresi Pelagii, 15th century."
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/43",
+"@type": "sc:Manifest",
+"label": "Pages from Pulpit Bible "
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/1362",
+"@type": "sc:Manifest",
+"label": "Compendium theologiae veritatis. Strassburg (?), 15th Century; Didascalicon, sive eruditionis didascalicae libri. De meditatione. Strassburg (?), 15th Century"
+},
+{
+"@id": "https://up.contentdm.oclc.org/digital/iiif-info/p16472coll6/937",
+"@type": "sc:Manifest",
+"label": "Enchiridion ad Laurentium. De divinatione daemonum. De vera religione. Epistolae duae ad Januarium, 11th Century"
+}
+]
+}

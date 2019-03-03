@@ -1,4 +1,7 @@
 # IIIF Manuscripts - Collection Registry
+## California
+* Loyola Marymount University
+* Stanford University
 ## Missouri
 * Missouri State University , Special Collections & Archives: [mostate_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/mostate_collection.json)
 ## Ohio

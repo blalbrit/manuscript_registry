@@ -1,0 +1,920 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from the University of Washington Libraries",
+"viewingHint": "top",
+"description": "This collection consists of medieval manuscript fragments and a few bound manuscripts. The fragments have been digitized and a descriptive, searchable database has been prepared to accompany the images. The manuscripts were acquired by the UW Libraries during the 20th century, nearly all as gifts from generous donors. More than half are part of the Walter B. Beals Collection, donated to the Library in 1973 by Mrs. Beals after the death of her husband. Others are from the William E. Henry Collection, collected by Mr. Henry during his 1906-1931 tenure as head librarian and Dean of the Library School. Mrs. Irving Colwell and David Wood, head of the Music Library, each added leaves from 15th century Books of Hours. https://content.lib.washington.edu/mhmweb/index.html",
+"attribution": "Provided by the University of Washington Libraries",
+"manifests": [
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/93",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: June calendar (Beals 39 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/213",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: 12 Articles of Faith, in Middle French (UW Ms 89 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/212",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Hours of the Virgin (UW Ms 88)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/229",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Litany of Saints (UW Ms 96 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/228",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Litany of the Saints (UW Ms 95 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/193",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 007: Paris manuscript Bible, ca. 1310 A. D. (UW MS 79 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/210",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Psalms and antiphons for non-feast Saturdays after Trinity Sunday (UW Ms 87 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/217",
+"@type": "sc:Manifest",
+"label": "Collectar leaf: Collects (prayers) for Mass from the 2nd to 8th Sunday after Pentecost (UW Ms 92 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/189",
+"@type": "sc:Manifest",
+"label": "Noted breviary fragment: Feast of the Holy Cross, Matins/Lauds (Beals 45 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/146",
+"@type": "sc:Manifest",
+"label": "Limp vellum binding reinforced by printed paper wastesheet (Beals 31 folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/248",
+"@type": "sc:Manifest",
+"label": "Missal leaf, 15th c: Mass for the Dead (UW Ms 98 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/239",
+"@type": "sc:Manifest",
+"label": "Antiphonary bifolium: Chants for Office of the Dead, Matins (Beals 54 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/209",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Psalms and antiphons for non-feast Saturdays after Trinity Sunday (UW Ms 87 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/76",
+"@type": "sc:Manifest",
+"label": "Legal text with commentary: Corpus Jurus Civilis, Digesta 45.1.2 and 45.1.3 \"On Verbal Obligations\" (Beals 36 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/111",
+"@type": "sc:Manifest",
+"label": "Bible Leaf, 16th c: Ezechiel 1:1-11(Beals 51 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/17",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Gospel reading (Matthew 27: 32-51) for Palm Sunday mass. (Beals 14 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/103",
+"@type": "sc:Manifest",
+"label": "Unidentified theological text (Beals 46 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/22",
+"@type": "sc:Manifest",
+"label": "Bible leaf with gloss, 13th century (2 of 4):  Titus 3: 2-10 (Beals 17 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/211",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Hours of the Virgin (UW Ms 88)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/44",
+"@type": "sc:Manifest",
+"label": "Manuscript Fragment: Excerpt from St. Augustine's Sermon 166. (Beals 19 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/83",
+"@type": "sc:Manifest",
+"label": "Bible leaf, 12th century: II Maccabees 1:26 to 2:23 (Beals 11 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/123",
+"@type": "sc:Manifest",
+"label": "Bible Leaf, 13th century: II Maccabees 5:1 to 6:7 (Beals 59 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/138",
+"@type": "sc:Manifest",
+"label": "Antiphonary fragment: Chants for Feast of St. Agatha, Matins (Beals 42 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/92",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: May calendar (Beals 39 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/134",
+"@type": "sc:Manifest",
+"label": "Missal fragment: Mass during Passion Week (UW Ms 68 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/115",
+"@type": "sc:Manifest",
+"label": "Antiphonary bifolium: Chants for Office of the Dead, Matins (Beals 54 folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/136",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Cicero's De Finibus Bonorum et Malorum (On the Ends of Good and Evil) (UW Ms 77 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/41",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Boethius’ commentary on Aristotle’s Categories, Book 4 (Beals 18 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/15",
+"@type": "sc:Manifest",
+"label": "Hymnal leaf: Chants for Exaltation of the Cross and Finding of the Cross feasts (Beals 12 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/196",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 006: Miniature manuscript Bible, ca. 1240 A.D. (UW MS 80 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/194",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 007: Paris manuscript Bible, ca. 1310 A. D. (UW MS 79 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/247",
+"@type": "sc:Manifest",
+"label": "Missal leaf, 15th c: Mass for the Dead (UW Ms 98)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/108",
+"@type": "sc:Manifest",
+"label": "Noted missal leaf: Feast of the Compassion of the  Blessed Virgin Mary (Beals 50 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/57",
+"@type": "sc:Manifest",
+"label": "Medieval Commentary on Lucan's Pharsalia, Books I and II. (Beals 20 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/56",
+"@type": "sc:Manifest",
+"label": "Medieval Commentary on Lucan's Pharsalia, Books I and II. (Beals 20 Folio 2 recto)
+
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/107",
+"@type": "sc:Manifest",
+"label": "Lectionary leaf: Gospel readings for second Sunday after Epiphany (Beals 48 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/11",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 12th century: Mark 6:29-33 (Beals 10 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/188",
+"@type": "sc:Manifest",
+"label": "Noted breviary fragment: Feast of the Holy Cross and several saints, Matins  (Beals 45 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/133",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Proper of the Saints for feasts of Saints Dionysius, Luke, Simon & Jude, and the vigil of All Saints Day. (UW MS 66 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/132",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Proper of the Saints for feasts of Saints Jerome, Remigius, Francis of Assisi, and Mark. (UW MS 66 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/197",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 005: Twelfth century manuscript Bible, ca. 1150 A. D. (UW MS 81 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/180",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Proper of the Saints, Feasts of Finding St. Stephen, Nichodemus, Abibon, and St. Cyriacus (Beals 37 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/80",
+"@type": "sc:Manifest",
+"label": "Bible leaf, 12th century:  II Maccabees 8:28 through 9:15 (Beals 11 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/81",
+"@type": "sc:Manifest",
+"label": "Bible leaf, 12th century:  II Maccabees 9:15 to 10:13 (Beals 11 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/126",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: The prayer \"Recours a Marie en prevision de l’heure derniere\"  (UW Ms 62, folio 2, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/140",
+"@type": "sc:Manifest",
+"label": "Antiphonary fragment: Chants for Feast of St. Gregory, Matins (Beals 42 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/100",
+"@type": "sc:Manifest",
+"label": "Antiphonary leaf: Chants for the 4th Sunday in Lent, Matins/Lauds (Beals 44 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/104",
+"@type": "sc:Manifest",
+"label": "Missal Leaf: Proper of the Saints, Octave of the Assumption (August 15). Sequentia de Beata Maria Virgine, (Beals 47 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/32",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Excerpt from Summa Hostiensis, Book 4, De Donationibus inter conjuges (Beals 22 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/251",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf:  \"Les quinze joies de nostre Dame,\" in Middle French. (UW Ms 84 verso)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/21",
+"@type": "sc:Manifest",
+"label": "Bible leaf with gloss, 13th century (1 of 4): Titus 2:9-15 and Titus 3: 1-2 (Beals 17 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/206",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Office of the Holy Spirit, Matins
+
+(UW Ms 85 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/207",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Feast of Corpus Christi, Matins (UW Ms 86 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/141",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Easter Sunday, Matins (UW Ms 64 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/198",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 005: Twelfth century manuscript Bible, ca. 1150 A. D. (UW MS 81 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/145",
+"@type": "sc:Manifest",
+"label": "Limp vellum binding reinforced by printed paper wastesheet (Beals 31 folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/36",
+"@type": "sc:Manifest",
+"label": "Bifolium fragment: Unidentified 14th century theological text. (Beals 25 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/190",
+"@type": "sc:Manifest",
+"label": "Bible Leaf, 16th c: St. Jerome's Prologue to Ezekiel and beginning of Chapter 1 (Beals 51 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/199",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: February calendar, use of Lyon (UW Ms 82 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/139",
+"@type": "sc:Manifest",
+"label": "Antiphonary fragment: Chants for Feast of St. Gregory, Vespers and Matins (Beals 42 folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/59",
+"@type": "sc:Manifest",
+"label": "Medieval Commentary on Lucan's Pharsalia, Books I and II. (Beals 20 Folio 1 verso.)
+
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/114",
+"@type": "sc:Manifest",
+"label": "Antiphonary bifolium: Chants for Office of the Dead, Vespers/Matins (Beals 54 folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/142",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Easter Sunday, Lauds (UW Ms 64 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/42",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Boethius' commentary on Aristotle's Categories, Book 4 (Beals 18 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/102",
+"@type": "sc:Manifest",
+"label": "Unidentified theological text (Beals 46 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/99",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Sequences Jocundare plebs fidelis and Virgines Egregie Virgines (Beals 43 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/128",
+"@type": "sc:Manifest",
+"label": "Psalter leaf: Psalm 35:10 to 36:17 (UW Ms 63 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/230",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Litany of the Saints. (UW Ms 96 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/18",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Gospel reading (Matthew 27: 51-66) and  offertory (Psalms 68: 21-22) for Palm Sunday mass (Beals 14 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/39",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for Thursday/Friday after Pentecost (Beals 30 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/246",
+"@type": "sc:Manifest",
+"label": "Antiphonary fragment: Chants for Feast of St. Gregory, Matins (Beals 42 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/200",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: February calendar, use of Lyon (UW Ms 82 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/6",
+"@type": "sc:Manifest",
+"label": "Psalter leaf: Psalm 48:13-21 and 49:1-12 (Beals 49 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/191",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 004: Armenian manuscript Bible, 1121 AD (UW MS 78 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/195",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 006: Miniature manuscript Bible, ca. 1240 A.D. (UW MS 80 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/202",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: St. Thomas Aquinas. Commentary on the Sentences of Peter Lombard (excerpt): Book I, Distinction 19, Question 3. (UW Ms 83 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/203",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf:  Prayer to Mary, in Middle French (UW Ms 84 recto)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/4",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Proper of the Saints July 18 - July 22. Feasts of Saints Arnulph of Metz, Margaret of Antioch, Praxides, Mary Magdalen, and Wandrille. (Beals 52 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/2",
+"@type": "sc:Manifest",
+"label": "Psalter leaf (3 of 4): Psalm 66:7 to Psalm 67:6 (Beals 21, Folio 2, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/131",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Proper of the Saints for the Feasts of St. Arnulf of Metz and Ste. Margaret of Antioch (UW MS 65 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/181",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Proper of the Saints, Feasts of St. Cyriacus and Vigil of St. Lawrence (Beals 37 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/7",
+"@type": "sc:Manifest",
+"label": "Psalter leaf: Psalms 49:12-23 and 50:1-9 (Beals 49 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/12",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 12th century: Mark 6:22-29 (Beals 10 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/106",
+"@type": "sc:Manifest",
+"label": "Lectionary leaf: Gospel readings for first Sunday after Epiphany (Beals 48 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/20",
+"@type": "sc:Manifest",
+"label": "Bible leaf with gloss, 13th century (4 of 4):  Philemon 1: 4-14 (Beals 17 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/227",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: End of Penitential Psalms and beginning of Litany of the Saints (MS 95 recto)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/13",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 12th century: Mark 7:22-26 (Beals 10 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/113",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Proper of the Seasons, Non-feast Saturdays (Matins) (Beals 53 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/55",
+"@type": "sc:Manifest",
+"label": "Bible Leaf with gloss, 13th century: Ecclesiasticus 19:8-19 (Beals 15 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/1",
+"@type": "sc:Manifest",
+"label": "Psalter leaf (2 of 4): Psalm 60:2-7 (Beals 21, Folio 1, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/120",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Chants for Easter week (Beals 58 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/19",
+"@type": "sc:Manifest",
+"label": "Bible leaf with gloss, 13th century (3 of 4): Titus 3: 10-14 and Philemon 1:1-3 (Beals 17 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/249",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for Ember Wednesday (Beals 30 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/201",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: St. Thomas Aquinas. Commentary on the Sentences of Peter Lombard (excerpt): Book I, Distinction 19, Questions 2 and 3. (UW Ms 83 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/250",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for 5th Sunday after Pentecost (Beals 30 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/5",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Proper of the Saints, July 18 - July 22. Feasts of Arnulph, Margaret of Antioch, Praxides, Mary Magdalen, Wandrille. (Beals 52 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/121",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Chants for Easter week (Beals 58 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/0",
+"@type": "sc:Manifest",
+"label": "Psalter leaf (1 of 4): Psalm 59:8-14 (Beals 21, Folio 1, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/112",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Proper of the Seasons, Non-feast Saturdays (Matins)(Beals 53 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/130",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Proper of the Saints for the Feast of St. Arnulf of Metz, July 18.  (UW MS 65 recto)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/16",
+"@type": "sc:Manifest",
+"label": "Hymnal leaf: Two chants for Finding of the Cross Feast (Beals 12 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/88",
+"@type": "sc:Manifest",
+"label": "Antiphonary leaf: Chants for Feast of the Holy Innocents, Matins (Beals 32 recto)
+
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/124",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: \"Les sept requetes de nostre Seigneur\" (UW Ms 62, Folio 1, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/98",
+"@type": "sc:Manifest",
+"label": "Gradual leaf: Sequence Jocundare plebs fidelis (Beals 43 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/152",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Collects and Readings for Passion Week and Palm Sunday (Beals 34 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/205",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Office of the Holy Spirit, Matins and Prime
+
+(UW ms 85 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/101",
+"@type": "sc:Manifest",
+"label": "Antiphonary leaf: Chants for the 4th Sunday in Lent, Lauds (Beals 44 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/125",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf:  Obsecro Te (I Beseech Thee) prayer in French (UW Ms 62, Folio 1, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/137",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Cicero's De Finibus Bonorum et Malorum (On the Ends of Good and Evil) (UW Ms 77 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/10",
+"@type": "sc:Manifest",
+"label": "Homiliary leaf: Feast of Saint Sylvester, Matins (Beals 8 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/43",
+"@type": "sc:Manifest",
+"label": "Manuscript Fragment: Excerpt from St. Augustine's Sermon 33. (Beals 19 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/3",
+"@type": "sc:Manifest",
+"label": "Psalter leaf (4 of 4): Psalm 67:6-11 (Beals 21, Folio 2, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/58",
+"@type": "sc:Manifest",
+"label": "Medieval Commentary on Lucan's Pharsalia, Books I and II.  (Beals 20 Folio 1 recto)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/151",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Collects and Readings for Passion Week Beals 34 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/240",
+"@type": "sc:Manifest",
+"label": "Antiphonary bifolium: Chants for Office of the Dead, Vespers/Matins (Beals 54 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/40",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for 4th/5th Sunday after Pentecost (Beals 30 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/127",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Continuation of the French prayer \"Recours a Marie en prevision de l’heure derniere\" (UW Ms 62, Folio 2, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/105",
+"@type": "sc:Manifest",
+"label": "Missal leaf: Proper of the Saints, Octave of the Assumption (August 15). Sequentia de Beata Maria Virgine. (Beals 47 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/82",
+"@type": "sc:Manifest",
+"label": "Bible leaf, 12th century: I Maccabees 9: 29-31 and II: 1-26 (Beals 11 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/144",
+"@type": "sc:Manifest",
+"label": "Limp vellum binding reinforced by printed paper wastesheet (Beals 31 folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/54",
+"@type": "sc:Manifest",
+"label": "Bible Leaf with gloss, 13th century: Ecclesiasticus 18:31 to 19:8 (Beals 15 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/35",
+"@type": "sc:Manifest",
+"label": "Bifolium fragment: Unidentified 14th century theological text. (Beals 25 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/77",
+"@type": "sc:Manifest",
+"label": "Legal text with commentary: Corpus Jurus Civilis, Digesta 45.1.3 – 45.1.4 \"On Verbal Obligations\" (Beals 36 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/192",
+"@type": "sc:Manifest",
+"label": "Original leaves from famous Bibles, leaf 004: Armenian manuscript Bible, 1121 A.D. (UW MS 78 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/9",
+"@type": "sc:Manifest",
+"label": "Homiliary leaf: Feast of Saint Sylvester, Matins (Beals 8 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/255",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Excerpt from Summa Hostiensis, Book 4, De Donationibus inter conjuges (Beals 22 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/314",
+"@type": "sc:Manifest",
+"label": "Part 8 of 14: Giovanni d'Andrea (ca. 1270-1348): Manuscript excerpt from Book 3: Treatise on Canon Law (Beals 23.3 Folio 1 verso)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/122",
+"@type": "sc:Manifest",
+"label": "Bible Leaf, 13th century: II Maccabees 4: 15 to 5:1 (Beals 59 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/218",
+"@type": "sc:Manifest",
+"label": "Collectar leaf: Collects (prayers) for Mass from the 9th to 15th Sunday after Pentecost (UW Ms 92 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/179",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Proper of the Saints, Feasts of St. Peter in Chains and Sts. Stephen, Nichodemus, and Gamaliel. (Beals 37 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/259",
+"@type": "sc:Manifest",
+"label": "Noted breviary leaf: Homilies and chants for Pentecost week (Beals 9 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/290",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Unidentified theological text (Beals 26 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/273",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for Monday of Passion Week (Beals 41, Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/267",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript leaf: Unidentified theological text (Beals 38 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/129",
+"@type": "sc:Manifest",
+"label": "Psalter leaf: Psalm 36:8-17 (UW Ms 63 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/143",
+"@type": "sc:Manifest",
+"label": "Limp vellum binding reinforced by printed paper wastesheet (Beals 31 folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/283",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Office of the Dead, Matins (UW Ms 90 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/214",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Ten Commandments, in Middle French (UW Ms 89 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/294",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript: Judicial decrees from an area near Rouen, France (Beals 56 Folio 4 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/304",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 13th century: Ecclesiasticus 38:23-29. (Beals 16, Folio 2, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/300",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Notary records of French land transfers from 1503 (Beals 55 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/34",
+"@type": "sc:Manifest",
+"label": "Breviary leaf, with music:  Feast of Corpus Christi, Antiphons for Lauds (Beals 24 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/303",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 13th century: Ecclesiasticus 38:29-36. (Beals 16, Folio 2, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/33",
+"@type": "sc:Manifest",
+"label": "Breviary leaf, with music: Feast of Corpus Christi, Antiphons for Lauds (Beals 24 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/275",
+"@type": "sc:Manifest",
+"label": "Noted breviary leaf: Homilies and chants for Ember Saturday (Beals 9 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/109",
+"@type": "sc:Manifest",
+"label": "Noted missal leaf: Feast of the Compassion of the  Blessed Virgin Mary (Beals 50 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/178",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Proper of the Saints, Feasts of Sts. Abdon and Sennem and St. Peter in Chains (Beals 37 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/287",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Unidentified theological text (Beals 26 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/298",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Continuation of Mass for Wednesday of the 4th Week of Lent (Beals 41, Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/299",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Notary records of French land transfers from 1503 (Beals 55 Folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/295",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 13th century: Ecclesiasticus 35:4-13. (Beals 16, Folio 1, recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/258",
+"@type": "sc:Manifest",
+"label": "Medieval Manuscript: Unidentified Theological Text (Beals 33 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/257",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Lombard, Peter. Commentary on Psalm 85. (Beals 29 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/256",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Lombard, Peter. Commentary on Psalm 85. (Beals 29 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/305",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 13th century: Ecclesiasticus 35:14-20. (Beals 16, Folio 1, verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/14",
+"@type": "sc:Manifest",
+"label": "Bible bifolium with gloss, 12th century: Mark 7:26-31 (Beals 10 Folio 2 verso)
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/208",
+"@type": "sc:Manifest",
+"label": "Breviary leaf: Feast of Corpus Christi, Matins (UW Ms 86 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/265",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Litany of the Saints (Beals 40 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/284",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Office of the Dead, Matins (UW Ms 90 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/263",
+"@type": "sc:Manifest",
+"label": "Unidentified theological commentary (Beals 28 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/277",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for Monday/Tuesday after Passion Sunday (Beals 41, Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/261",
+"@type": "sc:Manifest",
+"label": "Medieval Manuscript: Unidentified Theological Text (Beals 33 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/276",
+"@type": "sc:Manifest",
+"label": "Unidentified theological commentary (Beals 28 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/286",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript: Judicial decrees from an area near Rouen, France (Beals 56 folio 1 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/135",
+"@type": "sc:Manifest",
+"label": "Missal fragment: Mass during Passion Week (UW Ms 68 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/285",
+"@type": "sc:Manifest",
+"label": "Limp vellum binding: cover of medieval manuscript Beals 56."
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/289",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript: Judicial decrees from an area near Rouen, France (Beals 56 Folio 3 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/288",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript: Judicial decrees from an area near Rouen, France (Beals 56 Folio 1 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/260",
+"@type": "sc:Manifest",
+"label": "Book of Hours leaf: Litany of the Saints (Beals 40 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/302",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Notary records of French land transfers from 1503 (Beals 55 Folio 2 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/268",
+"@type": "sc:Manifest",
+"label": "Medieval manuscript leaf: Unidentified theological text (Beals 38 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/297",
+"@type": "sc:Manifest",
+"label": "Missal bifolium: Mass for Wednesday of the 4th Week of Lent (Beals 41, Folio 1 recto)
+
+"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/301",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf: Notary records of French land transfers from 1503 (Beals 55 Folio 2 recto)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/148",
+"@type": "sc:Manifest",
+"label": "Antiphonary leaf: Chants for Feast of the Holy Innocents, Matins (Beals 32 verso)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/321",
+"@type": "sc:Manifest",
+"label": "Manuscript bifolia: Unidentified theological text (Beals 27)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/322",
+"@type": "sc:Manifest",
+"label": "Missal bifolia: Sanctoral cycle from Dec/Jan and Feb (Beals 35)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/319",
+"@type": "sc:Manifest",
+"label": "Psalter excerpt (two contiguous bifolia): Psalms 54-57 (Beals 13)"
+},
+{
+"@id": "https://digitalcollections.lib.washington.edu/digital/iiif-info/mhm/320",
+"@type": "sc:Manifest",
+"label": "Giovanni d'Andrea (ca. 1270-1348): Manuscript excerpt from Book 3: Treatise on Canon Law (7 folios, Beals 23)"
+}
+]
+}

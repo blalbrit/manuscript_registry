@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json",
+"@id": "replace me",
 "@type": "sc:Collection",
 "label": "Manuscripts from Ohio State University",
 "viewingHint": "top",
@@ -8,432 +8,432 @@
 "attribution": "Ohio State University, Rare Books and Manuscripts Library",
 "manifests": [
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_6682x557j/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/6682x557j/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.102"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_xd07gv298/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/xd07gv298/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.104"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_dz010s06w/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/dz010s06w/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.10"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_4m90dx131/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/4m90dx131/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.2"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_jq085m59c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/jq085m59c/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.103"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_6q182m768/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/6q182m768/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.133"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_wh246t761/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/wh246t761/manifest",
 "@type": "sc:Manifest",
 "label": "Ps.-Maximus Taurinensis and Ps.-Augustine"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2801ph91r/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2801ph91r/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.30"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_kp78gj00h/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/kp78gj00h/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.107"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_0k225c46d/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/0k225c46d/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.141"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_cv43nz52r/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/cv43nz52r/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.32"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_t148fj68m/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/t148fj68m/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.31"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_1j92g9182/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/1j92g9182/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.20"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_9593tw58x/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/9593tw58x/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.1"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_v118rg391/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/v118rg391/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.131"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_j3860858g/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/j3860858g/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.135"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_nz806154z/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/nz806154z/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.33"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_c821gm40c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/c821gm40c/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.35"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_mp48sf625/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/mp48sf625/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.36"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_bz60cx95x/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/bz60cx95x/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.38"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_9p290b79c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/9p290b79c/manifest",
 "@type": "sc:Manifest",
 "label": "Giordano Ruffo"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_0k225c47p/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/0k225c47p/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.154"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_4j03d1483/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/4j03d1483/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.12"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_1c18dh59v/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/1c18dh59v/manifest",
 "@type": "sc:Manifest",
 "label": "Livy"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_hh63sx54f/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/hh63sx54f/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.121"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_s7526f00s/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/s7526f00s/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.3"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_9k41zg16n/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/9k41zg16n/manifest",
 "@type": "sc:Manifest",
 "label": "Gregory the Great"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_cr56n255h/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/cr56n255h/manifest",
 "@type": "sc:Manifest",
 "label": "Thomas Aquinas"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_n583xw874/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/n583xw874/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.44"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_1j92g919b/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/1j92g919b/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.43"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_76537286s/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/76537286s/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.42"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_st74cs24z/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/st74cs24z/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.46"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_dv13zv892/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/dv13zv892/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.123"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_3197xn71m/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/3197xn71m/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.47"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_p2676x27f/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/p2676x27f/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.28"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_cn69m570c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/cn69m570c/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.118"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_nc580p226/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/nc580p226/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.119"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_kh04dr34m/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/kh04dr34m/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.4"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_h415pc212/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/h415pc212/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.48"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_765372872/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/765372872/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.53"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_fj236374m/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/fj236374m/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.52"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_db78td50r/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/db78td50r/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.51"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_x920fz38q/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/x920fz38q/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.151"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_4t64gp60z/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/4t64gp60z/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.68"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_tb09j707w/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/tb09j707w/manifest",
 "@type": "sc:Manifest",
 "label": "Terence"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2z10wr802/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2z10wr802/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.69"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_5h73px63n/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/5h73px63n/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.49"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_js956h40v/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/js956h40v/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.50"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_jq085m61d/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/jq085m61d/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.106"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_tb09j7085/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/tb09j7085/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.21"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_47429b71w/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/47429b71w/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.129"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_x633f2648/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/x633f2648/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.120"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_df65v970g/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/df65v970g/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.73"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_sx61dn992/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/sx61dn992/manifest",
 "@type": "sc:Manifest",
 "label": "Peter Riga"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_bn9998133/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/bn9998133/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.83"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2n49t328g/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2n49t328g/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.8"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2r36v005d/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2r36v005d/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.84"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_b2773x297/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/b2773x297/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.9"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_fx719p146/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/fx719p146/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.26"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_m039k6591/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/m039k6591/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.45"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_bn999814c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/bn999814c/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.128"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_5t34sm31c/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/5t34sm31c/manifest",
 "@type": "sc:Manifest",
 "label": "Eberhard de Bethune"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_r781wh454/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/r781wh454/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.143"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_5t34sm32n/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/5t34sm32n/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.25"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_rj4306262/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/rj4306262/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.144"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_vt150k69r/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/vt150k69r/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.27"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_gx41mk45v/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/gx41mk45v/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.152"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_7p88cj21h/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/7p88cj21h/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.155"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_tx31qk343/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/tx31qk343/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.19"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_fq977w58s/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/fq977w58s/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.156"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_b2773x300/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/b2773x300/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.153"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_8g84mn78j/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/8g84mn78j/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.159"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_xd07gv32k/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/xd07gv32k/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.18"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_pv63g1711/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/pv63g1711/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.15"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2n49t329r/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2n49t329r/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.17"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_2f75r964k/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/2f75r964k/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.29"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_k35696059/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/k35696059/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.55"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_ff365706f/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/ff365706f/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.16"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_pg15bg45d/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/pg15bg45d/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.101"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_xp68kh82j/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/xp68kh82j/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.66"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_fb494b16f/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/fb494b16f/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.70"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_m613mz993/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/m613mz993/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.147"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_w95052212/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/w95052212/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.150"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_q237ht57t/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/q237ht57t/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.24"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_xd07gv319/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/xd07gv319/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.34"
 },
 {
-"@id": "https://library.osu.edu/dc/concern/generic_works/document_tt44pp38z/manifest",
+"@id": "https://library.osu.edu/dc/concern/generic_works/tt44pp38z/manifest",
 "@type": "sc:Manifest",
 "label": "RAR.MS.MR.FRAG.22"
 }

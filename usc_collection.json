@@ -1,0 +1,1136 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from the University of South Carolina, Irvin Department of Special Collections",
+"viewingHint": "top",
+"description": "Pages from the Past comprises a digital record of all the medieval manuscripts in South Carolina’s institutional archives. None of the manuscripts in private hands has been documented. A total of 118 items includes eight more or less complete codices, but most are individual leaves and cuttings. As representative samples of the medieval book, however, the South Carolina manuscripts expose an impressive range of pre-modern literacy—theological, scientific, liturgical, historical, and so forth. This website has been designed to showcase a range of texts over centuries of transmission, chiefly as an introduction to the technology and function of writing in the Middle Ages. https://digital.library.sc.edu/collections/pages-from-the-past/",
+"attribution": "Provided by the University of South Carolina, Irvin Department of Special Collections",
+"manifests": [
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/761",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/698",
+"@type": "sc:Manifest",
+"label": "Psalter (Ege 12)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/725",
+"@type": "sc:Manifest",
+"label": "Hymnal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1109",
+"@type": "sc:Manifest",
+"label": "Sermon Manual (Cistercian)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/897",
+"@type": "sc:Manifest",
+"label": "Processional"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3201",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3098",
+"@type": "sc:Manifest",
+"label": "Legendary or Passional with Selections from the Legenda Aurea"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/683",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 13)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/947",
+"@type": "sc:Manifest",
+"label": "Evangeliary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1715",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1750",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3286",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3345",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1645",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3125",
+"@type": "sc:Manifest",
+"label": "John Chrysostom, Homilies on the Psalms"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1444",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1467",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/953",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1721",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 46)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/674",
+"@type": "sc:Manifest",
+"label": "Choir Psalter (Ege 34)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3342",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/903",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3207",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1360",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1744",
+"@type": "sc:Manifest",
+"label": "Noted Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3280",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3225",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1934",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/740",
+"@type": "sc:Manifest",
+"label": "Simon of Cremona, Sermons for the Temporale"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3339",
+"@type": "sc:Manifest",
+"label": "Notarial  Register or Roll"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/662",
+"@type": "sc:Manifest",
+"label": "Gradual (Ege 27)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1430",
+"@type": "sc:Manifest",
+"label": "Papal Marriage Dispensation"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/635",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 38)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1019",
+"@type": "sc:Manifest",
+"label": "Horace, Opera (complete with the exception of three lines at the end of the Epistulae); Persius, Satirae (incomplete: I.110-II.58)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/713",
+"@type": "sc:Manifest",
+"label": "Psalter (Ege 20)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/632",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 45)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3320",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3301",
+"@type": "sc:Manifest",
+"label": "Lectionary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3252",
+"@type": "sc:Manifest",
+"label": "Petrus Riga, Aurora"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/695",
+"@type": "sc:Manifest",
+"label": "Psalter (Ege 17)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/710",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 50)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3307",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3331",
+"@type": "sc:Manifest",
+"label": "Qur'an"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/692",
+"@type": "sc:Manifest",
+"label": "Titus Livy, De Bello Punico Secundo Libri Decem (Ege 39)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/999",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/862",
+"@type": "sc:Manifest",
+"label": "Treatise on Virtues"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/578",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 36)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1730",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 6)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3259",
+"@type": "sc:Manifest",
+"label": "Gradual (cutting)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3183",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/824",
+"@type": "sc:Manifest",
+"label": "Formulary (Ars Dictaminis)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3128",
+"@type": "sc:Manifest",
+"label": "Justinian, Corpus iuris civilis (“Digest”)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3325",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/638",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 33)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/939",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Psalms)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3243",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas, Commentary on the Sentences of Peter Lombard, Book I."
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/928",
+"@type": "sc:Manifest",
+"label": "Seigneurial Records"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/596",
+"@type": "sc:Manifest",
+"label": "Breviary (Ege 24)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1486",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/915",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3219",
+"@type": "sc:Manifest",
+"label": "Gregory the Great, Homilies on Ezekiel"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1666",
+"@type": "sc:Manifest",
+"label": "Psalter (Ege 4)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/784",
+"@type": "sc:Manifest",
+"label": "Passion Sequence"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1552",
+"@type": "sc:Manifest",
+"label": "Theological Text"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/617",
+"@type": "sc:Manifest",
+"label": "Breviary (Ege 23)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/756",
+"@type": "sc:Manifest",
+"label": "Bible (Interpretation of Hebrew Names)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3274",
+"@type": "sc:Manifest",
+"label": "Collectar"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/623",
+"@type": "sc:Manifest",
+"label": "Book of Hours  (Ege 48)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3249",
+"@type": "sc:Manifest",
+"label": "Book of Hours (\"Livre de Raison\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1070",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/728",
+"@type": "sc:Manifest",
+"label": "Lectionary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/620",
+"@type": "sc:Manifest",
+"label": "Breviary (Ege 18)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1756",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3292",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/668",
+"@type": "sc:Manifest",
+"label": "Processional (Ege 21)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1052",
+"@type": "sc:Manifest",
+"label": "Psalter and Breviary (Sanctorale)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1436",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3319",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3265",
+"@type": "sc:Manifest",
+"label": "Capitulary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1678",
+"@type": "sc:Manifest",
+"label": "Commentary on the Sentences of Peter Lombard, Book I (Ege 40)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/944",
+"@type": "sc:Manifest",
+"label": "Kalendar (from a Manual)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3164",
+"@type": "sc:Manifest",
+"label": "Book of Hours (\"Livre de Raison\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3258",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Kalendar)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/936",
+"@type": "sc:Manifest",
+"label": "Breviary and Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1704",
+"@type": "sc:Manifest",
+"label": "Lectionary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3240",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3155",
+"@type": "sc:Manifest",
+"label": "Collectar"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/900",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3204",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/790",
+"@type": "sc:Manifest",
+"label": "Coronation of the Virgin (miniature)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1558",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/614",
+"@type": "sc:Manifest",
+"label": "Gradual (Ege 32)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3316",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3089",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3228",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1687",
+"@type": "sc:Manifest",
+"label": "Lectern Bible (Ege 44)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3158",
+"@type": "sc:Manifest",
+"label": "Justinian, Corpus iuris civilis (\"Digest\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/918",
+"@type": "sc:Manifest",
+"label": "Papal Encyclicals"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3222",
+"@type": "sc:Manifest",
+"label": "Collectar"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3348",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Kalendar)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3336",
+"@type": "sc:Manifest",
+"label": "St. Augustine, De civitate dei"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1351",
+"@type": "sc:Manifest",
+"label": "Martinus Polonus, Chronicon pontificum et imperatorum"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1574",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3110",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3271",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Kalendar)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1542",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1476",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1155",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Use of Sarum)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1539",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/868",
+"@type": "sc:Manifest",
+"label": "Mathematical Treatise"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/2404",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Use of Rome)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/641",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 26)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/965",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1733",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 9)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3122",
+"@type": "sc:Manifest",
+"label": "Justinian, Corpus iuris civilis (\"Digest\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3298",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1427",
+"@type": "sc:Manifest",
+"label": "Document"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/931",
+"@type": "sc:Manifest",
+"label": "Ars Nova Gloria"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3140",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1669",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 5)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1462",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/737",
+"@type": "sc:Manifest",
+"label": "Treatise on Knighthood (\"Los virtuosos varones\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1701",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3237",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3161",
+"@type": "sc:Manifest",
+"label": "Peter Lombard, Sententiae"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/769",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Use of Utrecht)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/888",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1727",
+"@type": "sc:Manifest",
+"label": "Processional (Ege 8)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3328",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3310",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3186",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3255",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/808",
+"@type": "sc:Manifest",
+"label": "Terence, Adelphoe"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3283",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3116",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3213",
+"@type": "sc:Manifest",
+"label": "Book of Hours (\"Livre de Raison\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3268",
+"@type": "sc:Manifest",
+"label": "Justinian, Corpus iuris civilis (\"Digest\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3104",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/590",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 28)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1742",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 31)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3137",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/956",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1724",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 47)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3113",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/814",
+"@type": "sc:Manifest",
+"label": "List of customary or recommended disbursements by the treasurer (\"clavari\") of a religious confraternity"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/950",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1718",
+"@type": "sc:Manifest",
+"label": "Astronomical Tables"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1129",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3119",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Kalendar)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1672",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 22)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/805",
+"@type": "sc:Manifest",
+"label": "Legenda Aurea"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/647",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 2)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1602",
+"@type": "sc:Manifest",
+"label": "Breviary (Use of Autun)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/593",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 25)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3198",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1753",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3289",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/827",
+"@type": "sc:Manifest",
+"label": "Theological Treatise on the Trinity"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3131",
+"@type": "sc:Manifest",
+"label": "Glossed Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3195",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1643",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3179",
+"@type": "sc:Manifest",
+"label": "Bible (Interpretation of Hebrew Names)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1675",
+"@type": "sc:Manifest",
+"label": "Lectionary (Ege 37)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/671",
+"@type": "sc:Manifest",
+"label": "Choir Psalter (Ege 42)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1823",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1605",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1547",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3313",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1681",
+"@type": "sc:Manifest",
+"label": "Book of Hours  (Ege 43)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1693",
+"@type": "sc:Manifest",
+"label": "Missal (Ege 49)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/665",
+"@type": "sc:Manifest",
+"label": "St. Jerome, Epistula ad Augustinum (Ege 35)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3353",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 11)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/584",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 30)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3277",
+"@type": "sc:Manifest",
+"label": "Hymnal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1736",
+"@type": "sc:Manifest",
+"label": "Psalter (Ege 10)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3304",
+"@type": "sc:Manifest",
+"label": "Breviary (Ferial Psalter)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3095",
+"@type": "sc:Manifest",
+"label": "Bartholomeus Anglicus, De proprietatibus rerum"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/781",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1663",
+"@type": "sc:Manifest",
+"label": "Lectionary (Ege 3)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/599",
+"@type": "sc:Manifest",
+"label": "Beauvais Missal (Ege 15)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1640",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3176",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3143",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/587",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Ege 29)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1739",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 19)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1648",
+"@type": "sc:Manifest",
+"label": "Glossed Bible (Ege 1)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/611",
+"@type": "sc:Manifest",
+"label": "Breviary (Ferial Psalter) (Ege 16)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1613",
+"@type": "sc:Manifest",
+"label": "Antoninus Florentinus, Summa penitentiae"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3149",
+"@type": "sc:Manifest",
+"label": "Book of Hours (\"Livre de Raison\")"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3170",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/798",
+"@type": "sc:Manifest",
+"label": "Glossed Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/778",
+"@type": "sc:Manifest",
+"label": "Glossed Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1610",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3146",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/743",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3101",
+"@type": "sc:Manifest",
+"label": "Prayer Book"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3173",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1563",
+"@type": "sc:Manifest",
+"label": "Gregory the Great, Dialogi (Ege 41)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3262",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1555",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3134",
+"@type": "sc:Manifest",
+"label": "Book of Hours (Kalendar)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/680",
+"@type": "sc:Manifest",
+"label": "Bible (Ege 14)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/885",
+"@type": "sc:Manifest",
+"label": "Missal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3189",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1571",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3107",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1626",
+"@type": "sc:Manifest",
+"label": "Decretals (Canon Law)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/906",
+"@type": "sc:Manifest",
+"label": "Bible"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3210",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1172",
+"@type": "sc:Manifest",
+"label": "Polychronicon"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3092",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/912",
+"@type": "sc:Manifest",
+"label": "Choir Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3216",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1375",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3295",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/819",
+"@type": "sc:Manifest",
+"label": "Commentary on Aristotle's De anima"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/766",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1534",
+"@type": "sc:Manifest",
+"label": "Petrus Riga, Aurora (Ege 7)"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1698",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3234",
+"@type": "sc:Manifest",
+"label": "Psalter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/793",
+"@type": "sc:Manifest",
+"label": "Gradual"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/3231",
+"@type": "sc:Manifest",
+"label": "Lectionary"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/865",
+"@type": "sc:Manifest",
+"label": "Charter"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1065",
+"@type": "sc:Manifest",
+"label": "Antiphonal"
+},
+{
+"@id": "https://digital.tcl.sc.edu/digital/iiif-info/pfp/1392",
+"@type": "sc:Manifest",
+"label": "Noted Breviary"
+}
+]
+}

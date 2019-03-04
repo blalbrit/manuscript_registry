@@ -539,6 +539,6 @@
 "first": "http://luna.library.wmich.edu/luna/servlet/iiif/collection/s/464g24/0",
 "next": "http://luna.library.wmich.edu/luna/servlet/iiif/collection/s/464g24/50",
 "@type": "sc:Collection",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/wmu_collection.json",
 "@context": "http://iiif.io/api/presentation/2/context.json"
 }

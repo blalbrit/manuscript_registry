@@ -1,0 +1,1714 @@
+{
+"attribution": "Medieval Manuscript Leaves Collection",
+"logo": "https://cudl.colorado.edu/luna/images/LUNAIIIF80.png",
+"seeAlso": [
+"https://cudl.colorado.edu/luna/servlet/view/all?sort=title,date_created&pgs=50&res=1&cic=UCBOULDERCB1~59~59"
+],
+"within": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y",
+"label": "Media Search ",
+"metadata": [
+{
+"label": "Description",
+"value": "Manifest for collection  LIMIT:UCBOULDERCB1~59~59,"
+},
+{
+"label": "Source Url",
+"value": "https://cudl.colorado.edu/luna/servlet/view/all?sort=title%2Cdate_created&pgs=50&res=1&cic=UCBOULDERCB1%7E59%7E59"
+}
+],
+"manifests": [
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427378~124873/manifest",
+"label": "[Cambridge?] Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427386~124874/manifest",
+"label": "[Cambridge?] Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428394~125000/manifest",
+"label": "[Large initial \"D.\" Spain]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428402~125001/manifest",
+"label": "[Large initial \"D.\" Spain]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427314~124865/manifest",
+"label": "[Missal, fol. 142r]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427322~124866/manifest",
+"label": "[Missal, fol. 142r]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427298~124863/manifest",
+"label": "[New Testament]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427306~124864/manifest",
+"label": "[New Testament]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428362~124996/manifest",
+"label": "[Psalter. France?]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428370~124997/manifest",
+"label": "[Psalter. France?]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427706~124914/manifest",
+"label": "Antiphonal. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427714~124915/manifest",
+"label": "Antiphonal. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427930~124942/manifest",
+"label": "Antiphonary. Germany",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427802~124926/manifest",
+"label": "Antiphonary. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427810~124927/manifest",
+"label": "Antiphonary. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428474~125010/manifest",
+"label": "Augustine",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428482~125011/manifest",
+"label": "Augustine",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427394~124875/manifest",
+"label": "Aurora",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427402~124876/manifest",
+"label": "Aurora",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095824~140876/manifest",
+"label": "Benedictional",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095836~140877/manifest",
+"label": "Benedictional",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427362~124871/manifest",
+"label": "Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427370~124872/manifest",
+"label": "Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427426~124879/manifest",
+"label": "Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427434~124880/manifest",
+"label": "Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427962~124946/manifest",
+"label": "Bible (Ezra 8: 34 - 10: 11)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427970~124947/manifest",
+"label": "Bible (Ezra 8: 34 - 10: 11)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095680~140864/manifest",
+"label": "Bible commentary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095692~140865/manifest",
+"label": "Bible commentary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428570~125022/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428578~125023/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428490~125012/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428498~125013/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428506~125014/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428514~125015/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428706~125039/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428714~125040/manifest",
+"label": "Bible leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101528~149212/manifest",
+"label": "Bible leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101529~149211/manifest",
+"label": "Bible leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428586~125024/manifest",
+"label": "Bible leaf: \"Dragon Leaf\"",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428594~125025/manifest",
+"label": "Bible leaf: \"Dragon Leaf\"",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428522~125016/manifest",
+"label": "Bible leaf: Baruch",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428530~125017/manifest",
+"label": "Bible leaf: Baruch",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428538~125018/manifest",
+"label": "Bible leaf: Beheading of the idolatrous Jew",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428546~125019/manifest",
+"label": "Bible leaf: Beheading of the idolatrous Jew",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427514~124890/manifest",
+"label": "Bible, illuminated. France. Reverse: Ezekiel 33:133:31.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427506~124889/manifest",
+"label": "Bible, illuminated. France. Reverse: Ezekiel 33:3135:3.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427466~124884/manifest",
+"label": "Bible. Judith 8:2010:2",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428114~124965/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428122~124966/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428130~124967/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428138~124968/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427946~124944/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427954~124945/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427978~124948/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427986~124949/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427994~124950/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428002~124951/manifest",
+"label": "Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428554~125020/manifest",
+"label": "Book of Hours (from Penitential Psalms)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428562~125021/manifest",
+"label": "Book of Hours (from Penitential Psalms)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428026~124954/manifest",
+"label": "Book of Hours (Office of the Dead)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428034~124955/manifest",
+"label": "Book of Hours (Office of the Dead)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428666~125034/manifest",
+"label": "Book of Hours leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428674~125035/manifest",
+"label": "Book of Hours leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101530~149210/manifest",
+"label": "Book of Hours leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101531~149209/manifest",
+"label": "Book of Hours leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101526~149206/manifest",
+"label": "Book of Hours leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101527~149213/manifest",
+"label": "Book of Hours leaf [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428602~125026/manifest",
+"label": "Book of Hours leaves",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428610~125027/manifest",
+"label": "Book of Hours leaves",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427674~124910/manifest",
+"label": "Book of Hours. England [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427682~124911/manifest",
+"label": "Book of Hours. England [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428146~124969/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428154~124970/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428162~124971/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428170~124972/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428178~124973/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428186~124974/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428194~124975/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428378~124998/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428386~124999/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427834~124930/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427842~124931/manifest",
+"label": "Book of Hours. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427738~124918/manifest",
+"label": "Book of Hours. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427746~124919/manifest",
+"label": "Book of Hours. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427754~124920/manifest",
+"label": "Book of Hours. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427762~124921/manifest",
+"label": "Book of Hours. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428202~124976/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428210~124977/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428218~124978/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428226~124979/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428234~124980/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428242~124981/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428250~124982/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428258~124983/manifest",
+"label": "Book of Hours. Italy [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427722~124916/manifest",
+"label": "Book of Hours. Northern France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427730~124917/manifest",
+"label": "Book of Hours. Northern France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096192~140908/manifest",
+"label": "Breviarium",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096204~140909/manifest",
+"label": "Breviarium",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095508~140850/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095520~140851/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096384~140926/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096396~140927/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096360~140924/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096372~140925/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095972~140888/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095984~140889/manifest",
+"label": "Breviary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427538~124893/manifest",
+"label": "Breviary, illuminated. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427546~124894/manifest",
+"label": "Breviary, illuminated. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427570~124897/manifest",
+"label": "Breviary. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427578~124898/manifest",
+"label": "Breviary. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427658~124908/manifest",
+"label": "Breviary. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427666~124909/manifest",
+"label": "Breviary. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096022~140892/manifest",
+"label": "Calendar page from Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096034~140893/manifest",
+"label": "Calendar page from Book of Hours",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095656~140862/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095668~140863/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095874~140880/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095886~140881/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096240~140916/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096252~140917/manifest",
+"label": "Canon law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095630~140860/manifest",
+"label": "Commentary on Genesis",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095643~140861/manifest",
+"label": "Commentary on Genesis",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428266~124984/manifest",
+"label": "Commentary on Job",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427898~124938/manifest",
+"label": "Commentary on the Sentences of Peter Lombard",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427906~124939/manifest",
+"label": "Commentary on the Sentences of Peter Lombard",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428410~125002/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428418~125003/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428426~125004/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428434~125005/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428442~125006/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428450~125007/manifest",
+"label": "De activa vita ac contemplativa",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095569~140855/manifest",
+"label": "De essencia divinitatis Domini et de invisibilitate et immensitate eius",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095556~140854/manifest",
+"label": "De essencia divinitatis Domini et de invisibilitate et immensitate eius",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101532~149274/manifest",
+"label": "Deed",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1101533~149273/manifest",
+"label": "Deed",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427914~124940/manifest",
+"label": "Dialogues of Gregory the Great",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427922~124941/manifest",
+"label": "Dialogues of Gregory the Great",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427490~124887/manifest",
+"label": "Ecclesiasticus 31:1935:17.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427498~124888/manifest",
+"label": "Ecclesiasticus 31:1935:17.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1097338~138024/manifest",
+"label": "English indenture",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427850~124932/manifest",
+"label": "Epistolary. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427858~124933/manifest",
+"label": "Epistolary. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096059~140895/manifest",
+"label": "Example of Humanistic miniscule script",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096046~140894/manifest",
+"label": "Example of Humanistic minuscule script",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096072~140896/manifest",
+"label": "Example of Littera Bastarda. Orationes (Book of Prayers)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096084~140897/manifest",
+"label": "Example of Littera Bastarda. Orationes (Book of Prayers)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095800~140874/manifest",
+"label": "Glossed civil law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095812~140875/manifest",
+"label": "Glossed civil law text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428690~125037/manifest",
+"label": "Gospel Book",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428698~125038/manifest",
+"label": "Gospel Book",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427410~124877/manifest",
+"label": "Gradual",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427418~124878/manifest",
+"label": "Gradual",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427770~124922/manifest",
+"label": "Gradual. Italy [Illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427778~124923/manifest",
+"label": "Gradual. Italy [Illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~505237~132712/manifest",
+"label": "Gutenberg Bible Leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~505239~132713/manifest",
+"label": "Gutenberg Bible Leaf",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427882~124936/manifest",
+"label": "History of Rome. Italy.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427890~124937/manifest",
+"label": "History of Rome. Italy.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095338~140838/manifest",
+"label": "Homilia in prologum Euangelii secundum Ioannem",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095351~140839/manifest",
+"label": "Homilia in prologum Euangelii secundum Ioannem",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427634~124905/manifest",
+"label": "Hymnal, illuminated. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427618~124903/manifest",
+"label": "Hymnal. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427626~124904/manifest",
+"label": "Hymnal. France [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428634~125030/manifest",
+"label": "Jerome's prologue to Daniel",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428642~125031/manifest",
+"label": "Jerome's prologue to Daniel",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428618~125028/manifest",
+"label": "Job on the dung heap",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428626~125029/manifest",
+"label": "Job on the dung heap",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427458~124883/manifest",
+"label": "Judith 7:118:20",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428658~125033/manifest",
+"label": "King Solomon and Rehoboam",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428650~125032/manifest",
+"label": "King Solomon and Rehoboam",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095532~140852/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095544~140853/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095582~140856/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095594~140857/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095314~140836/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095326~140837/manifest",
+"label": "Latin Bible",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095364~140840/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095376~140841/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095388~140842/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095400~140843/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427330~124867/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427338~124868/manifest",
+"label": "Lectionary",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095728~140868/manifest",
+"label": "Legal text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095740~140869/manifest",
+"label": "Legal text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095946~140886/manifest",
+"label": "Legenda Aurea",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095959~140887/manifest",
+"label": "Legenda Aurea",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428458~125008/manifest",
+"label": "Mass of the dead. Germany",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428466~125009/manifest",
+"label": "Mass of the dead. Germany",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095412~140844/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095424~140845/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428010~124952/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428018~124953/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095764~140871/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095788~140873/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096144~140904/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096156~140905/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096336~140922/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096348~140923/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095752~140870/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095776~140872/manifest",
+"label": "Missal",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427522~124891/manifest",
+"label": "Missal, Illuminated.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427530~149197/manifest",
+"label": "Missal, Illuminated.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427866~124934/manifest",
+"label": "Missal. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427874~124935/manifest",
+"label": "Missal. France",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427698~124913/manifest",
+"label": "Missal. France (Rouen)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427690~124912/manifest",
+"label": "Missal. France (Rouen) [illuminated]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427786~124924/manifest",
+"label": "Missal. Germany",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427794~124925/manifest",
+"label": "Missal. Germany",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096096~140898/manifest",
+"label": "Missale. Germany (Bavaria)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096108~140900/manifest",
+"label": "Missale. Germany (Bavaria)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096633~140899/manifest",
+"label": "Missale. Germany (Bavaria)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096645~140901/manifest",
+"label": "Missale. Germany (Bavaria)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428682~125036/manifest",
+"label": "Mutilated Bible leaf [St. Albans Abbey?]",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096168~140906/manifest",
+"label": "Notarial letter",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096180~140907/manifest",
+"label": "Notarial letter",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096120~140902/manifest",
+"label": "Notarial letter. Italy (Perugia)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096132~140903/manifest",
+"label": "Notarial letter. Italy (Perugia)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427642~124906/manifest",
+"label": "Noted Missal. Germany ( Wartburg)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427650~124907/manifest",
+"label": "Noted Missal. Germany ( Wartburg)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428274~124985/manifest",
+"label": "Office of the dead",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428282~124986/manifest",
+"label": "Office of the dead",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428290~124987/manifest",
+"label": "Office of the dead",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428298~124988/manifest",
+"label": "Office of the dead",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096312~140914/manifest",
+"label": "Philosophical text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096324~140915/manifest",
+"label": "Philosophical text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095848~140878/manifest",
+"label": "Possibly from Bede, Homiliae subditae or In Euangelium Lucae",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095861~140879/manifest",
+"label": "Possibly from Bede, Homiliae subditae or In Euangelium Lucae",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095996~140890/manifest",
+"label": "Postilla Guillermi super Epistolas et Evangelia",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096009~140891/manifest",
+"label": "Postilla Guillermi super Epistolas et Evangelia",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427938~124943/manifest",
+"label": "Psalm 12:614:1.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427346~124869/manifest",
+"label": "Psalter",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427354~124870/manifest",
+"label": "Psalter",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428306~124989/manifest",
+"label": "Psalter (?)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428314~124990/manifest",
+"label": "Psalter (?)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428322~124991/manifest",
+"label": "Psalter (?)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428330~124992/manifest",
+"label": "Psalter (?)",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427442~124881/manifest",
+"label": "Psalter, fol. 3r",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427450~124882/manifest",
+"label": "Psalter, fol. 3r",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427474~124885/manifest",
+"label": "Psalter, illuminated.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427482~124886/manifest",
+"label": "Psalter, illuminated.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427554~124895/manifest",
+"label": "Psalter, illuminated. England",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427562~124896/manifest",
+"label": "Psalter, illuminated. England",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428042~124956/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428050~124957/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428058~124958/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428066~124959/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428074~124960/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428082~124961/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428090~124962/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428098~124963/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428106~124964/manifest",
+"label": "Psalter. France.",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427602~124901/manifest",
+"label": "Psalter. Netherlands",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427610~124902/manifest",
+"label": "Psalter. Netherlands",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095460~140848/manifest",
+"label": "Religious text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095472~140849/manifest",
+"label": "Religious text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428338~124993/manifest",
+"label": "Rituale. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428346~124994/manifest",
+"label": "Rituale. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~428354~124995/manifest",
+"label": "Rituale. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095704~140866/manifest",
+"label": "Scholastic text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095716~140867/manifest",
+"label": "Scholastic text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095922~140884/manifest",
+"label": "Sermon text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095934~140885/manifest",
+"label": "Sermon text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095606~140858/manifest",
+"label": "Unidentified devotional text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095618~140859/manifest",
+"label": "Unidentified devotional text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095484~140846/manifest",
+"label": "Unidentified Latin text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095496~140847/manifest",
+"label": "Unidentified Latin text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096288~140920/manifest",
+"label": "Unidentified manuscript",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096300~140921/manifest",
+"label": "Unidentified manuscript",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096264~140918/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096276~140919/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096216~140910/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096228~140912/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096657~140911/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1096669~140913/manifest",
+"label": "Unidentified text",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095898~140882/manifest",
+"label": "Unidentified text, possibly scholastic",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~1095910~140883/manifest",
+"label": "Unidentified text, possibly scholastic",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427586~124899/manifest",
+"label": "Vulgate Bible. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427594~124900/manifest",
+"label": "Vulgate Bible. Italy",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427818~124928/manifest",
+"label": "Writings of St. Jerome",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/m/UCBOULDERCB1~59~59~427826~124929/manifest",
+"label": "Writings of St. Jerome",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+}
+],
+"total": 281,
+"startIndex": 0,
+"first": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y/0",
+"next": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y/50",
+"@type": "sc:Collection",
+"@id": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+}

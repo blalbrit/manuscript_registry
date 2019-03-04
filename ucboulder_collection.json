@@ -1709,6 +1709,6 @@
 "first": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y/0",
 "next": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y/50",
 "@type": "sc:Collection",
-"@id": "https://cudl.colorado.edu/luna/servlet/iiif/collection/s/10sl7y",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ucboulder_collection.json",
 "@context": "http://iiif.io/api/presentation/2/context.json"
 }

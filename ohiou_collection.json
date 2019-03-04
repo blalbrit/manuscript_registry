@@ -1,0 +1,1057 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Ohio University Libraries",
+"viewingHint": "top",
+"description": "The Mahn Center for Archives and Special Collections at Ohio University Libraries owns over 700 manuscript and printed leaves dating from the 8th to 20th century. The product of 19th and 20th century \"bookbreakers,\" dealers who dismembered historic texts to sell the component pages individually or in portfolios, these leaves reveal techniques and conventions of handmade book production from across the world. The first collection to be added to this digital assemblage comes from Otto F. Ege, a Cleveland-based museum curator and art history professor, who began cutting apart medieval manuscripts in the early-to-mid 20th century in order to distribute examples of fifty pages each to universities around the country. Ohio University owns set no. 5 of a total of 40 produced. These illuminated leaves, all hand-lettered on vellum, come from Western Europe and were produced over a span of 400 years. Future additions to the Manuscripts and Printed Leaves digital collection will include over 500 items from the Gilbert and Ursula Farfel Collection of Inunable and Manuscript Leaves and 154 items from Pages from the Past, a four-volume set of portfolios assembled by the New York-based Society of Foliophiles between 1927 and 1964. . https://media.library.ohio.edu/digital/collection/p15808coll19",
+"attribution": "Provided by Ohio University Libraries",
+"manifests": [
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/377",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Commentaries on Boetius, 1512 (2 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/179",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in the Netherlands, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/314",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Herball or Generall Historie of Plants by John Gerard, 1633"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/31",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a gradual created in England, early 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/143",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a gradual created in Italy, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/341",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Vocabularius Praedicantium sire Variloguus by Johannes Melber, 1488"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/135",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from an epistolary created in Italy, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/506",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Symbola Politica, middle 17th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/410",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Historia de Gentibus Septentrionalibus by Olaus Magnus, 1555"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/371",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Cassiodorus' In Psalterium Exposito, 1491"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/175",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Dialogues of Gregory the Great, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/338",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a religious work created in Germany, circa 1450"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/187",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Germany, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/299",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Tables of Lograithms for All Numbers 1 to 102,100... by William Gardiner, 1742"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/111",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Würzburg, early 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/115",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/350",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Vulgate Bible created in Venice, 1497"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/55",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in France, late 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/171",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in the Netherlands, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/195",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in the Netherlands, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/563",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Constitutiones de Jurejurando by Moses Maimonides, 1690"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/147",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Livy's History of Rome, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/245",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Tabulae Eclypsium by Johannes Winterburger, 1514"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/151",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Limoges, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/218",
+"@type": "sc:Manifest",
+"label": "Printed leaf from work containing Horace's Epodes, circa 1500"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/103",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a breviary created in France, middle 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/83",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in the Netherlands, early 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/155",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Thomas Aquinas' Comentary on the Sentences, late 15th century "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/167",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, circa 1535"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/87",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a hymnal created in France, early 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/602",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Icones Veteris Testamenti by William Pickering, 1830"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/290",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Spieghel der Schriftskonste by Jan van den Velde, 1605"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/123",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from the Writings of St. Jerome, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/437",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Roman missal created in Venice, 1576"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/199",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in Germany, 1499"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/527",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Observations on the Acts of Parliament, made by King James I to King Charles II by Sir George Mackenzie, 1686"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/629",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Vulgate Bible printed in Paris, 1558"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/3",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/398",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a book of hours created in France, 1517"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/356",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a breviary created in France, circa 1500-1550"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/533",
+"@type": "sc:Manifest",
+"label": "Printed leaf from an Irish-language Old Testament created in London, 1685"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/248",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Twelve Books of the Orations of Quintilian, 1527 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/278",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Plutarch's Lives of the Noble Grecians and Romans translated by Sir Thomas North, 1579"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/569",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a poetical work created in Iran, early 18th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/47",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Italy, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/251",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Quran created in Egypt, 16th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/163",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/75",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in England, late 13th century "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/329",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Clementis Alexandrini Opera Quae Extant, 1688"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/79",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Italy, early 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/139",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/500",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Coustumes de Touraine, 1661"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/95",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Rouen, late 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/67",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a breviary created in France, late 13th century "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/11",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in France, early 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/59",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Oxford, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/311",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Vitae et Elogia Summorum Pontif... by Dirk Ameyden, middle 17th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/15",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a lectionary created in Italy, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/326",
+"@type": "sc:Manifest",
+"label": "A plate from The Works of Virgil translated by John Dryden, 1697 (2 of 2) "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/308",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The New York Mirror and Ladies' Literary Gazette, vol. 7, edited by George Pope Morris, 1829-1830"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/183",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/63",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Beauvais, late 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/191",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Germany, early 16th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/23",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a lectionary created in Spain or southern France, middle 12th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/107",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in England, middle 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/99",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in France, late 14th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/131",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/200",
+"@type": "sc:Manifest",
+"label": "Title page, Fifty Original Leaves from Medieval Manuscripts"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/71",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a breviary created in France, late 13th century "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/293",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Bible translated by Martin Luther, 1584"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/119",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in Italy, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/39",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Aurora by Gilles Bourdin and Peter Riga, early 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/362",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Fasciculus Mirre, circa 1500 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/374",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a book of hours created in France, 1525"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/254",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Cosmographia Universalis by Sebastian Münster, 1559 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/212",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a \"Matthew Bible\" translated by John Rogers, 1551 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/91",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from an antiphonal created in Italy, early 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/233",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Macrobius' Saturnalia, 1513"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/127",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a missal created in Germany, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/7",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a New Testament with glosses by Saints Bede, Jerome, and Gregory created in Switzerland, early 12th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/332",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in France, 12th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/239",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Latin Bible created in Venice, 1478"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/632",
+"@type": "sc:Manifest",
+"label": "Plate from An Illustrated History of the Dacian Wars of the Emperor Trajan, 1616"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/344",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Fasciculus Mirre, circa 1500 (2 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/284",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Works of Josephus published by Johann Froben, 1554"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/302",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Mr. William Shakespeare's Comedies, Histories and Tragedies... (4th Folio), 1685"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/578",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Confession of Faith, Associate Reformed Church, 1799"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/440",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Four Bookes of Husbandry by Conrad Heresbach, 1596"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/242",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Virgil's Aeneid, 1517"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/236",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Hortus Sanitatis by Johannes von Cuba, 1517"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/266",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from The Shahnameh by Firdawsī, circa 17th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/260",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Collected Works of Geoffrey Chaucer edited by Thomas Spegt, 1598"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/224",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Cornucopia of Nicholas Perottus, 1513"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/230",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Chronicarum Supplementum by Jacobus Philippus Bergomensis, 1486"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/35",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Paris, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/635",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a digest of civil law by Andreas Torresanus de Asula, 1491"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/596",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Child Christopher and Goldilind the Fair by William Morris, 1895"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/19",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in Cambridge, early 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/380",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Nova Legenda Angliae, 1516"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/27",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in France, late 12th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/620",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Candidum Puritatis Lilium by Julianus Antonius "
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/347",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Gemma Vocabulorum, 1495"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/317",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Natural History Lithography by Ebenezer Emmons, 1851"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/323",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The New World of Words by Edward Phillips, 1678"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/221",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Imitation of Christ by Thomas à Kempis, 1494"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/617",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Book of Gems, the Poets and Artists of Great Britain edited by S. C. Hall, 1837"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/159",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in France, late 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/638",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Luck of the Roaring Camp by Bret Harte, 1872"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/401",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Arbor Scientiae by Ramon Llull, 1505"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/608",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Utopia by Sir Thomas More, 1937"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/269",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Ovid's Metamorphoses, 1565"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/497",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Ethico Politicorum, 1666"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/662",
+"@type": "sc:Manifest",
+"label": "Papyrus leaf fragment from Book of the Dead created in Egypt, circa 1500-1100 BCE"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/560",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Bible created in Germantown, Pennsylvania, 1776"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/383",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Commentaries on Boetius, 1512 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/467",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a book of rituals of the Anglican Church, 1639"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/476",
+"@type": "sc:Manifest",
+"label": "Etching by Jacques Callot, 1621-1631"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/614",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Fables of Aesop, with Designs on Wood by Thomas Bewick, 1823"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/43",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Vulgate Bible created in France, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/257",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Historiae Animalium vol. 4 (De Aquitilibus) by Conrad Gessner, 1555"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/539",
+"@type": "sc:Manifest",
+"label": "\"The Wandering Nymph,\" a plate from a collection of stipple engravings by C. Taylor, 1786"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/51",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a psalter created in Germany, middle 13th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/275",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Cosmographia Universalis by Sebastian Münster, 1559 (2 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/644",
+"@type": "sc:Manifest",
+"label": "Printed leaf from the Justinian Code, 1602"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/470",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a King James Bible, 1612"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/626",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Portraits et Vies des Hommes Illustres by André Thevet, 1584"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/530",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Medalische Historie der Republyk van Holland by Pierre Bizot, 1690"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/605",
+"@type": "sc:Manifest",
+"label": "\"Wilson's Petrel - Mother Carey's Chicken,\" a plate from The Quadrupeds by John James Audubon, 1856"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/548",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Il Malmantile Racquistato by Lorenzo Lippi, 17th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/650",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from an antiphonal created in Spain, circa 17th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/518",
+"@type": "sc:Manifest",
+"label": "\"Matthæi XXVI,\" a plate from a miniature Bible created in Frankfurt, 1664"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/422",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Commentariorum in Ordinationes Regias Castellae, 1574"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/272",
+"@type": "sc:Manifest",
+"label": "Printed leaf from A Guide to Tongues by John Minsheu, 1617"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/353",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Stultefera Navis by Sebastian Brant, 1498"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/623",
+"@type": "sc:Manifest",
+"label": "Printed leaf from the Nuremberg Chronicle, 1493"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/581",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a missal created in Paris, 1858"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/335",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a book of hours created in the Netherlands, middle 15th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/434",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Symolicarum Quaestionum de Universo Genere by Achille Bocchi, 1574"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/206",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a work containing De Vita Sana by Marsilio Ficino, 1516"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/551",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Anacreon, Bion, and Moschus, 1791"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/209",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Twelve Books of the Orations of Quintilian, 1527 (2 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/554",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Sonnets of Anton Maria Salvini, 1728"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/452",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Hieroglyphica by Archibald Simson, 1622-1623"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/653",
+"@type": "sc:Manifest",
+"label": "\"Aurora Borealis,\" a plate from Physica Sacra by Johann Scheuchzer, 1731"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/389",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Opus Trivium by John de Bromyarde, 1500"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/677",
+"@type": "sc:Manifest",
+"label": "Stone cylindrical seal created in Amlash,  circa 1700 BCE"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/263",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The History of His Own Times by Paolo Giovio, 1553"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/575",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Iliad, 1810"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/473",
+"@type": "sc:Manifest",
+"label": "Printed leaf from an English-language New Testament created in Antwerp, 1600"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/287",
+"@type": "sc:Manifest",
+"label": "Printed leaf from A Catholike and Ecclesiasticall Exposition of the Holy Gospell after S. John, translated by Thomas Tymme, 1575"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/368",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from Los Virtuosos Varones, circa 1450"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/590",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Godey's Ladies Book, 1860"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/425",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Latin Bible created in London, 1580"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/641",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Infortiatum de Tortis, 1495"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/416",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a work on Euclid by Niccolò Tartaglia, 1565"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/566",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Doctrines And Discipline 
+of the Methodist Episcopal Church, 1792"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/395",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Postille Majores cum Questionibus by Pierre Balli, 1525"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/449",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Annalles of Elizabeth by William Camden, 1625"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/305",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Works of Virgil translated by John Dryden, 1697 (1 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/428",
+"@type": "sc:Manifest",
+"label": "Printed leaf from the Liber Sextus of Pope Boniface VIII, 1572"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/479",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Statutes of Ireland, 1621"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/572",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Lessons of the Protestant Episcopal Church, 1798"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/464",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Book of European Travels by George Sandys, 1615"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/281",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Anatome Corporis Humani by Juan Valverde de Amusco, 1556"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/659",
+"@type": "sc:Manifest",
+"label": "\"Viola tricolor,\" a plate from Flora Londinensis by William Curtis, 1773"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/431",
+"@type": "sc:Manifest",
+"label": "Printed leaf from the Sermons of John Calvin, translated by Arthur Golding, 1583"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/545",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Parliamentary Acts Passed During the Reign of William III, circa 1695-1698"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/512",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Workes of Benjamin Jonson, 1640"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/593",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Horace's Opera Omnia, 1828"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/536",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a collection of Persian poets, including Sanāʼī al-Ghaznavī, Niẓāmī Ganjavī, Saʻdī and Hafer, early 19th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/443",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Estatutos Generales de Barcelona, 1585"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/542",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Complete Measurer by William Hawney, 1785"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/215",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a \"Matthew Bible\" translated by John Rogers, 1551 (2 of 2)"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/407",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Hebrew Bible created in France, 1544"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/557",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Works of Shakespeare, 1796"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/203",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Fasciculus Temporum by Werner Rollewinck, 1485"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/656",
+"@type": "sc:Manifest",
+"label": "Printed leaf from the Commentaries of Bartolus de Saxoferrato, 1521"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/491",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Torah created in Switzerland, 1617-8"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/392",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Chronicon of Sigebert of Gembloux, 1513"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/227",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Postilla Super Psalterium by Hugh of Saint-Cher, 1498"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/584",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Book of Wisdom and Lies by Oiver Wardrop, 1894"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/515",
+"@type": "sc:Manifest",
+"label": "Printed leaf from an Increase Mather sermon, 1685"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/647",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a Paritta created in Myanmar, September, 1875"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/359",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Propositiones ex Omnibus Libris Aristotelis Collectae edited by Teofilo da Cremona, 1493"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/320",
+"@type": "sc:Manifest",
+"label": "Printed leaf from De Indiae Utriusque re Naturali et Medica by Willem Piso, 1658"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/413",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Salisbury Cathedral portiforium, 1555"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/599",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Gallery of English and American Poets, 1859"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/455",
+"@type": "sc:Manifest",
+"label": "Printed leaf from A Display of Heraldrie by John Guillim, 1638"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/509",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Numisatumantiquorum by Ezechiel Spanheim, 1671"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/488",
+"@type": "sc:Manifest",
+"label": "Printed leaf from The Life of Jesus Christ, translated by Ludolf von Sachsen, 1618"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/386",
+"@type": "sc:Manifest",
+"label": "Printed leaf from an illustrated Bible created in France, 1540"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/611",
+"@type": "sc:Manifest",
+"label": "Plate from Tales Founded on the Plays of Shakespeare by Charles and Mary Lamb, 1909"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/503",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Iconologia of Cesare Ripa of Perugia, 1669"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/587",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Murray's English Grammar by Lindley Murray, 1856"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/296",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Lucan's Pharsalia, 1760"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/494",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Vulgate Bible created in Venice, 1669"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/482",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Vulgate Bible created in Antwerp, 1628"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/461",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Anatomy of Melancholy by Robert Burton, 1632"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/485",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a work on France published by the Elzevir family, 1626"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/673",
+"@type": "sc:Manifest",
+"label": "Stone scarab seal created in Egypt, circa 1000 BCE"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/458",
+"@type": "sc:Manifest",
+"label": "Printed leaf from History of Savoy published by the Elzevir family, 1634"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/365",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from a breviary, circa 1490"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/524",
+"@type": "sc:Manifest",
+"label": "Printed leaf from a Greek-language New Testament created in Amsterdam, 1678"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/404",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Text of the Opinions of Master Pietrus Lombardus, 1527"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/446",
+"@type": "sc:Manifest",
+"label": "Manuscript leaf from an anti-Catholic work created in Germany, 1551"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/521",
+"@type": "sc:Manifest",
+"label": "Printed leaf from Empresas Politicas, 1640"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/419",
+"@type": "sc:Manifest",
+"label": "Printed leaf from an English book of laws, 1559"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/665",
+"@type": "sc:Manifest",
+"label": "Papyrus leaf fragment created in Middle East, 9th century"
+},
+{
+"@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/680",
+"@type": "sc:Manifest",
+"label": "Papyrus leaf fragment created in Greece, circa 100 BCE-100 CE"
+}
+]
+}

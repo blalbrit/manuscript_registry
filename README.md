@@ -1,5 +1,6 @@
 # IIIF Manuscripts - Collection Registry
 ## California
+* The Huntington Library
 * Loyola Marymount University
 * Stanford University
 ## Missouri

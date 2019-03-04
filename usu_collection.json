@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Utah State University Libraries",
+"viewingHint": "top",
+"description": "This beautiful illuminated De Villers Book of Hours created in France during the late fifteenth century is a prayer book intended for use by lay persons to recite daily the Divine Office, a complicated series of prayers that changes daily.  The manuscript includes family genealogy added by one of its many owners notes on the marriage, and on the birth and baptism of the children of Pierre de Villers and Jeanne de Chissiret, 1603-1621 in French. In addition to acting as a repository of the style and iconography of French fifteenth-century illumination, the book's rich decorative program and varied textual content provide a remarkable document of contemporary devotional piety.  The original manuscript was given to USU libraries by L. Boyd and Anne McQuarrie Hatch. http://digital.lib.usu.edu/cdm/landingpage/collection/devillers",
+"attribution": "Provided by Utah State University Libraries",
+"manifests": [
+{
+"@id": "http://digital.lib.usu.edu/digital/iiif-info/devillers/295",
+"@type": "sc:Manifest",
+"label": "De Villers Book of Hours"
+}
+]
+}

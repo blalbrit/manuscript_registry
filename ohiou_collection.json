@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiou_collection.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from Ohio University Libraries",
 "viewingHint": "top",
@@ -785,8 +785,7 @@
 {
 "@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/566",
 "@type": "sc:Manifest",
-"label": "Printed leaf from The Doctrines And Discipline 
-of the Methodist Episcopal Church, 1792"
+"label": "Printed leaf from The Doctrines And Discipline of the Methodist Episcopal Church, 1792"
 },
 {
 "@id": "https://media.library.ohio.edu/digital/iiif-info/p15808coll19/395",

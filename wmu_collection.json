@@ -1,0 +1,544 @@
+{
+"attribution": "Medieval Document Collection",
+"logo": "http://luna.library.wmich.edu/luna/images/LUNAIIIF80.png",
+"seeAlso": [
+"http://luna.library.wmich.edu/luna/servlet/view/all;JSESSIONID=2a23bb31-d533-40ac-b01d-6e6f3af98ed9?sort=Manuscript_Identifier,Resource_Identifier,Title,Date_Original&pgs=50&res=1&cic=WMUwmu~77~77"
+],
+"within": "http://luna.library.wmich.edu/luna/servlet/iiif/collection/s/464g24",
+"label": "Media Search ",
+"metadata": [
+{
+"label": "Description",
+"value": "Manifest for collection  LIMIT:WMUwmu~77~77,"
+},
+{
+"label": "Source Url",
+"value": "http://luna.library.wmich.edu/luna/servlet/view/all;JSESSIONID=2a23bb31-d533-40ac-b01d-6e6f3af98ed9?sort=Manuscript_Identifier%2CResource_Identifier%2CTitle%2CDate_Original&pgs=50&res=1&cic=WMUwmu%7E77%7E77"
+}
+],
+"manifests": [
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~834899~140684/manifest",
+"label": "Antiphonarium Cisterciense",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222435~159493/manifest",
+"label": "MS 001, fol. 143v-144r",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222436~159492/manifest",
+"label": "MS 006, girdle binding",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222437~159491/manifest",
+"label": "MS 017, vol. 2, fol. 3",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~145425~104865/manifest",
+"label": "MS 20, fol. 1r",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~826801~140430/manifest",
+"label": "Prayer Book for Nuns",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222438~159490/manifest",
+"label": "Breviarium Cisterciensis",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222439~159489/manifest",
+"label": "Breviarium Cisterciensis",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222441~159487/manifest",
+"label": "Roomsch Martelaer Boeck",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222221~152902/manifest",
+"label": "MS 108, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222251~152903/manifest",
+"label": "MS 108, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222423~156645/manifest",
+"label": "MS 109",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876108~142045/manifest",
+"label": "MS 110, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876137~142046/manifest",
+"label": "MS 110, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876166~142047/manifest",
+"label": "MS 111, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876196~142048/manifest",
+"label": "MS 111, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876226~142329/manifest",
+"label": "MS 112, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876257~142330/manifest",
+"label": "MS 112, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222281~152896/manifest",
+"label": "MS 113, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222304~152897/manifest",
+"label": "MS 113, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876288~142051/manifest",
+"label": "MS 114, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876318~142052/manifest",
+"label": "MS 114, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222327~152898/manifest",
+"label": "MS 115, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222358~152899/manifest",
+"label": "MS 115, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876348~142053/manifest",
+"label": "MS 116, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876379~142054/manifest",
+"label": "MS 116, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222424~156646/manifest",
+"label": "MS 117",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876410~142055/manifest",
+"label": "MS 118, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876440~142056/manifest",
+"label": "MS 118, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876470~142057/manifest",
+"label": "MS 119, leaf 1, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876501~142058/manifest",
+"label": "MS 119, leaf 1, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876532~142059/manifest",
+"label": "MS 119, leaf 2, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876563~142060/manifest",
+"label": "MS 119, leaf 2, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876594~142331/manifest",
+"label": "MS 120, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876625~142332/manifest",
+"label": "MS 120, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876656~142063/manifest",
+"label": "MS 121, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876685~142064/manifest",
+"label": "MS 121, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876714~142065/manifest",
+"label": "MS 122, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876743~142066/manifest",
+"label": "MS 122, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876772~142083/manifest",
+"label": "MS 123, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876801~142084/manifest",
+"label": "MS 123, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876830~142067/manifest",
+"label": "MS 124, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876861~142068/manifest",
+"label": "MS 124, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876892~142069/manifest",
+"label": "MS 125, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876920~142070/manifest",
+"label": "MS 125, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876948~142071/manifest",
+"label": "MS 126, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876979~142072/manifest",
+"label": "MS 126, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877010~142073/manifest",
+"label": "MS 127, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877041~142074/manifest",
+"label": "MS 127, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~875834~142037/manifest",
+"label": "MS 141, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~875865~142038/manifest",
+"label": "MS 141, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~143012~104863/manifest",
+"label": "MS 142, partially unrolled",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~143038~104864/manifest",
+"label": "MS 142, unrolled",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~875896~142039/manifest",
+"label": "MS 142, part 1",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~875932~142040/manifest",
+"label": "MS 142, part 2",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~875968~142041/manifest",
+"label": "MS 142, part 3",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876004~142042/manifest",
+"label": "MS 142, part 4",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877072~142075/manifest",
+"label": "MS 143, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877102~142076/manifest",
+"label": "MS 143, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222426~156842/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222427~156843/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222389~152900/manifest",
+"label": "MS 146, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222422~152901/manifest",
+"label": "MS 146, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222432~159481/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222433~159480/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222434~159486/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222428~159485/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222429~159484/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222430~159483/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222431~159482/manifest",
+"label": "Illuminirbüch, künstlich",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876040~142043/manifest",
+"label": "MS 148, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~876074~142044/manifest",
+"label": "MS 148, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222425~156647/manifest",
+"label": "MS 149",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877132~142077/manifest",
+"label": "MS 150, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877162~142078/manifest",
+"label": "MS 150, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877192~142079/manifest",
+"label": "MS 151, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877224~142080/manifest",
+"label": "MS 151, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877256~142081/manifest",
+"label": "MS 152, recto",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~877286~142082/manifest",
+"label": "MS 152, verso",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222442~159514/manifest",
+"label": "MS 170",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222443~159732/manifest",
+"label": "MS 173",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~1222440~159488/manifest",
+"label": "MS 66, part III, fol. 143v",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~835180~140685/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~835126~140686/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~835207~140687/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+},
+{
+"@id": "http://luna.library.wmich.edu/luna/servlet/iiif/m/WMUwmu~77~77~835153~140688/manifest",
+"label": "Unknown",
+"@type": "sc:Manifest",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+}
+],
+"total": 87,
+"startIndex": 0,
+"first": "http://luna.library.wmich.edu/luna/servlet/iiif/collection/s/464g24/0",
+"next": "http://luna.library.wmich.edu/luna/servlet/iiif/collection/s/464g24/50",
+"@type": "sc:Collection",
+"@id": "replace",
+"@context": "http://iiif.io/api/presentation/2/context.json"
+}

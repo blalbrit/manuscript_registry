@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Ohio Wesleyan University Libraries",
+"viewingHint": "top",
+"description": "Ohio Wesleyan University Special Collections houses several manuscripts from the Middle Ages and early printed books from the 15th century that were donated from the collection of the Rev. Frank B. Gunsaulus, Methodist preacher and alumnus, for the purpose of contemplation and study by the university’s students. http://cdm15963.contentdm.oclc.org/cdm/landingpage/collection/p15963coll42",
+"attribution": "Provided by Ohio Wesleyan University Libraries",
+"manifests": [
+{
+"@id": "https://cdm15963.contentdm.oclc.org/digital/iiif-info/p15963coll42/66",
+"@type": "sc:Manifest",
+"label": "Festive Collectarium Of Abbot Sigismund de Fulchini(s) of the Cistercian Abbey of Santa Maria Vallis Serena, diocese of Parma, Italy"
+}
+]
+}

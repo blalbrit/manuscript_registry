@@ -1,4 +1,4 @@
-# IIIF Manuscripts - Collection Registry
+# IIIF Medieval Manuscripts - Collection Registry
 ## California
 * The Huntington Library
 * Loyola Marymount University

@@ -12,7 +12,7 @@
 ## Ohio
 * Ohio State University Rare Books & Manuscripts Library: [osu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json)
 * Ohio University Libraries: [ohiou_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiou_collection.json)
-* Ohio Wesleyan University: [ohiowesleyan_connection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)
+* Ohio Wesleyan University: [ohiowesleyan_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)
 ## Oregon
 * University of Portland, Clark Library: [up_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/up_collection.json)
 ## South Carolina

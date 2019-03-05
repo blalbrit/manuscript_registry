@@ -15,6 +15,8 @@
 * Ohio Wesleyan University: [ohiowesleyan_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)
 ## Oregon
 * University of Portland, Clark Library: [up_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/up_collection.json)
+## Pennsylvania
+* University of Scranton: [scranton_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/scranton_collection.json)
 ## South Carolina
 * University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json)
 ## Utah

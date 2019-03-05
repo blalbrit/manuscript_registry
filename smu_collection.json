@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/smu_collection.json",
 "@type": "sc:Collection",
 "label": "Incunabula from Southern Methodist University, Bridwell Library",
 "viewingHint": "top",

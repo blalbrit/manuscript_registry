@@ -22,7 +22,7 @@
 * University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json)
 ## Texas
 * Southern Methodist University, Bridwell Library - single images from incunabula, not complete books: [smu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/smu_collection.json)
-* Trinity University, Coates Library: [trinity_collection.json]()
+* Trinity University, Coates Library: [trinity_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/trinity_collection.json)
 ## Utah
 * Utah State University: [usu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usu_collection.json)
 ## Washington

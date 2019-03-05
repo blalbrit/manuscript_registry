@@ -1,0 +1,191 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from The University of Scranton",
+"viewingHint": "top",
+"description": "This collection contains leaf fragments from over 30 different medieval manuscripts ranging in date from the 12th century through the 15th century. http://digitalservices.scranton.edu/cdm/leaves/collection/medieval/",
+"attribution": "Provided by The University of Scranton",
+"manifests": [
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/122",
+"@type": "sc:Manifest",
+"label": "Leaf from an Antiphonal"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/33",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Book of Hours"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/116",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Book of Hours"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/143",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Psalter"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/55",
+"@type": "sc:Manifest",
+"label": "Leaves from a Noted Breviary or Antiphonal"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/113",
+"@type": "sc:Manifest",
+"label": "Leaves from a German Missal"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/86",
+"@type": "sc:Manifest",
+"label": "Leaf from a Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/92",
+"@type": "sc:Manifest",
+"label": "Decorative leaf from a Portable Antiphonal"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/83",
+"@type": "sc:Manifest",
+"label": "Leaf from the Dialogues of Gregory the Great"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/45",
+"@type": "sc:Manifest",
+"label": "Leaf from a Bible"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/134",
+"@type": "sc:Manifest",
+"label": "Leaf from a Missal"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/61",
+"@type": "sc:Manifest",
+"label": "Leaf from a Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/48",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Psalter"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/128",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Book of Hours"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/89",
+"@type": "sc:Manifest",
+"label": "Illuminated leaf from a Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/64",
+"@type": "sc:Manifest",
+"label": "Leaf from a Bible"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/75",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/95",
+"@type": "sc:Manifest",
+"label": "Leaf from a Bible"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/67",
+"@type": "sc:Manifest",
+"label": "Leaf from Justinian's Corpus juris civilis ('Digest')"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/80",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaves from a Ferial Psalter and Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/107",
+"@type": "sc:Manifest",
+"label": "Bifolium from a Decorated Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/131",
+"@type": "sc:Manifest",
+"label": "Leaf from a Capitulary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/119",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Book of Hours"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/72",
+"@type": "sc:Manifest",
+"label": "Leaves from a Commentary on the New Testament"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/104",
+"@type": "sc:Manifest",
+"label": "Illuminated Leaf from a Psalter"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/39",
+"@type": "sc:Manifest",
+"label": "Leaf from a Bible (Proverbs)"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/98",
+"@type": "sc:Manifest",
+"label": "Leaf of Folio 89 from Canon Law (Decretals)"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/58",
+"@type": "sc:Manifest",
+"label": "Bifolium from Peter Lombard's Sententiae"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/101",
+"@type": "sc:Manifest",
+"label": "Leaf from a Breviary"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/36",
+"@type": "sc:Manifest",
+"label": "Leaf from the Bible"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/110",
+"@type": "sc:Manifest",
+"label": "Leaf from an Interpretation of Hebrew Names"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/30",
+"@type": "sc:Manifest",
+"label": "Leaves from a Grammatical Treatise"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/42",
+"@type": "sc:Manifest",
+"label": "Leaf from a Psalter"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/125",
+"@type": "sc:Manifest",
+"label": "Leaf from a Book of Hours"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/140",
+"@type": "sc:Manifest",
+"label": "Leaf from Das Catholische Bibell"
+},
+{
+"@id": "http://digitalservices.scranton.edu/digital/iiif-info/medieval/137",
+"@type": "sc:Manifest",
+"label": "Pocket Bible Manuscript Leaf"
+}
+]
+}

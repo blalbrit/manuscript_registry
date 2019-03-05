@@ -19,6 +19,8 @@
 * University of Scranton: [scranton_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/scranton_collection.json)
 ## South Carolina
 * University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json)
+## Texas
+* Southern Methodist University, Bridwell Library: [smu_collection.json]()
 ## Utah
 * Utah State University: [usu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usu_collection.json)
 ## Washington

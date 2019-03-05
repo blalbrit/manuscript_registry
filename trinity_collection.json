@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Trinity University, Coates Library",
+"viewingHint": "top",
+"description": "Coates Library Special Collections is home to a variety of early books and manuscripts, dating from the medieval and early modern period. https://cdm16264.contentdm.oclc.org/digital/collection/p16264coll11",
+"attribution": "Provided by Trinity University, Coates Library",
+"manifests": [
+{
+"@id": "https://cdm16264.contentdm.oclc.org/digital/iiif-info/p16264coll11/203",
+"@type": "sc:Manifest",
+"label": "Dominican Gradual"
+}
+]
+}

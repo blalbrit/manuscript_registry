@@ -1,0 +1,5526 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Incunabula from Southern Methodist University, Bridwell Library",
+"viewingHint": "top",
+"description": "Special Collections holds more than 1,090 incunables, books printed in Europe with moveable type before 1501. The majority of these are in the fields of theology, classical literature, history, and philosophy. More than one-third of these titles are the first printed editions or the first translations of the texts. Nine languages are represented, and more than 60 different printing towns. More than 120 of the editions include woodcut illustrations, and approximately 160 copies retain their fifteenth-century bindings. All are available for study in Bridwell Library’s Decherd Turner Reading Room. https://www.smu.edu/libraries/digitalcollections/brinc",
+"attribution": "Provided by Southern Methodist University, Bridwell Library",
+"manifests": [
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4985",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Dialogorum libri quattuor."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5369",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1495. Biblia latina.  Vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5753",
+"@type": "sc:Manifest",
+"label": "Pius II, Pope. De duobus amantibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4756",
+"@type": "sc:Manifest",
+"label": "Petrarca. Trionfi e Canzoniere."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5140",
+"@type": "sc:Manifest",
+"label": "Peraudi, Raimundus. [Indulgence]. Indulgentia 1490."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5524",
+"@type": "sc:Manifest",
+"label": "Fiocco. De romanorum magistratibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4787",
+"@type": "sc:Manifest",
+"label": "Seneca. Opera philosophica, epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5555",
+"@type": "sc:Manifest",
+"label": "Guido de Monte Rochen. Manipulus curatorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4922",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Tractatus de periculis contigentibus circa sacramentum eucharistiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5306",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5690",
+"@type": "sc:Manifest",
+"label": "Meditationes de Jesu Christi. Meditationes de vita e beneficiis Jesu Christi, sive Gratiarum actiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4730",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum LXXIX (80) 'Qui regis Israel'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5114",
+"@type": "sc:Manifest",
+"label": "Basinus, Bernardus. De magicis artibus et magorum maleficiis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5498",
+"@type": "sc:Manifest",
+"label": "Dionysius Areopagita. De mystica theologia; De divinis nominibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4949",
+"@type": "sc:Manifest",
+"label": "Augustine. Opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5333",
+"@type": "sc:Manifest",
+"label": "Balthasar de Porta. Expositio canonis missae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5717",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. Praeceptorium divinae legis sive Expositio decalogi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4870",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in primum librum Sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5254",
+"@type": "sc:Manifest",
+"label": "Andreae, Johannes. Super arboribus consanguinitatis, affinitatis et cognationis spiritualis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5638",
+"@type": "sc:Manifest",
+"label": "Johannes de Verdena. Sermones 'Dormi secure' de tempore"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5018",
+"@type": "sc:Manifest",
+"label": "Saliceto, Nicolaus de. Liber meditationum ac orationum deuotarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5402",
+"@type": "sc:Manifest",
+"label": "Boniface VIII, Pope. Liber sextus decretalium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4907",
+"@type": "sc:Manifest",
+"label": "Augustine. Epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5291",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5675",
+"@type": "sc:Manifest",
+"label": "Mancinelli. Epitoma seu regulae constructionis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4979",
+"@type": "sc:Manifest",
+"label": "Terentius Afer, Publius. Comodiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5363",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1501. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5747",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1479. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4717",
+"@type": "sc:Manifest",
+"label": "Savonarola. Compendium di revelatione."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5101",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin. Imitatio Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5485",
+"@type": "sc:Manifest",
+"label": "Cyprianus, St.. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5023",
+"@type": "sc:Manifest",
+"label": "Leonardus Matthaei de Utino. Sermones de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5407",
+"@type": "sc:Manifest",
+"label": "Brenta. Caesaris oratio Vesontione habita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4891",
+"@type": "sc:Manifest",
+"label": "Augustine. Opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5275",
+"@type": "sc:Manifest",
+"label": "Appianus. Historia Romana Part II"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5659",
+"@type": "sc:Manifest",
+"label": "Leonardus Matthaei de Utino. Sermones de sanctis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4946",
+"@type": "sc:Manifest",
+"label": "Mohammed Rhasis. Liber nonus ad Almansorem."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5330",
+"@type": "sc:Manifest",
+"label": "Baduarius. Oratio ad Alexandrum VI in praestanda Venetorum obedientia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5714",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Repertorium in postillam Nicolai de Lyra super Vetus et Novum Testamentum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4822",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. De corpore Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5206",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi [German] . Die wahre Nachfolgung Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5590",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4737",
+"@type": "sc:Manifest",
+"label": "Savonarola. Mysterio della croce."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5121",
+"@type": "sc:Manifest",
+"label": "Paulus Venetus. Expositio super ocot libros Physicorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5505",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quodlibeta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4981",
+"@type": "sc:Manifest",
+"label": "Geradus de Zutphania. De spiritualibus ascencionibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5365",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1480. Biblia latina cum glossa ordinaris Walfridi Strabonis aliorumque et interlinerai Anselmi Laudunensis.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5749",
+"@type": "sc:Manifest",
+"label": "Curtius Rufus, Quintus. Historiae Alexandri Magni [Italian]."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4757",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV, Parts I-II."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5141",
+"@type": "sc:Manifest",
+"label": "Catharina Senensis. Liber divinae doctrina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5525",
+"@type": "sc:Manifest",
+"label": "Laetus, Pomponius. De Romanorum magistratibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5026",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1483. Biblia Latina. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5410",
+"@type": "sc:Manifest",
+"label": "Poggius, Florentinus  (Bracciolini). Historia Fiorentina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4958",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. Sermones de tempore et de sanctisn cum quadragesimali."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5342",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5726",
+"@type": "sc:Manifest",
+"label": "Ovid. Epistolae Heroides"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4724",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola a tutti gli eletti di Dio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5108",
+"@type": "sc:Manifest",
+"label": "Balthasar de Porta. Conclusiones contra Bohemorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5492",
+"@type": "sc:Manifest",
+"label": "Defensorium. Defensorium fidei dialogos septem contra Judaeos, haereticos et Sarracenos contines"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4761",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Orationes cum quibusdam aliis eiusdem operibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5145",
+"@type": "sc:Manifest",
+"label": "Valla, Laurentius. Elegantiae linguae latinae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5045",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale defecerunt."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5429",
+"@type": "sc:Manifest",
+"label": "Berchorius, Petrus. Liber Bibliae moralis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4786",
+"@type": "sc:Manifest",
+"label": "Seneca. Opera philosophica, epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5170",
+"@type": "sc:Manifest",
+"label": "Pius II, Pope. Epistola ad Mahumetem."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5554",
+"@type": "sc:Manifest",
+"label": "Gritsch, Johannes. Quadragesimale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4816",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa theologicae, pars secunda, prima pars ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5200",
+"@type": "sc:Manifest",
+"label": "Tritheim, Johann. Oratio de duodecim excidiis observantiae regularis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5584",
+"@type": "sc:Manifest",
+"label": "Hugo of Saint-Victor. Didascalon et alia opuscula"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4900",
+"@type": "sc:Manifest",
+"label": "Capreolus, Johannes. Questiones in IV libros Sententiarum, vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5284",
+"@type": "sc:Manifest",
+"label": "Asconius Pedianus, Quintus. Commentarii in orationes Ciceronis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5668",
+"@type": "sc:Manifest",
+"label": "Ludovicus Imolensis. Oratio in die Stephani habita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5025",
+"@type": "sc:Manifest",
+"label": "Augustine. De vita christiana."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5409",
+"@type": "sc:Manifest",
+"label": "Bruni. Historiae Florentini populi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4743",
+"@type": "sc:Manifest",
+"label": "Savonarola. Predica fatta ad di 25 Febbraio 1497."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5127",
+"@type": "sc:Manifest",
+"label": "Legenda. Legenda de sancto Faustino e Iouita."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5511",
+"@type": "sc:Manifest",
+"label": "Ephrem Syrus. Sermones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4915",
+"@type": "sc:Manifest",
+"label": "Hyginus. Poeticon astronomicon."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5299",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5683",
+"@type": "sc:Manifest",
+"label": "Marlianus. Oratio habita apud Innocentium VIII"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5006",
+"@type": "sc:Manifest",
+"label": "Busti, Bernadus de. Rosarium sermonum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5390",
+"@type": "sc:Manifest",
+"label": "Boccaccio, Giovanni. De Montibus, Silvis, Fontibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5774",
+"@type": "sc:Manifest",
+"label": "De puritate conceptionis beate Marie virginis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4751",
+"@type": "sc:Manifest",
+"label": "Petrarca. Epistolae familiares."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5135",
+"@type": "sc:Manifest",
+"label": "Bertholdus. Horologium devotionis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5519",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). Chronicon"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4826",
+"@type": "sc:Manifest",
+"label": "Tortellius, Johannes. Orthographia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5210",
+"@type": "sc:Manifest",
+"label": "Schedel. Liber chronicarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5594",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4853",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Meditationes vitae Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5237",
+"@type": "sc:Manifest",
+"label": "Aben Ezra, Abraham. De Nativitatibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5621",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Quadragesimales de sanctis. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4793",
+"@type": "sc:Manifest",
+"label": "Scriptores rei rusticae. Scriptores rei rusticae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5177",
+"@type": "sc:Manifest",
+"label": "Johannes de Verdena. Sermones 'Dormi secure' de tempore."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5561",
+"@type": "sc:Manifest",
+"label": "Hierocles. In aureos versus Pythagorae opusculum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4881",
+"@type": "sc:Manifest",
+"label": "Ockam, William of. De sacramento altaris.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5265",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Chronicon  Vol. 3"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5649",
+"@type": "sc:Manifest",
+"label": "Koelner de Vanckel. Summarium textuale et conclusiones super Sextum, Clementinas et Decretales extravagantes Johannis XXII"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4878",
+"@type": "sc:Manifest",
+"label": "Epistola. Epistola miseria curatorum seu plebanorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5262",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. De Censuris et De sponsalibus et matrimonio"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5646",
+"@type": "sc:Manifest",
+"label": "Juvenal. Satyrae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4843",
+"@type": "sc:Manifest",
+"label": "Vergilius Maro. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5227",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1486. Biblia latina. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5611",
+"@type": "sc:Manifest",
+"label": "Institoris, Henricus. Malleus maleficarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4964",
+"@type": "sc:Manifest",
+"label": "Georgius Trapezuntius. Commentarii in Philippicas Ciceronis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5348",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1478. Biblia latina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5732",
+"@type": "sc:Manifest",
+"label": "Perrault. Summa de virtutibus et vitiis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4821",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. De divinis moribus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5205",
+"@type": "sc:Manifest",
+"label": "Missale Dominicanum. Missale Dominicanum seu Ordinis Praedicatorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5589",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4898",
+"@type": "sc:Manifest",
+"label": "Ulmer, Ulricus. Fraternitas cleri."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4957",
+"@type": "sc:Manifest",
+"label": "Antonios de Bitonto. Expositiones evangeliorum dominicalium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5282",
+"@type": "sc:Manifest",
+"label": "Armandus de Bellovisu. Expositio super Thomas de Aquino libellum de ente et essentia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5341",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1475. Biblia latina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5666",
+"@type": "sc:Manifest",
+"label": "Lucanus, Marcus Annaeus. Pharsalia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5725",
+"@type": "sc:Manifest",
+"label": "Ovid. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4938",
+"@type": "sc:Manifest",
+"label": "Avenzohar. Liber Teisir."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5322",
+"@type": "sc:Manifest",
+"label": "Augustinus de Ancona. Summa de potestate ecclesiastica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5706",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super quattuor Evangelistas"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4851",
+"@type": "sc:Manifest",
+"label": "Bonaventura. De modo se praeparandi ad celebrandam missam."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5235",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1476. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5619",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Golden Legend (English)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4856",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. Ex Epistola ad Corinthios particulae quae legitur in Cena Domini enarratio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5240",
+"@type": "sc:Manifest",
+"label": "Alberti, Leo Baptista. De re aedificatoria"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5624",
+"@type": "sc:Manifest",
+"label": "Jamblichus, Proclus Porphyrius, and others. De mysteriis Aegyptiorum, Chaldaeorum, Assyriorum  etc, etc"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4837",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Quaestiones Evangeliorum de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5221",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1474. Biblia latina. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5605",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4937",
+"@type": "sc:Manifest",
+"label": "Andreae, Johannes. Super arboribus consanguinitatis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5321",
+"@type": "sc:Manifest",
+"label": "Augustine. De trinitate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5705",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Moralia super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4788",
+"@type": "sc:Manifest",
+"label": "Seneca. Pistole del moralissimo Seneca."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5556",
+"@type": "sc:Manifest",
+"label": "Guido de Monte Rochen. Manipulus curatorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4867",
+"@type": "sc:Manifest",
+"label": "Franco, Matteo. Sonetti di Matteo Franco e di Luigi Pulci."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5251",
+"@type": "sc:Manifest",
+"label": "Alliaco, Petrus de. Tractatus et sermones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5635",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De simonia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4795",
+"@type": "sc:Manifest",
+"label": "Silius Italicus. Punica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5179",
+"@type": "sc:Manifest",
+"label": "Margarita Davidica. Margarita Davidica, seu Expositio psalmorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5563",
+"@type": "sc:Manifest",
+"label": "Guarinus Veronensis. Regulae grammaticales"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4923",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vitas Patrum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5307",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5691",
+"@type": "sc:Manifest",
+"label": "Marchesinus, Johannes. Mommotrectus super Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4956",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5340",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1472. Biblia latina. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5724",
+"@type": "sc:Manifest",
+"label": "Orosius, Paulus. Historiae adversus paganos"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4792",
+"@type": "sc:Manifest",
+"label": "Sibylla, Bartholomaeus. Speculum peregrinarum quaestionum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5176",
+"@type": "sc:Manifest",
+"label": "Garlandia, Johannes de. Synonyma."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5560",
+"@type": "sc:Manifest",
+"label": "Hibernia, Thomas de (Palmer). Manipulus florum, seu Sententiae Patrum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4783",
+"@type": "sc:Manifest",
+"label": "Schedel. Liber chronicarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5167",
+"@type": "sc:Manifest",
+"label": "Lucas, Episcopus Sibinicensis. [Indulgence]. Litterae Indulgentiarum anni jubilaei causa 1480."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5551",
+"@type": "sc:Manifest",
+"label": "Gregorius IX, Pope. Decretales, cum glossa"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4875",
+"@type": "sc:Manifest",
+"label": "Savonarola. Circa il reggimento di Firenze."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5259",
+"@type": "sc:Manifest",
+"label": "Ambrosius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5643",
+"@type": "sc:Manifest",
+"label": "Corpus Juris Civilis. Novellae constitutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4862",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Meditationes vitae Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5246",
+"@type": "sc:Manifest",
+"label": "Albertus de Padua. Expositio evangeliorum dominicalium et festivalium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5630",
+"@type": "sc:Manifest",
+"label": "Johannes de Sacro Busto. Sphaera mundi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4681",
+"@type": "sc:Manifest",
+"label": "Pliny, the Elder. Historia naturalis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5065",
+"@type": "sc:Manifest",
+"label": "Wann, Paulus. Sermones de praeseruatione."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5449",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones de adventu"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4919",
+"@type": "sc:Manifest",
+"label": "Mela, Pomponius. Cosmographia, sive De situ orbis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5303",
+"@type": "sc:Manifest",
+"label": "Augustine. De trinitate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5687",
+"@type": "sc:Manifest",
+"label": "Martial. Epigrammata"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4948",
+"@type": "sc:Manifest",
+"label": "Applanus. Soliloquia de humani arbitrii libertate et potestate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5332",
+"@type": "sc:Manifest",
+"label": "Balbi, Giovanni. Catholicon"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5716",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. Praeceptorium divinae legis, sive Expositio decalogi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4939",
+"@type": "sc:Manifest",
+"label": "Regimen sanitatis. Regimen sanitatis Salernitanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5323",
+"@type": "sc:Manifest",
+"label": "Augustinus de Ancona. Summa de potestate ecclesiastica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4886",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositione del pater noster."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5707",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam Pt V"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5270",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5654",
+"@type": "sc:Manifest",
+"label": "Landino. Formulario di epistole"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4963",
+"@type": "sc:Manifest",
+"label": "Plutarch. Vitae illustrium virorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5347",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1478. Biblia latina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5731",
+"@type": "sc:Manifest",
+"label": "Perrault. Summa de virtutibus et vitiis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4779",
+"@type": "sc:Manifest",
+"label": "Savonarola, Michael. De pulsibus, urinis et egestionibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5163",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5547",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Sopra la vita de Job"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4908",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistole a diversi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5292",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5676",
+"@type": "sc:Manifest",
+"label": "Mancinelli. Scribendi orandique modus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4768",
+"@type": "sc:Manifest",
+"label": "Pius II, Pope. Epistolae in Pontificatu editae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5152",
+"@type": "sc:Manifest",
+"label": "Bartholomaeus Pisanus. Quadragesimale de contemptu mundi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5536",
+"@type": "sc:Manifest",
+"label": "Gellius, Aulus. Noctes atticae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4873",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De simplicatione, stabilitione, sive mundificatione cordis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5257",
+"@type": "sc:Manifest",
+"label": "Angelus de Clavassio. Summa angelica de casibus conscientiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5641",
+"@type": "sc:Manifest",
+"label": "Corpus Juris Civilis. Institutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4942",
+"@type": "sc:Manifest",
+"label": "Mesue. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5326",
+"@type": "sc:Manifest",
+"label": "Auslegung der Heilgen Messe. Auslegung der Heilgen Messe"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5710",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4934",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Summa theologica  Part V."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5318",
+"@type": "sc:Manifest",
+"label": "Augustine. Explanatio Psalmorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5702",
+"@type": "sc:Manifest",
+"label": "Nicolaus Cisterciensis. Imago Beatae Virginis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4941",
+"@type": "sc:Manifest",
+"label": "Lactantius, Lucius Coelius Firmianus. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5325",
+"@type": "sc:Manifest",
+"label": "Augustine. Explanatio Psalmorum  Vol. III"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5709",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4924",
+"@type": "sc:Manifest",
+"label": "Jacobus de Gruytrode. Lavacrum Conscientiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5308",
+"@type": "sc:Manifest",
+"label": "Augustine. De trinitate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5692",
+"@type": "sc:Manifest",
+"label": "Mexia. Nobilario perfetamente copilado"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4810",
+"@type": "sc:Manifest",
+"label": "Statuta: Genuae. Statuta et decreta communis Genuae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5194",
+"@type": "sc:Manifest",
+"label": "Alphonsus de Spina . Fortalitium fidei ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5578",
+"@type": "sc:Manifest",
+"label": "Homer. Opera Greek"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4954",
+"@type": "sc:Manifest",
+"label": "Horae. Horae canonicae: Tractatus brevis et utilis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5338",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1472. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5722",
+"@type": "sc:Manifest",
+"label": "Niger, Petrus. Stern des Meschiah"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4726",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio orationis dominicae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5110",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5494",
+"@type": "sc:Manifest",
+"label": "Diodorus Siculus. Bibliotheca historicae libri VI"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4882",
+"@type": "sc:Manifest",
+"label": "Augustine. Epistolae pulcherrimae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5266",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. De Censuris et De sponsalibus et matrimonio"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5650",
+"@type": "sc:Manifest",
+"label": "Lactantius, Lucius Coelius Firmianus. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4859",
+"@type": "sc:Manifest",
+"label": "Remigius. Fundamentum scholarius."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5243",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Compendium theologiae veritatis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5627",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. Homiliae super Matthaeum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4838",
+"@type": "sc:Manifest",
+"label": "Ubertinus de Casali. Arbor vitae crucifixae Jesu Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5222",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1474. Biblia latina. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5606",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4986",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Sermones de tempore et de sanctis et Quadragesimales et Mariale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5370",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5754",
+"@type": "sc:Manifest",
+"label": "Pseudo-Augustine. Sermo super orationem dominicam. Expositio super symbolum. De ebrietate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4982",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum L (51) 'Miserere mei Deus'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5366",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1480. Biblia latina cum glossa ordinaris Walfridi Strabonis aliorumque et interlinerai Anselmi Laudunensis.  Vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5750",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Opera (Pars I)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4903",
+"@type": "sc:Manifest",
+"label": "Houppelande, Guillermus. De immortalitate animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5287",
+"@type": "sc:Manifest",
+"label": "Augustine. Canones iuxta regulam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5671",
+"@type": "sc:Manifest",
+"label": "Lupoldus Bambergensis. Germanorum veterum principum zelus et fervor in christianam religionem Deique ministros"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4916",
+"@type": "sc:Manifest",
+"label": "Herodotus. Historiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5300",
+"@type": "sc:Manifest",
+"label": "Augustine. De trinitate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5684",
+"@type": "sc:Manifest",
+"label": "Maroldus. Sententia veritatis humanae redemptionis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4902",
+"@type": "sc:Manifest",
+"label": "Salis, Baptista de. Summa casuum conscientiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5286",
+"@type": "sc:Manifest",
+"label": "Augustine. Opuscula"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5670",
+"@type": "sc:Manifest",
+"label": "Lollius, Antonius. Oratio habita in funere Philberti cardinalis Matisconensis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4929",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5313",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Aureola ex floribus S Hieronymi contexta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5697",
+"@type": "sc:Manifest",
+"label": "Vocabularius Juris Utriusque. Vocabularius juris utriusque"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4951",
+"@type": "sc:Manifest",
+"label": "Formularium. Formularium Procuratorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5335",
+"@type": "sc:Manifest",
+"label": "Barbaro. Oratio ad Fridericum III imperatorem et Maximilianum I Regem Romanorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5719",
+"@type": "sc:Manifest",
+"label": "Niger, Franciscus. Modus epistolandi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4931",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Summa theologica  Part II."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5315",
+"@type": "sc:Manifest",
+"label": "Augustine. De duodecim abusionum gradibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5699",
+"@type": "sc:Manifest",
+"label": "Nicolaus V, Pope.. Oratio in funere Petri Cardinalis S Sixti"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4723",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola a suoi diletti fratelli in Cristo Gesu."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4719",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola a uno amico."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5107",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vita et transitus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5103",
+"@type": "sc:Manifest",
+"label": "Petrus de Harentals. Collectarius super librum Pslamorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5491",
+"@type": "sc:Manifest",
+"label": "Decisiones rotae romamae. Decisiones novae et Antiquae rotae romanae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5487",
+"@type": "sc:Manifest",
+"label": "Dante. La Commedia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4785",
+"@type": "sc:Manifest",
+"label": "Seneca. Opera philosophica, epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5169",
+"@type": "sc:Manifest",
+"label": "Psalter.  Hebrew. Tehillim.  Commentary David Kimhi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5553",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenda aurea"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4830",
+"@type": "sc:Manifest",
+"label": "Tuberinus, Johannes Mathias. Relatio de Simone puero tridentino."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5214",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1482. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5598",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4836",
+"@type": "sc:Manifest",
+"label": "Tegrimi. Oratio per obedientia praestanda."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5220",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Psalterium beata Virginis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5604",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. German.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4855",
+"@type": "sc:Manifest",
+"label": "Alliaco, Petrus de. Quaestiones super libros Sententiarum Petri Lombardi.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5239",
+"@type": "sc:Manifest",
+"label": "Alanus de Insulis. Distinctiones dictionum theologicalium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5623",
+"@type": "sc:Manifest",
+"label": "Jacobus Philippus de Bergamo (Foresti). Supplementum chronicarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4926",
+"@type": "sc:Manifest",
+"label": "Maneken, Carolus. Formulae epistolarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5310",
+"@type": "sc:Manifest",
+"label": "Augustine. De la cita d'Dio"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5694",
+"@type": "sc:Manifest",
+"label": "Missale. Missale Romanum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4731",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum LXXIX (80) 'Qui regis Israel'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5115",
+"@type": "sc:Manifest",
+"label": "Processionarium. Processionarium Ordinis Fratris Praedicatorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5499",
+"@type": "sc:Manifest",
+"label": "Dionysius Halicarnaseus. Antiquitates Romanae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5350",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1481. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5734",
+"@type": "sc:Manifest",
+"label": "Parker, Henry. Dives and Pauper"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4917",
+"@type": "sc:Manifest",
+"label": "Jacobus de Theramo (Palladinus). Consolatio peccatorum, seu Processus Belial."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5301",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5685",
+"@type": "sc:Manifest",
+"label": "Marsus. Oratio in die ascensionis de immortalitate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4970",
+"@type": "sc:Manifest",
+"label": "Beets. Commentum super decem praeceptis decalogi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5354",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Copy 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5738",
+"@type": "sc:Manifest",
+"label": "Alexander de Villa Dei. Doctrinale (Pars II)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5047",
+"@type": "sc:Manifest",
+"label": "Bartholomaeus de Chaimis. Interrogatorium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5431",
+"@type": "sc:Manifest",
+"label": "Thomas (a Becket). Eius vita et Processus super libertate ecclesiastica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4962",
+"@type": "sc:Manifest",
+"label": "Dionysius Periegetes. De situ orbis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5346",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5730",
+"@type": "sc:Manifest",
+"label": "Perrault. Summa de virtutibus et vitiis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4833",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Expositio super toto psalterio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4839",
+"@type": "sc:Manifest",
+"label": "Valerius Maximus. Facta et dicta memorabilia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5217",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1489. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5223",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Copy 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5601",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5607",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4829",
+"@type": "sc:Manifest",
+"label": "Tibullus, Albius. Elegiae, sive Carmina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5213",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1481. Biblia latina cum postillis Nicolai de Lyra."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5597",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4755",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5139",
+"@type": "sc:Manifest",
+"label": "Pius II, Pope. Epistolae familiares."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5523",
+"@type": "sc:Manifest",
+"label": "Fabrica, Johannes de. De indulgentiis pro animabus in purgatorio, sive Super declaratione indulgentiarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4984",
+"@type": "sc:Manifest",
+"label": "Horatius, Flaccus, Quintus. Opera (Comm: Porphyrion, Mancinellus, Acron, and Landinus) cum quibusdam annotationibus Jacobi Locher."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5368",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1495. Biblia latina.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5752",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Opera (Pars III)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5030",
+"@type": "sc:Manifest",
+"label": "Andreae, Antonius. Quaestiones super XII libros Metaphysicae Aristotelis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5414",
+"@type": "sc:Manifest",
+"label": "Burley. De vita et moribus philosophorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4784",
+"@type": "sc:Manifest",
+"label": "Scriptores rei rusticae. Scriptores rei rusticae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5168",
+"@type": "sc:Manifest",
+"label": "Stella clericorum. Stella clericorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5552",
+"@type": "sc:Manifest",
+"label": "Gritsch, Johannes. Quadragesimale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4820",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Catena aurea super quatttuor Evangelistas."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5204",
+"@type": "sc:Manifest",
+"label": "Poggius, Johannes Franciscus . Epistola contra Savonarolam. Add: Processo di Fra Girolamo Savonarola [Latin]; Theodoricus Ulsenius: Carmina ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5588",
+"@type": "sc:Manifest",
+"label": "Hugo Senensis. Trattato  circa la conservazione della sanita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4885",
+"@type": "sc:Manifest",
+"label": "Hertzmaner. Hertzmaner."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5269",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5653",
+"@type": "sc:Manifest",
+"label": "Lactantius, Lucius Coelius Firmianus. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4802",
+"@type": "sc:Manifest",
+"label": "Speculum animae. Speculum animae peccatricis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5186",
+"@type": "sc:Manifest",
+"label": "[Ecclesiastes. Hebrew]. [Iyov - Divre ha-yamim]."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5570",
+"@type": "sc:Manifest",
+"label": "Hieronymus. De viris illustribus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4762",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Orationes cum quibusdam aliis eiusdem operibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5146",
+"@type": "sc:Manifest",
+"label": "Guillermus Alvernus, Episcopus Parisiensis. Rethorica Divina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5530",
+"@type": "sc:Manifest",
+"label": "Ficino, Marsilio. Platonica theologia de immortalitate animorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4861",
+"@type": "sc:Manifest",
+"label": "Ludolphus de Saxonia. Vita Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5245",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Summa de eucharistiae sacramento"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5629",
+"@type": "sc:Manifest",
+"label": "Johannes Nivicellensis. Concordantiae Bibliae et Canonum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4803",
+"@type": "sc:Manifest",
+"label": "Statuta: Bergomi. Statutes of Bergamo."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5187",
+"@type": "sc:Manifest",
+"label": "Tritheim, Johann. De laudibus sanctissimae Annae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5571",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vitae sanctorum patrum, sive Vitas patrum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4711",
+"@type": "sc:Manifest",
+"label": "Sallustus Crispus, Gaius. Ex libri historiarum orationes et epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5095",
+"@type": "sc:Manifest",
+"label": "Augustine. Speculum peccatoris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5479",
+"@type": "sc:Manifest",
+"label": "Canis. De iniuriis et damno dato (VI Decretal) 5,8)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4801",
+"@type": "sc:Manifest",
+"label": "Soccus. Sermones de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5185",
+"@type": "sc:Manifest",
+"label": "Benivieni, Domenico. Dialogo della verita della dottrina predicata da Savonarola."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5569",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4857",
+"@type": "sc:Manifest",
+"label": "Infirmorum Visitatio. Tractus brevis et utilis pro infirmis visitandis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5241",
+"@type": "sc:Manifest",
+"label": "Aegidius (Columna) Romanus. De regimine principium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5625",
+"@type": "sc:Manifest",
+"label": "Johannes de Bromyard. Opus trivium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4940",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenda aurea."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5324",
+"@type": "sc:Manifest",
+"label": "Aurelius Victor, Sextus. De viris illustribus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5708",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4691",
+"@type": "sc:Manifest",
+"label": "Probus. De interpretandis Romanorum litteris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5075",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenda aurea sanctorum, sive Lombardica historia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5459",
+"@type": "sc:Manifest",
+"label": "Cavalca, Domenico. Pungi lingua"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4892",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Homiliae super evangelio Missus est angelus Gabriel."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5276",
+"@type": "sc:Manifest",
+"label": "Apuleius Madaurensis, Lucius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5660",
+"@type": "sc:Manifest",
+"label": "Livy. Historiae Romanae decades"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4906",
+"@type": "sc:Manifest",
+"label": "Capreolus, Johannes. Questiones in IV libros Sententiarum, vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5290",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5674",
+"@type": "sc:Manifest",
+"label": "Mancinelli. Carmen de floribus; Carmen de figuris; De poetica virtute; Vitae carmen"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4844",
+"@type": "sc:Manifest",
+"label": "Vincent de Beauvais. Speculum naturale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5228",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1486. Biblia latina. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5612",
+"@type": "sc:Manifest",
+"label": "Isidorus Hispalensis. Etymologiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4721",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola alla Contessa della Mirandola."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5105",
+"@type": "sc:Manifest",
+"label": "Martinis, Octavianus de. Oratio in vitam S. Bonaventura."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5489",
+"@type": "sc:Manifest",
+"label": "Dante. La Commedia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4702",
+"@type": "sc:Manifest",
+"label": "Rampigollis, Antonius . Aurea Biblia, sive Repertorium aureum Bibliorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5086",
+"@type": "sc:Manifest",
+"label": "Bruno of Wurzburg. Psalterium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5470",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Opera Part III"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4701",
+"@type": "sc:Manifest",
+"label": "Rampigollis, Antonius . Aurea Biblia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5085",
+"@type": "sc:Manifest",
+"label": "Speculum exemplorum. Speculum exemplorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5469",
+"@type": "sc:Manifest",
+"label": "Clemens V, Pope. Constitutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4884",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. De arte praedicandi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5268",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5652",
+"@type": "sc:Manifest",
+"label": "Lactantius, Lucius Coelius Firmianus. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4920",
+"@type": "sc:Manifest",
+"label": "Passavanti, Jacobo. Specchio di vera penitenza."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5304",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5688",
+"@type": "sc:Manifest",
+"label": "Martial. Epigrammata"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4874",
+"@type": "sc:Manifest",
+"label": "Scala, Bartolomeo. Oratio Bartholomei Scale Florentini oratoris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5258",
+"@type": "sc:Manifest",
+"label": "Angelus de Clavassio. Summa angelica de casibus conscientiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5642",
+"@type": "sc:Manifest",
+"label": "Corpus Juris Civilis. Novellae constitutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4930",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Summa theologica  Part I."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5314",
+"@type": "sc:Manifest",
+"label": "Isidorus Hispalensis. Synonyma de homine et ratione, seu Soliloquia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5698",
+"@type": "sc:Manifest",
+"label": "Moesch, Johannes. De horis canonicis dicendis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4860",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Stimulus amoris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4980",
+"@type": "sc:Manifest",
+"label": "Savonarola. Regola del ben vivere."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5244",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Sermones de tempore et de sanctis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5364",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1480. Biblia latina cum glossa ordinaris Walfridi Strabonis aliorumque et interlinerai Anselmi Laudunensis.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5628",
+"@type": "sc:Manifest",
+"label": "Johannes de Lapide (Heynlin). Resolutorium dubiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5748",
+"@type": "sc:Manifest",
+"label": "Martinez de Osma, Pedro. Commentaria in symbolum Quicunque vult."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5014",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Thesaurus magistri sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5398",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Opuscula"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4955",
+"@type": "sc:Manifest",
+"label": "Chronicles. Die Cronica van der hilliger stat van Coellen."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5339",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1468.  Biblia latina.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5723",
+"@type": "sc:Manifest",
+"label": "Orosius, Paulus. Historiae adversus paganos"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4888",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Rhetorica ad Herrennium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5272",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5656",
+"@type": "sc:Manifest",
+"label": "Leo I, Pope. Sermones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4758",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV, Part V."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5142",
+"@type": "sc:Manifest",
+"label": "Nauclerus, Johannes. De simonia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5526",
+"@type": "sc:Manifest",
+"label": "Ferrariis, Theophilus de. Propositines ex omnibus Aristotelis libris excerptae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4911",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De pollutione nocturna."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5295",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5679",
+"@type": "sc:Manifest",
+"label": "Marchesinus, Johannes. Mammotrectus super Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5048",
+"@type": "sc:Manifest",
+"label": "Boccaccio. Genaelogiae deorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5432",
+"@type": "sc:Manifest",
+"label": "Bessarion, Joannes. Adversus calumniatorem Platonis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4850",
+"@type": "sc:Manifest",
+"label": "Vincent de Beauvais. Speculum naturale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5234",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1495. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5618",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenda aurea"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4832",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Expositio super toto psalterio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5216",
+"@type": "sc:Manifest",
+"label": "Euclid. Geometria."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5600",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4901",
+"@type": "sc:Manifest",
+"label": "Capreolus, Johannes. Questiones in IV libros Sententiarum, vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5285",
+"@type": "sc:Manifest",
+"label": "Astesanus de Ast. Summa de casibus conscientiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5669",
+"@type": "sc:Manifest",
+"label": "Ludovicus a Turri de Verona. De immaculata Conceptione B V Mariae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4950",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Breviloquium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5334",
+"@type": "sc:Manifest",
+"label": "Baptista, Mantuanus. De patientia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5718",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. Praeceptorium divinae legis, sive Espositio decalogi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4863",
+"@type": "sc:Manifest",
+"label": "Ximenez de Prexano. Luzero de la vida Christiana."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5247",
+"@type": "sc:Manifest",
+"label": "Alexander de Ales. Summa universae theologiae.  Part III"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5631",
+"@type": "sc:Manifest",
+"label": "Johannes de Tambaco. Consolatio theologiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4925",
+"@type": "sc:Manifest",
+"label": "Jacobus de Gruytrode. Lavacrum Conscientiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5309",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5693",
+"@type": "sc:Manifest",
+"label": "Missale. Missale Benedictinum Fratres B V Mariae de Monte Carmelo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4852",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Meditationes vitae Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5236",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1480. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5620",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. De tempore"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4700",
+"@type": "sc:Manifest",
+"label": "Rainerus de Pisis. Pantheologia, sive Summa universae theologiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5084",
+"@type": "sc:Manifest",
+"label": "Ludolphus de Saxonia. Vita Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5468",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Tusculanae disputationes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4763",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Orationes cum quibusdam aliis eiusdem operibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5147",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Orationes cum quibusdam aliis eiusdem operibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5531",
+"@type": "sc:Manifest",
+"label": "Ferretti. De elegantia linguae latinae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4738",
+"@type": "sc:Manifest",
+"label": "Savonarola. Operette."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5122",
+"@type": "sc:Manifest",
+"label": "Salemo, Episcopus Constantiensis. Glossae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5506",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in quartum librum Sententiarum. Part 4."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4740",
+"@type": "sc:Manifest",
+"label": "Savonarola. Prediche dalla pasqua al avvento dell' anno 1496."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5124",
+"@type": "sc:Manifest",
+"label": "Herodianus. Historia de imperio post Marcum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5508",
+"@type": "sc:Manifest",
+"label": "Durantis, Guillelmus. Rationale divinorum officiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4806",
+"@type": "sc:Manifest",
+"label": "Suidas. Greek lexicon."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5190",
+"@type": "sc:Manifest",
+"label": "Rubricae iuris civilis et canonici"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5574",
+"@type": "sc:Manifest",
+"label": "Higden. Polycronicon"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4991",
+"@type": "sc:Manifest",
+"label": "Augustine. Sermones ad heremitas."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5375",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 6."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4694",
+"@type": "sc:Manifest",
+"label": "Quintillian. Declamationes."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5078",
+"@type": "sc:Manifest",
+"label": "Lampsheym, Johannes. Speculum conscientiae et novissimorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5462",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Orationes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4866",
+"@type": "sc:Manifest",
+"label": "Boniface VIII, Pope. Liber sextus Decretalium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5250",
+"@type": "sc:Manifest",
+"label": "Alliaco, Petrus de. Concordantia astronamiae cum theologia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5634",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Donatus moralisatus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4952",
+"@type": "sc:Manifest",
+"label": "Aureoli, Petrus. De conceptione virginis Mariae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5336",
+"@type": "sc:Manifest",
+"label": "Barbieri, Filippo de'. Discordantiae sanctorum doctorum Hieronymi et Augustinii"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5720",
+"@type": "sc:Manifest",
+"label": "Nogarola. De mundi aeterniatate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4887",
+"@type": "sc:Manifest",
+"label": "Savonarola. Lectione o vero sermone fatto ad di 15 di Febbraio 1497."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5271",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5655",
+"@type": "sc:Manifest",
+"label": "Leo I, Pope. Sermones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4912",
+"@type": "sc:Manifest",
+"label": "Herolt, Johannes. Sermones discipuli super epistolas dominicales."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5296",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5680",
+"@type": "sc:Manifest",
+"label": "Marchesinus, Johannes. Mammotrectus super Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4974",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5358",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1482. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5742",
+"@type": "sc:Manifest",
+"label": "Talmud. Objectiones in dicta Talmud."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5037",
+"@type": "sc:Manifest",
+"label": "Anselm. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5421",
+"@type": "sc:Manifest",
+"label": "Bellanti. De astrologica veritate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4754",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5138",
+"@type": "sc:Manifest",
+"label": "Meditationes de Jesu Christi. Meditationes de vita e beneficiis Jesu Christi, sive Gratiarum actiones."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5522",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). Historia ecclesiastica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4872",
+"@type": "sc:Manifest",
+"label": "Meffreth. Sermones de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5256",
+"@type": "sc:Manifest",
+"label": "Angelus de Clavassio. Summa angelica de casibus conscientiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5640",
+"@type": "sc:Manifest",
+"label": "Josephus. Historia della guerra hebbono"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4742",
+"@type": "sc:Manifest",
+"label": "Savonarola. Dell' orazione mentale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5126",
+"@type": "sc:Manifest",
+"label": "Bandellus de Castronovo. Libellus recollectorius."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5510",
+"@type": "sc:Manifest",
+"label": "Durantis, Guillelmus. Rationale divinorum officiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4819",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa theologicae Pars secunda: Secunda pars."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5203",
+"@type": "sc:Manifest",
+"label": "Tritheim, Johann . De cura pastorali."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5587",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4828",
+"@type": "sc:Manifest",
+"label": "Adam. Vita adae et Evae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5212",
+"@type": "sc:Manifest",
+"label": "Plutarch. Vitae illustrium virorum. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5596",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4794",
+"@type": "sc:Manifest",
+"label": "Sidonius. Epistolae et carmina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5178",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. De oratore."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5562",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Aureola ex floribus S Hieronymi contexta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4695",
+"@type": "sc:Manifest",
+"label": "Quintillian. Institutiones oratoriae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5079",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. De morali lepra."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5463",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Orationes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4744",
+"@type": "sc:Manifest",
+"label": "Savonarola. Predica fatta ad di 18 di Marzo 1497."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5128",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Meditationes vitae Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5512",
+"@type": "sc:Manifest",
+"label": "Ephrem Syrus. Sermones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4932",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Summa theologica  Part III."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5316",
+"@type": "sc:Manifest",
+"label": "Augustine. Explanatio Psalmorum  Vol. I"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5700",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Ausmo. Supplementum Consilia Alexandri de Nevo contra Judaeos Foenerantes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5053",
+"@type": "sc:Manifest",
+"label": "(pseudo) Augustinus. Epistola ad Cyrillum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5437",
+"@type": "sc:Manifest",
+"label": "Caesar, Julius. Commentarii"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4847",
+"@type": "sc:Manifest",
+"label": "Bartolus de Saxonferrato. Infortiatum: Super prima parte Infortiati."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5231",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1480. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5615",
+"@type": "sc:Manifest",
+"label": "Isocrates. Orationes Greek"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4759",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5143",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Epistolae ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5527",
+"@type": "sc:Manifest",
+"label": "Ferrerius, Vincentius. Sermones de tempore et de sanctis.  Copy 1.  Parts 1, 2, 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5008",
+"@type": "sc:Manifest",
+"label": "Johannes Vercellenses. Sermones vademecum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5392",
+"@type": "sc:Manifest",
+"label": "Boethius (Commentary attributed to Thomas Aquinas.. De consolatione philosophiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5776",
+"@type": "sc:Manifest",
+"label": "Expositio hymnorum cum notabili co[m]mento."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5042",
+"@type": "sc:Manifest",
+"label": "Angelus de Clavassio. Summa angelica de casibus conscientiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5426",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Epistolae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4764",
+"@type": "sc:Manifest",
+"label": "Pico della Mirandola. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5148",
+"@type": "sc:Manifest",
+"label": "Sixtus IV, Pope. De Sanguine Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5532",
+"@type": "sc:Manifest",
+"label": "Ficino, Marsilio. De triplici vita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5056",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope . Homilae super Ezechielem."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5440",
+"@type": "sc:Manifest",
+"label": "Campano. Oratio in conventu Ratisponensi anno 1471 habita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4864",
+"@type": "sc:Manifest",
+"label": "Pius II, Pope. De duobus amantibus Euryalo et Lucretia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5248",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Ars intelligendi, docendi et praedicandi res spirituales"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5632",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Conclusiones de diversis materiis moralibus, sive De regulis mandatorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4696",
+"@type": "sc:Manifest",
+"label": "Ptolemy. Cosmographia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5080",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV, parts I, II, and V."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5464",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Scripta philosophica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4988",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones de laudibus sanctorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5372",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4868",
+"@type": "sc:Manifest",
+"label": "Simone da Lesina. Spechio della Salute."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5252",
+"@type": "sc:Manifest",
+"label": "Ambrosius. Epistolae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5636",
+"@type": "sc:Manifest",
+"label": "Gesta Romanorum. Gesta Romanorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4945",
+"@type": "sc:Manifest",
+"label": "Regimen sanitatis. Regimen sanitatis Salernitanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5329",
+"@type": "sc:Manifest",
+"label": "Ausonius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5713",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4805",
+"@type": "sc:Manifest",
+"label": "Strabo. Geographia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5189",
+"@type": "sc:Manifest",
+"label": "Johannes de Hese. Itinerarius a Hierusalem."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5573",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Commentaria in Biblam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4935",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1479. Biblia Latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5319",
+"@type": "sc:Manifest",
+"label": "Augustine. Quinquaginta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5703",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Moralia super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4936",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5320",
+"@type": "sc:Manifest",
+"label": "Augustine. Soliloquia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5704",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Moralia super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4927",
+"@type": "sc:Manifest",
+"label": "Martyrium Sanctorum. Tractatus de Martyrio sanctorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5311",
+"@type": "sc:Manifest",
+"label": "Augustine. De la cita d'Dio"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5695",
+"@type": "sc:Manifest",
+"label": "Modus Legendi. Modus legendi abbreviaturas"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4983",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5367",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1495. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5751",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Opera (Pars II)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4774",
+"@type": "sc:Manifest",
+"label": "Savonarola. Trattato dell' umilta."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5158",
+"@type": "sc:Manifest",
+"label": "Johannes de Verdena. Sermones 'Dormi secure' de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5542",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Dialogorum libri quattuor"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5041",
+"@type": "sc:Manifest",
+"label": "Maurocenus, Paulus. De generatione aeterna et temporali Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5425",
+"@type": "sc:Manifest",
+"label": "Berchorius, Petrus. Repertorium morale Part III"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4865",
+"@type": "sc:Manifest",
+"label": "Reginaldo de Montoro. Sermo de visione Dei."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5249",
+"@type": "sc:Manifest",
+"label": "Alexander de Sancto Elpidio. De ecclesiastica potestate"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5633",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. Conclusiones de diversis materiis moralibus, sive De regulis mandatorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4995",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5379",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1470.. Biblia germanica.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4812",
+"@type": "sc:Manifest",
+"label": "Theophylactus. Enarrationes in epistolas S Pauli."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5196",
+"@type": "sc:Manifest",
+"label": "Henricus de Herpf . Spiegel der volcomenheit."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5580",
+"@type": "sc:Manifest",
+"label": "Horatius, Flaccus, Quintus. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4815",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa theologicae, pars prima."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5199",
+"@type": "sc:Manifest",
+"label": "Tritheim, Johann. De triplici regione claustralium et spirituali exercitio monachorum. Add: Compendium quotidiani spiritualis exercitii."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5583",
+"@type": "sc:Manifest",
+"label": "Hugo de Sancto Charo. Expositio missae, seu Speculum ecclesiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4877",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola alle suore del terzo ordine di San Domenico."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5261",
+"@type": "sc:Manifest",
+"label": "Antichristus (Paltz). Quaestio determinata contra triplicem errorem de Antichristi revelatione"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5645",
+"@type": "sc:Manifest",
+"label": "Justinus, Marcus Junianus. Epitomae in Trogi Pompeii historias"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4880",
+"@type": "sc:Manifest",
+"label": "Baptista, Mantuanus. Parthenice prime, sive Mariana."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5264",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Chronicon  Vol. 2"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5648",
+"@type": "sc:Manifest",
+"label": "Juvenal. Satyrae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4921",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Cattena aurea super evangelia dominicalia & ferialia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5305",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5689",
+"@type": "sc:Manifest",
+"label": "Marullus, Michael. Epigrammatum libri IV Hymnorum naturalium Libri IV"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5007",
+"@type": "sc:Manifest",
+"label": "Busti, Bernadus de. Rosarium sermonum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5391",
+"@type": "sc:Manifest",
+"label": "Bodivit. Sermo habitus in die Trinitatis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5775",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1497. Biblia Latina. Copy 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4790",
+"@type": "sc:Manifest",
+"label": "Seneca. Tragoediae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5174",
+"@type": "sc:Manifest",
+"label": "Anselm. Cur deus homo."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5558",
+"@type": "sc:Manifest",
+"label": "Ibn Abi al-Rijal. Liber in judiciis astrorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4775",
+"@type": "sc:Manifest",
+"label": "Savonarola. Della verita della fede cristiana sopra el glorioso triompho della croce."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5159",
+"@type": "sc:Manifest",
+"label": "Antoninus Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5543",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Homiliae super Evangeliis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4959",
+"@type": "sc:Manifest",
+"label": "Ars Moriendi. Ars Moriendi ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5343",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5727",
+"@type": "sc:Manifest",
+"label": "Ovid. Tristia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4807",
+"@type": "sc:Manifest",
+"label": "Summa Rudium. Summa rudium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5191",
+"@type": "sc:Manifest",
+"label": "Savonarola. Lectione o vero sermone fatto ad di 15 di Febbraio 1497."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5575",
+"@type": "sc:Manifest",
+"label": "Holcot. Super sapientiam Salomonis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4883",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Floretus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5267",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionali: Curam illius habe: Medicina dell'anima"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5651",
+"@type": "sc:Manifest",
+"label": "Lactantius, Lucius Coelius Firmianus. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4778",
+"@type": "sc:Manifest",
+"label": "Savonarola. Vita viduale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5162",
+"@type": "sc:Manifest",
+"label": "Datus, Augustinus. Elegantiolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5546",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Sopra la vita de Job"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5036",
+"@type": "sc:Manifest",
+"label": "Johannes de Tambaco. Consolatio theologiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5420",
+"@type": "sc:Manifest",
+"label": "Bartholomaeus Angelicus. De proprietatibus rerum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4736",
+"@type": "sc:Manifest",
+"label": "Savonarola. Introductorium confessorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5120",
+"@type": "sc:Manifest",
+"label": "Marcus von Lindau. Buch der zehn Gebote."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5504",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in quartum librum Sententiarum. Part 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5040",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1492. Biblia Latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5424",
+"@type": "sc:Manifest",
+"label": "Benivieni. Trattato in defensione e probazione della dottrina di Savonarola"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4975",
+"@type": "sc:Manifest",
+"label": "Antoninus Vercellis. Semones quadragesimales de XII mirabilibus Christianae fidei excellentiis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5359",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1497. Biblia latina.  Copy 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5743",
+"@type": "sc:Manifest",
+"label": "Tabula Christianae Religionis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4710",
+"@type": "sc:Manifest",
+"label": "Sabellico. De vetustate aquileiensis patriae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5094",
+"@type": "sc:Manifest",
+"label": "Augustine. Soliloquia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5478",
+"@type": "sc:Manifest",
+"label": "Cortesius. Oratio habita in aede d Petri in Epiphania"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4947",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. De potentia dei."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5331",
+"@type": "sc:Manifest",
+"label": "Balbi, Giovanni. Catholicon"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5715",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. De morali lepra"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4841",
+"@type": "sc:Manifest",
+"label": "Colombus, Christophorus. De insulis nuper in mare Indico repertis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5225",
+"@type": "sc:Manifest",
+"label": "Dutch Old Testament. Vetus Testamentum. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5609",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4676",
+"@type": "sc:Manifest",
+"label": "Platina, Bartholomaeus. Vitae pontificum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5060",
+"@type": "sc:Manifest",
+"label": "Peckham, Johannes. De oculo morali."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5444",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones quadragesimales de poenitentia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4708",
+"@type": "sc:Manifest",
+"label": "Rolewinck, Werner. Fasciculus temporum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5092",
+"@type": "sc:Manifest",
+"label": "Reuchlin, Johannes. Vocabularius breviloquus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5476",
+"@type": "sc:Manifest",
+"label": "Cora, Ambrogio da. Oratio de conceptione Virginis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4968",
+"@type": "sc:Manifest",
+"label": "Breviarium. Brevarium Salzburgense."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5352",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1497. Biblia latina.  Copy 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5736",
+"@type": "sc:Manifest",
+"label": "Paulus de Castro. Infortiatum: Super I & II parte Infortiati"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4910",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5294",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5678",
+"@type": "sc:Manifest",
+"label": "Marcellus. Passio Petri et Pauli apostolarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4741",
+"@type": "sc:Manifest",
+"label": "Savonarola. Predica dell'arte del bene morire, il 2 Novembre 1496."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5125",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Secreta mulierum et virorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5509",
+"@type": "sc:Manifest",
+"label": "Durantis, Guillelmus. Rationale divinorum officiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4728",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola a tutti gli eletti di Dio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5112",
+"@type": "sc:Manifest",
+"label": "Aureoli, Petrus. Compendium litteralis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5496",
+"@type": "sc:Manifest",
+"label": "Diogenes Laertius. Vitae et sententiae philosophorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4989",
+"@type": "sc:Manifest",
+"label": "Brasca, Santo. Itineraria alla santissima citta di Gerusalemme."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5373",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 4."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4890",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5274",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5658",
+"@type": "sc:Manifest",
+"label": "Leonardus Matthaei de Utino. Sermones quadragesimales de legibus dicti"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4825",
+"@type": "sc:Manifest",
+"label": "Tibullus, Albius. Elegiae, sive Carmina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5209",
+"@type": "sc:Manifest",
+"label": "Defectus in Missa occurrentes . Defectus in Missa occurrentes ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5593",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4689",
+"@type": "sc:Manifest",
+"label": "Polybius. Historiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5073",
+"@type": "sc:Manifest",
+"label": "Cassianus, Johannes. De institutis coenobiorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5457",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Epistolae ad Brutum, ad Quintum fratrem, ad Atticum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4750",
+"@type": "sc:Manifest",
+"label": "Petrarca. Trionfi e Canzoniere."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5134",
+"@type": "sc:Manifest",
+"label": "Savonarola. De simplicitate christianae vitae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5518",
+"@type": "sc:Manifest",
+"label": "Durantis, Guillelmus. Rationale divinorum officiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4943",
+"@type": "sc:Manifest",
+"label": "Aristotle. De Animalibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5327",
+"@type": "sc:Manifest",
+"label": "Ausonius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5711",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4684",
+"@type": "sc:Manifest",
+"label": "Poeniteas Cito. Poeniteas Cito."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5068",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Dialogus Virginis Mariae misericordiam elucidans."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5452",
+"@type": "sc:Manifest",
+"label": "Cippico. Petri Mocenici imperatoris gesta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5009",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale: Curam illius habe."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5393",
+"@type": "sc:Manifest",
+"label": "Boethius. De consolatione philosophiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5777",
+"@type": "sc:Manifest",
+"label": "[Libros menores emendados.] Auctores octo seu Libros menores."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4747",
+"@type": "sc:Manifest",
+"label": "Pablo de Santa Maria. Scrutinium scripturarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5131",
+"@type": "sc:Manifest",
+"label": "Guilielmus Carthusiensis. Sermones super orationem dominicam."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5515",
+"@type": "sc:Manifest",
+"label": "Eschuid, Johannes. Summa astrologiae judicialis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4686",
+"@type": "sc:Manifest",
+"label": "Pico della Mirandola. De Morte Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5070",
+"@type": "sc:Manifest",
+"label": "Luchinus de Aretio. De prologis seu proemiis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5454",
+"@type": "sc:Manifest",
+"label": "Chroniques de France. Chroniques de France.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5039",
+"@type": "sc:Manifest",
+"label": "Augustine. De consensu evangelistarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5423",
+"@type": "sc:Manifest",
+"label": "Benivieni. Canzoni e sonetti dell' amore e della bellezza divina, con commento"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4953",
+"@type": "sc:Manifest",
+"label": "Guillermus Alvernus, Episcopus Parisiensis. Postilla super epistolas et evangelia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5337",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1468.  Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5721",
+"@type": "sc:Manifest",
+"label": "Orosius, Paulus. Historiae adversus paganos"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4895",
+"@type": "sc:Manifest",
+"label": "Mahomet II. Epistolae magni Turci."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5279",
+"@type": "sc:Manifest",
+"label": "Aristophanes. Comoediae novem [Greek]"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5663",
+"@type": "sc:Manifest",
+"label": "Livy. Historiae Romanae decades"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5049",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5433",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1454. Biblia latina. 31 leaves."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4817",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa theologicae, secundae partis, pars prima."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4697",
+"@type": "sc:Manifest",
+"label": "Quintillian. Institutiones oratoriae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5201",
+"@type": "sc:Manifest",
+"label": "Tritheim, Johann. De statu et ruina monastici ordinis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5081",
+"@type": "sc:Manifest",
+"label": "Pharetra fidei Catholicae. Pharetra fidei Catholicae contra Judaeos."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5585",
+"@type": "sc:Manifest",
+"label": "Hyginus. Poeticon astronomicon"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5465",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Tusculanae disputationes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4961",
+"@type": "sc:Manifest",
+"label": "Montaltus, Antonius Ludovicus. Tractatus reprobationis sententiae Pilati."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5345",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5729",
+"@type": "sc:Manifest",
+"label": "Perrault. Sermones de tempore et de sanctis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4840",
+"@type": "sc:Manifest",
+"label": "Vegius. Philalethes."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5224",
+"@type": "sc:Manifest",
+"label": "Dutch Old Testament. Vetus Testamentum. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5608",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Italian.. Imitazione di Gesu Cristo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4683",
+"@type": "sc:Manifest",
+"label": "Plotinus. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5067",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5451",
+"@type": "sc:Manifest",
+"label": "Cecco d'Ascoli, Francesco. L'Acerba"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4753",
+"@type": "sc:Manifest",
+"label": "Petrus Comestor. Historia scholastica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5137",
+"@type": "sc:Manifest",
+"label": "Speculum animae. Speculum animae peccatricis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5521",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). De evangelica praeparatione"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4879",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De passionibus animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4799",
+"@type": "sc:Manifest",
+"label": "Sixtus IV, Pope. Bulla indulgentiarum de aedificatione ecclesiae Nordlingensis 9 February 1479/80 (Salvator noster).."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5263",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Chronicon  Vol. 1"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5183",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5647",
+"@type": "sc:Manifest",
+"label": "Juvenal. Satyrae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5567",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae et tractatus Psalmorum & Cantici Canticorum Origenem e Graeco Traduction"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4960",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Paradoxa stoicorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5344",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1477. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5728",
+"@type": "sc:Manifest",
+"label": "Niccolo de' Tudeschi. Lectura super V libris decretalium Vol. 6"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4789",
+"@type": "sc:Manifest",
+"label": "Seneca. De quattuor virtutibus cardinalibus, sive De formula honestae vitae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5557",
+"@type": "sc:Manifest",
+"label": "Guillermus Alvernus, Episcopus Parisiensis. De fide et legibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4894",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5278",
+"@type": "sc:Manifest",
+"label": "Ariostis, Alexander de. De usuria"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5662",
+"@type": "sc:Manifest",
+"label": "Lactantius Placidus. Fabularum Ovidii abbreviatio"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4824",
+"@type": "sc:Manifest",
+"label": "Thomas (a Kempis). Opera, sermones, epistolae et alia opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5208",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi [French. L'Imitatione Christi ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5592",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5003",
+"@type": "sc:Manifest",
+"label": "Johannes de Capistrano. Tractatus de cupidate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5387",
+"@type": "sc:Manifest",
+"label": "Biel. Expositio brevis et interlinearis sacri canonis missae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5771",
+"@type": "sc:Manifest",
+"label": "Expositio hymnorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4977",
+"@type": "sc:Manifest",
+"label": "Henricus de Hassia. Secreta sacerdotum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5361",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1489. Biblia latina.  Vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4782",
+"@type": "sc:Manifest",
+"label": "Schedel. Das Buch der Chroniken und Geschichten."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5745",
+"@type": "sc:Manifest",
+"label": "Maillardus, Oliverius. La confession."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5166",
+"@type": "sc:Manifest",
+"label": "Locher, Jacobus. Libri philomusi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5550",
+"@type": "sc:Manifest",
+"label": "Gregorius IX, Pope. Decretales, cum glossa"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4845",
+"@type": "sc:Manifest",
+"label": "Zeno. Oratio pro Ferdinando rege ad Alexandrum VI."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5229",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1486. Biblia latina. Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5613",
+"@type": "sc:Manifest",
+"label": "Innocentius VIII, Pope. Regula quod ad instar non praeiudicet familiaribus descriptis, Lecta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4978",
+"@type": "sc:Manifest",
+"label": "Augustine. Opus quaestionum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5362",
+"@type": "sc:Manifest",
+"label": "Bible. Italian. 1493... Bible. Italian. 1493..(Tr. Niccolo Malermi.)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5746",
+"@type": "sc:Manifest",
+"label": "Samuel, Rabbi. Epistola contra Judaeorum errores [German]."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4765",
+"@type": "sc:Manifest",
+"label": "Pico della Mirandola. Apologia conclusionum suorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5149",
+"@type": "sc:Manifest",
+"label": "Concilium Constantiense. Acta et decreta."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5533",
+"@type": "sc:Manifest",
+"label": "Franciscus de Insulis. Quodlibet de veritate Fraternitatis Rosarii"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4823",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. De periculis contingentibus circa sacramentum eucharistiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5207",
+"@type": "sc:Manifest",
+"label": "Benedictus, Saint. Regula [German] ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5591",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4687",
+"@type": "sc:Manifest",
+"label": "Poliziano. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5071",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Sermones de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5455",
+"@type": "sc:Manifest",
+"label": "Chroniques de France. Chroniques de France.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5024",
+"@type": "sc:Manifest",
+"label": "Michael Scotus. Liber physiognomiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5408",
+"@type": "sc:Manifest",
+"label": "Breydenbach. Peregrinatio in terram sanctam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4971",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Pastorale, sive Regula pastoralis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5355",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1500. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5739",
+"@type": "sc:Manifest",
+"label": "Vorrillong, Guillermus. Super quattuor libros Sententiarum Petri Lombardi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4972",
+"@type": "sc:Manifest",
+"label": "Oraciones. Oraciones et alia pulchra ad Sanctam Annam."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5356",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1491. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5740",
+"@type": "sc:Manifest",
+"label": "Pope Innocentius VIII. [Indulgence]. Indulgentia 1490 [Spanish]. For promoting the crusade against the infidels."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4771",
+"@type": "sc:Manifest",
+"label": "Savonarola. Triumphus crucis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5155",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Floretus cum commento."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5539",
+"@type": "sc:Manifest",
+"label": "Grasselis. De eucharistia et De extrema unctione"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4709",
+"@type": "sc:Manifest",
+"label": "Sabellico. Decades rerum venetarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5093",
+"@type": "sc:Manifest",
+"label": "Herolt, Johannes. Sermones discipuli."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5477",
+"@type": "sc:Manifest",
+"label": "Cordiale quattuor novissimorum. Cordiale quattuor novissimorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4899",
+"@type": "sc:Manifest",
+"label": "Hugo de Sancto Charo. Postilla super psalterium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5283",
+"@type": "sc:Manifest",
+"label": "Ars Moriendi. Ars Moriendi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5667",
+"@type": "sc:Manifest",
+"label": "Ludolphus de Saxonia. Vita Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4846",
+"@type": "sc:Manifest",
+"label": "Augustine. Confessiones."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5230",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1486. Biblia latina. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5614",
+"@type": "sc:Manifest",
+"label": "Isidorus Hispalensis. De summo bono"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4688",
+"@type": "sc:Manifest",
+"label": "Poliziano. Silva cui titulus Manto Rusticus Ambra."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5072",
+"@type": "sc:Manifest",
+"label": "Pomerius. De vita contemplativa."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5456",
+"@type": "sc:Manifest",
+"label": "Chroniques de France. Chroniques de France.  Vol. 3."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4780",
+"@type": "sc:Manifest",
+"label": "Fridolin, Stephan. Schatzbehalter der wahren Reichtumer des Heils."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5164",
+"@type": "sc:Manifest",
+"label": "Watton, Johannes. Speculum Christiani."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5548",
+"@type": "sc:Manifest",
+"label": "Gravina. Oratio de Christi ascensu"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4776",
+"@type": "sc:Manifest",
+"label": "Savonarola. Trattato dell' umilta."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5160",
+"@type": "sc:Manifest",
+"label": "Perrinus, Johannes. Quaestio super dispensatione Fratrum Minorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5544",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Moralia, sive Expositio in Job"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4918",
+"@type": "sc:Manifest",
+"label": "Mazza, Clemente. Vita de San Zenobio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5302",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5686",
+"@type": "sc:Manifest",
+"label": "Marsus. Panegyricus in memoriam S Johannis Evangelistae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4814",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa contra gentiles, sive De veritate Catholicae fidei."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5198",
+"@type": "sc:Manifest",
+"label": "Petrus Blesensis . Epistolae ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5582",
+"@type": "sc:Manifest",
+"label": "Holcot. Quaestiones super IV libros Sententiarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4818",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa theologicae Pars secunda: Secunda pars."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5202",
+"@type": "sc:Manifest",
+"label": "Meditationes de vita et beneficiis Jesu Christi. Meditationes de vita et beneficiis Jesu Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5586",
+"@type": "sc:Manifest",
+"label": "Moses Coucy. Sefer Mizwot Gadol"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4677",
+"@type": "sc:Manifest",
+"label": "Platea, Franciscus de. Opus restitutionum, Usararum, Excommunicationum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5061",
+"@type": "sc:Manifest",
+"label": "Petrus Lombardus. Sententiarum libri IV, part IV only."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5445",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones quadragesimales de poenitentia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4858",
+"@type": "sc:Manifest",
+"label": "Missale. Missale Romanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5242",
+"@type": "sc:Manifest",
+"label": "Albertus Magnus. Compendium theologicae veritatis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5626",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Quadragesimales de sanctis. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5029",
+"@type": "sc:Manifest",
+"label": "Apuleius Madaurensis, Lucius. Asinus aureus, sive Metamorphosis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5413",
+"@type": "sc:Manifest",
+"label": "Burley. Expositio in Aristotelis Physica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4749",
+"@type": "sc:Manifest",
+"label": "Petrarca. Trionfi e Canzoniere."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5133",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum XXX (31) 'In te Domine speravi'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5517",
+"@type": "sc:Manifest",
+"label": "Euclid. Elementa geometria"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4827",
+"@type": "sc:Manifest",
+"label": "Trombeta. Opus doctrinae Scoticae in Thomistas."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5211",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1478. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5595",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5032",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Floretus (cum commento)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5416",
+"@type": "sc:Manifest",
+"label": "Burzio. Bononia illustrata"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4796",
+"@type": "sc:Manifest",
+"label": "Simone Fidati. Expositio super totum corpus Evangeliorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5180",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum XXX (31) 'In te Domine speravi'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5564",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Commentaria in Biblam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4703",
+"@type": "sc:Manifest",
+"label": "Rainerus de Pisis. Pantheologia, sive Summa universae theologiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5087",
+"@type": "sc:Manifest",
+"label": "Leo I, Pope.. Sermones."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5471",
+"@type": "sc:Manifest",
+"label": "Clemens V, Pope. Constitutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4766",
+"@type": "sc:Manifest",
+"label": "Pico della Mirandola. Aureae epistolae ab Ascensio recognitae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5150",
+"@type": "sc:Manifest",
+"label": "Wimpheling, Jacobus. Adolescentia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5534",
+"@type": "sc:Manifest",
+"label": "Odo. Expositio canonis missae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4992",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super Epistolas et Evangelia quadragesimalia (cum Questionibus Antonii Betoni et Alexandri de Ales)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5376",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1471. Biblia latina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4777",
+"@type": "sc:Manifest",
+"label": "Savonarola. Dyalago della verita prophetica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5161",
+"@type": "sc:Manifest",
+"label": "Savonarola. Sermone dell' orazione."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5545",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Moralia, sive Expositio in Job"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4893",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio orationis dominicae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5277",
+"@type": "sc:Manifest",
+"label": "Apuleius Madaurensis, Lucius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5661",
+"@type": "sc:Manifest",
+"label": "Livy. Historiae Romanae decades"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4673",
+"@type": "sc:Manifest",
+"label": "Platea, Franciscus de. Opus restitutionum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5057",
+"@type": "sc:Manifest",
+"label": "Guido de Monte Rochen. Manipulus curatorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5441",
+"@type": "sc:Manifest",
+"label": "Capella, Martianus. De nuptiis philologiae et mercurii de grammatica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4791",
+"@type": "sc:Manifest",
+"label": "Sermones exquisiti. Sermones exquisiti super epistolas per anni circulum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5175",
+"@type": "sc:Manifest",
+"label": "Diogenes Cynicus. Epistolae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5559",
+"@type": "sc:Manifest",
+"label": "Henricus de Zoemeren. Epitoma primae partis Dialogi de haereticis a Guilielmo de Ockam composti"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4704",
+"@type": "sc:Manifest",
+"label": "Regiomontanus. Ephemerides, sive Almanach perpetuum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5088",
+"@type": "sc:Manifest",
+"label": "Valascus de Tarenta. De epidemia et peste."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5472",
+"@type": "sc:Manifest",
+"label": "Columna, Franciscus. Hypnerotomachia Poliphili"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4869",
+"@type": "sc:Manifest",
+"label": "Simone da Lesina. Expositio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5253",
+"@type": "sc:Manifest",
+"label": "Ambrosius. De officiis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5637",
+"@type": "sc:Manifest",
+"label": "Monte. Expositio super logicam Petri Hispani"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4797",
+"@type": "sc:Manifest",
+"label": "Simon Dalmata. De baptismo Sancti Spiritus et eius virtute."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5181",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. De providentia Dei.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5565",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5015",
+"@type": "sc:Manifest",
+"label": "Ars Moriendi. Ars moriendi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5399",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Breviloquium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4804",
+"@type": "sc:Manifest",
+"label": "Statuta: Bergomi. Statutes of Bergamo."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5188",
+"@type": "sc:Manifest",
+"label": "Memoriale pro pueris. Memoriale pro pueris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5572",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vitae sanctorum patrum, sive Vitas patrum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4678",
+"@type": "sc:Manifest",
+"label": "Platina, Bartholomaeus. Vitae pontificum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5062",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Blony. Tractatus sacerdotalis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5446",
+"@type": "sc:Manifest",
+"label": "Cassianus, Johannes. De institutis coenobiorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4913",
+"@type": "sc:Manifest",
+"label": "Horae, use of Rome. Hore intemerate Virginis Marie secundum usum Romanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5297",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5681",
+"@type": "sc:Manifest",
+"label": "Marchesinus, Johannes. Mammotrectus super Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4773",
+"@type": "sc:Manifest",
+"label": "Savonarola. Della verita della fede cristiana sopra el glorioso triompho della croce."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5157",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De mendicitate spirituali."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5541",
+"@type": "sc:Manifest",
+"label": "Gratianus. Decretum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5033",
+"@type": "sc:Manifest",
+"label": "Bertholdus. Zeitglocklein des Lebens und Leidens Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5417",
+"@type": "sc:Manifest",
+"label": "Bartholomaeus Angelicus. De proprietatibus rerum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4998",
+"@type": "sc:Manifest",
+"label": "Hemmerlin, Felix. Opuscula et tractatus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5382",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1477.. Biblia germanica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5766",
+"@type": "sc:Manifest",
+"label": "Vocabularius rerum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4739",
+"@type": "sc:Manifest",
+"label": "Savonarola. Del sacramento della messa a regola utile."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5123",
+"@type": "sc:Manifest",
+"label": "Cassius Dio. Vitae Nervae et Traiani."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5507",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in secundum librum Sententiarum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4933",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Summa theologica  Part IV."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5317",
+"@type": "sc:Manifest",
+"label": "Augustine. Explanatio Psalmorum Vol. II"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5701",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Blony. De sacramentis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4834",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Quaestiones Evangeliorum de tempore et de sanctis Part II."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5218",
+"@type": "sc:Manifest",
+"label": "Horae, use of Rome. Horae beatae virginis Mariae ad usum Romanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5602",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4993",
+"@type": "sc:Manifest",
+"label": "Savonarola. Dell' orazione mentale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5377",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1493. Biblia latina cum postillis Nicolai de Lyra Part IV"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4707",
+"@type": "sc:Manifest",
+"label": "Sanchez de Arevalo. Speculum vitae humanae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5091",
+"@type": "sc:Manifest",
+"label": "Jordanus de Quedlinburg. Passio Christi secundum quattour evangelistas."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5475",
+"@type": "sc:Manifest",
+"label": "Conradus de Aleman(n)ia. Concordantiae bibliorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4969",
+"@type": "sc:Manifest",
+"label": "Paulus de Castro. Infortiatum: Super II parte Infortiati."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5353",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Copy 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5737",
+"@type": "sc:Manifest",
+"label": "Alexander de Villa Dei. Doctrinale (Pars I)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5004",
+"@type": "sc:Manifest",
+"label": "Martyrologium. Viola sanctorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5388",
+"@type": "sc:Manifest",
+"label": "Biel. Sermones Part I"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5772",
+"@type": "sc:Manifest",
+"label": "De consolatione theologiae. Summarium Libri de Consolatione theologie."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4854",
+"@type": "sc:Manifest",
+"label": "Clemens V, Pope. Constitutiones."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5238",
+"@type": "sc:Manifest",
+"label": "Isidorus Hispalensis. Dialogus sive synonyma"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5622",
+"@type": "sc:Manifest",
+"label": "Jacobus Philippus de Bergamo (Foresti). De claris mulieribus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4679",
+"@type": "sc:Manifest",
+"label": "Plautus. Comoediae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5063",
+"@type": "sc:Manifest",
+"label": "Rampigollis, Antonius . Figurae bibliae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5447",
+"@type": "sc:Manifest",
+"label": "Cassiodorus, Magnus Aurelius. Historia ecclesiastica tripartita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5000",
+"@type": "sc:Manifest",
+"label": "Sancto Blasio. Varii tractatus juridici."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5384",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1483.. Biblia germanica.  Copy 1.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5768",
+"@type": "sc:Manifest",
+"label": "De summo bono"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4722",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola contra sententiam excommunicationis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5106",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. De reparatione lapsi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5490",
+"@type": "sc:Manifest",
+"label": "Dares Phrygius. De excidio Troiae historia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4675",
+"@type": "sc:Manifest",
+"label": "Platina, Bartholomaeus. Vitae pontificum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5059",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). Historia ecclesiastica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5443",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones quadragesimales de peccatis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4996",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5380",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1470.. Biblia germanica.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4772",
+"@type": "sc:Manifest",
+"label": "Savonarola. Sermone sopra la nativita."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5156",
+"@type": "sc:Manifest",
+"label": "Franciscus de Assisio. Fioretti."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5540",
+"@type": "sc:Manifest",
+"label": "Gratianus. Decretum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4909",
+"@type": "sc:Manifest",
+"label": "Bossus, Matthaeus. Sermo in jesu christi passionem."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5293",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5677",
+"@type": "sc:Manifest",
+"label": "Manilius. Oratio pro Britonoriensibus ad Alexandrum VI"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4808",
+"@type": "sc:Manifest",
+"label": "Terasse. Oratio de divina providentia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5192",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Imitatio Christi. Add: Johannes Gerson: De meditatione cordis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5576",
+"@type": "sc:Manifest",
+"label": "Ockam, William of. Quodlibeta septem una cum tractatu De sacramento altaris"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4871",
+"@type": "sc:Manifest",
+"label": "Ambrosius . Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5255",
+"@type": "sc:Manifest",
+"label": "Andreae, Johannes. Super arboribus consanguinitatis, affinitatis et cognationis spiritualis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5639",
+"@type": "sc:Manifest",
+"label": "Josephus. De antiquitate Judaica  De Bello Judaico"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4809",
+"@type": "sc:Manifest",
+"label": "Terentius Afer, Publius. Comodiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5193",
+"@type": "sc:Manifest",
+"label": "Nider, Johannes. Consolatorium timoratae conscientiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5577",
+"@type": "sc:Manifest",
+"label": "Homer. Opera Greek"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4967",
+"@type": "sc:Manifest",
+"label": "Beroaldus, Philippus. Heptalogos."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5351",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1487. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5735",
+"@type": "sc:Manifest",
+"label": "Passio Sanctorum. Passio sanctorum decem milium militum ac martyrum crucifixorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4914",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Breviloquium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5298",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5682",
+"@type": "sc:Manifest",
+"label": "Marchesinus, Johannes. Mammotrectus super Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4897",
+"@type": "sc:Manifest",
+"label": "Maius, Junianus. De priscorum proprietate verborum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5281",
+"@type": "sc:Manifest",
+"label": "Aristotle. Ethica ad nicomachum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5665",
+"@type": "sc:Manifest",
+"label": "Lucanus, Marcus Annaeus. Pharsalia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4734",
+"@type": "sc:Manifest",
+"label": "Savonarola. Operetta sopra i dieci commandamenti di Dio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5118",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. De censuris ecclesiasticis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5502",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in quartum librum Sententiarum. Part 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4842",
+"@type": "sc:Manifest",
+"label": "Vergerius. De ingenuis moribus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5226",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1478. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5610",
+"@type": "sc:Manifest",
+"label": "Innocentius VIII, Pope. Bulla Canonisationis Sancti Leopoldi Marchionis (Sacrosanctam matrem ecclesiam)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4965",
+"@type": "sc:Manifest",
+"label": "Valle, Robertus. Compendium memorandorum vires naturales et commoda comprehendens a Plinio data."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5349",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1479. Biblia latina"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5733",
+"@type": "sc:Manifest",
+"label": "Perrault. Summa de virtutibus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4733",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum LXXIX (80) 'Qui regis Israel'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5117",
+"@type": "sc:Manifest",
+"label": "Celtis, Conradus. Septernaria sodalitas litteraria Germaniae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5501",
+"@type": "sc:Manifest",
+"label": "Dionysius Halicarnaseus. Antiquitates Romanae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5055",
+"@type": "sc:Manifest",
+"label": "Hilarius Litomericensis. Tractatus contra Bohemorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5439",
+"@type": "sc:Manifest",
+"label": "Calderinus, Domitius. Commentarii in Martialem"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4781",
+"@type": "sc:Manifest",
+"label": "Schedel. Liber chronicarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5165",
+"@type": "sc:Manifest",
+"label": "Augustine (pseudo). De cognitione verae vitae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5549",
+"@type": "sc:Manifest",
+"label": "Gregorius I, Pope. Pastorale"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5020",
+"@type": "sc:Manifest",
+"label": "Bridget of Sweden. Revelationes (with Turrecremata)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5404",
+"@type": "sc:Manifest",
+"label": "Boniface VIII, Pope. Liber sextus decretalium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5038",
+"@type": "sc:Manifest",
+"label": "Beroaldus, Philippus. De felicitate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5422",
+"@type": "sc:Manifest",
+"label": "Benedict, St.. De conservatione Sanitatis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5013",
+"@type": "sc:Manifest",
+"label": "Ambrosius. De officiis, et opuscula."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5397",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Meditationes vitae Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4693",
+"@type": "sc:Manifest",
+"label": "Publico. Artes orandi, epistolandi, memorandi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5077",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). Historia ecclesiastica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5461",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Orationes"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4716",
+"@type": "sc:Manifest",
+"label": "Savonarola. Compendium di revelatione."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5100",
+"@type": "sc:Manifest",
+"label": "Houppelande, Guillermus. De immortalitate animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5484",
+"@type": "sc:Manifest",
+"label": "Cornelius Nepos. Vitae imperatorum, sive De vita illustrium virorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4813",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Super quarto libro Sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5197",
+"@type": "sc:Manifest",
+"label": "Bernardinus Senensis . Sermones de festivitatibus Virginis gloriosae ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5581",
+"@type": "sc:Manifest",
+"label": "Houppelande, Guillermus. De immortalitate animae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4680",
+"@type": "sc:Manifest",
+"label": "Pliny, the Elder. Historia naturalis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5064",
+"@type": "sc:Manifest",
+"label": "Textor. Sermones tres de Passione Christi."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5448",
+"@type": "sc:Manifest",
+"label": "Catharina Senensis. Epistole (XXXI)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4727",
+"@type": "sc:Manifest",
+"label": "Savonarola. In Psalmum V (5): Exposizione sopra il salmo Verba mea."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5111",
+"@type": "sc:Manifest",
+"label": "Riedrer, Friedrich. Spiegel der wahren Rhetorik."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5495",
+"@type": "sc:Manifest",
+"label": "Diodorus Siculus. Bibliotheca historicae libri VI"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4712",
+"@type": "sc:Manifest",
+"label": "Sanchez de Arevalo. Speculum vitae humanae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5096",
+"@type": "sc:Manifest",
+"label": "Alphabetum divini amoris. Alphabetum divini amoris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5480",
+"@type": "sc:Manifest",
+"label": "Costa. De ludo"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4699",
+"@type": "sc:Manifest",
+"label": "Rainerus de Pisis. Pantheologia, sive Summa universae theologiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5083",
+"@type": "sc:Manifest",
+"label": "Sequentiae. Textus sequentiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5467",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. De natura deorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4752",
+"@type": "sc:Manifest",
+"label": "Petrarca. De remediis utriusque fortunae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5136",
+"@type": "sc:Manifest",
+"label": "Lupius Rebello, Jacobus. Fructus sacramenti penitentie."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5520",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). De evangelica praeparatione"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5021",
+"@type": "sc:Manifest",
+"label": "Dictys Cretensis. Historia Troiana."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5405",
+"@type": "sc:Manifest",
+"label": "Clemens V, Pope. Constitutiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5051",
+"@type": "sc:Manifest",
+"label": "Cora, Ambrosius de. Vita S. Augustini."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5435",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1462. Biblia latina. Vol. 2"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4715",
+"@type": "sc:Manifest",
+"label": "Savonarola. Dell'amore de Gesu."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5099",
+"@type": "sc:Manifest",
+"label": "Guillermus Baufet, Episcopus Parisiensis. Dialogus de septem sacramentis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5483",
+"@type": "sc:Manifest",
+"label": "Cyprianus, St.. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5016",
+"@type": "sc:Manifest",
+"label": "Guillermus of Gouda. Expositio mysteriorum missae et verus modus rite celebrandi.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5400",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Opuscula"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4928",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Summa Theologica, Part II, part I."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5312",
+"@type": "sc:Manifest",
+"label": "Augustine. Confessiones"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5696",
+"@type": "sc:Manifest",
+"label": "Modus Legendi. Modus legendi abbreviaturas cum aliis tractatibus iuridicis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4674",
+"@type": "sc:Manifest",
+"label": "Platina, Bartholomaeus. De honesta Voluptate et valetudine."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5058",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. Commentarius in epistulam."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5442",
+"@type": "sc:Manifest",
+"label": "Caracciolus, Robertus. Sermones quadragesimales de poenitentia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5031",
+"@type": "sc:Manifest",
+"label": "Epistola de miseria curatorum. Epistola de miseria curatorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5415",
+"@type": "sc:Manifest",
+"label": "Cadratus. Oratio ad Innocentium VIII habita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5017",
+"@type": "sc:Manifest",
+"label": "Herveus Natalis. Quatuor quodlibeta."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5401",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Soliloquium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4889",
+"@type": "sc:Manifest",
+"label": "Johannes Chrysostomus. Sermones de patientia in Job."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5273",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Trialogus super evangelio de duobus discipulis centibus in Emmaus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5657",
+"@type": "sc:Manifest",
+"label": "Leonardus Matthaei de Utino. Quadragesimale Aureum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4849",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Speculum de honestate vitae  Octo punta perfectionis assequendae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5233",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1470. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5617",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenda aurea"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4999",
+"@type": "sc:Manifest",
+"label": "Savonarola. Processo di Savonarola."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5383",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1483.. Biblia germanica.  Copy 1.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5767",
+"@type": "sc:Manifest",
+"label": "De disciplina christiana"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4987",
+"@type": "sc:Manifest",
+"label": "Vergilius Maro. Bucolica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5371",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4997",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5381",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1474.. Biblia germanica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5765",
+"@type": "sc:Manifest",
+"label": "Vocabularius ex quo."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5050",
+"@type": "sc:Manifest",
+"label": "Cora, Ambrosius de. Defensorium ordinis Heremitarum S. Augustini."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5434",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1462. Biblia latina. Vol. 1"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4944",
+"@type": "sc:Manifest",
+"label": "Missale. Missale Romanum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5328",
+"@type": "sc:Manifest",
+"label": "Ausonius. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5712",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Postilla super totam Bibliam"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4976",
+"@type": "sc:Manifest",
+"label": "Honorius Augustodunensis. Expositio in librum Salomonis qui dicitur Cantica canticorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5360",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1489. Biblia latina.  Vol. 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4904",
+"@type": "sc:Manifest",
+"label": "Michael Scotus. Liber physiognomiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5288",
+"@type": "sc:Manifest",
+"label": "Augustine. De civitate Dei"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5672",
+"@type": "sc:Manifest",
+"label": "Magni. Sophologium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4720",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola alla Contessa della Mirandola."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5104",
+"@type": "sc:Manifest",
+"label": "Nicolaus de Lyra. Praeceptorium divinae legis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5488",
+"@type": "sc:Manifest",
+"label": "Dante. La Commedia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4811",
+"@type": "sc:Manifest",
+"label": "Tegliatus. Oratio in die Omnium Sanctorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5195",
+"@type": "sc:Manifest",
+"label": "Honorius Augustodunensis . Lucidarius."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5579",
+"@type": "sc:Manifest",
+"label": "Horae, use of Rome. Horae Beatae Virginis Mariae: ad usum Romanum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4769",
+"@type": "sc:Manifest",
+"label": "Savonarola. Sermone dell' orazione (Sermone della oratione)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5153",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Sermones super Cantica Canticorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5537",
+"@type": "sc:Manifest",
+"label": "Grasselis. De gratia recuperanda"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4876",
+"@type": "sc:Manifest",
+"label": "Savonarola. Apologeticus fratrum congregationis S. Marci."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5260",
+"@type": "sc:Manifest",
+"label": "Angelus de Clavassio. Summa angelica de casibus conscientiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5644",
+"@type": "sc:Manifest",
+"label": "Justinus, Marcus Junianus. Epitomae in Trogi Pompeii historias"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5011",
+"@type": "sc:Manifest",
+"label": "Josephus. De antiquitate Judaica  De Bello Judaico ."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5395",
+"@type": "sc:Manifest",
+"label": "Boethius. De institutione arithmetica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4745",
+"@type": "sc:Manifest",
+"label": "Savonarola. Sermone sopra la nativita."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5129",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vita et transitus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5513",
+"@type": "sc:Manifest",
+"label": "Epistolae diversorum philosophorum. Epistolae diversorum philosophorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4682",
+"@type": "sc:Manifest",
+"label": "Plutarch. Vitae illustrium virorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5066",
+"@type": "sc:Manifest",
+"label": "Ambrosius. Expositio in evangelium S. Lucae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5450",
+"@type": "sc:Manifest",
+"label": "Catharina Senensis. Epistole (CCLXVIII)"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4735",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum L (51) 'Miserere mei Deus'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5119",
+"@type": "sc:Manifest",
+"label": "Bonaventura. Breviloquium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5503",
+"@type": "sc:Manifest",
+"label": "Duns Scotus, Johannes. Quaestiones in quartum librum Sententiarum. Part 1."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4994",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5378",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1466.. Biblia germanica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4760",
+"@type": "sc:Manifest",
+"label": "Petrus de Vicentia. Oratio pro capessenda expeditione contra infideles."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5144",
+"@type": "sc:Manifest",
+"label": "Philelphus, Franciscus. Orationes cum quibusdam aliis eiusdem operibus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5528",
+"@type": "sc:Manifest",
+"label": "Ferrerius, Vincentius. Sermones de tempore et de sanctis Parts II-III"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4973",
+"@type": "sc:Manifest",
+"label": "Gaza, Theodorus. Grammatica introductiva."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5357",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1491. Biblia latina.  Copy 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5741",
+"@type": "sc:Manifest",
+"label": "Modus vacandi. Modus vacandi et acceptandi beneficiorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5052",
+"@type": "sc:Manifest",
+"label": "Durantis, Guillelmus. Rationale divinorum officiorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5436",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1468.  Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5019",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Scriptum super IV libros Sententiarum. Liber 4."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5403",
+"@type": "sc:Manifest",
+"label": "Boniface VIII, Pope. Liber sextus decretalium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4685",
+"@type": "sc:Manifest",
+"label": "Poggio, Jacopo. Sopra il trionfo della fama di messer Francesco Patrarcha."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5069",
+"@type": "sc:Manifest",
+"label": "Blondus, Flavius. Roma instaurata."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5453",
+"@type": "sc:Manifest",
+"label": "Chieregatus. Oratio in funere Innocentii VIII"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4990",
+"@type": "sc:Manifest",
+"label": "Gentilis Becchius Urbinas. Oratio Florentinorum coram Alexandro VI habita."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5374",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1498. Biblia latina.  Vol. 5."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5002",
+"@type": "sc:Manifest",
+"label": "Vineis, Raimundus de. Vita di S Catarina da Siena."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5386",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1494.. Biblia germanica"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5770",
+"@type": "sc:Manifest",
+"label": "Vocabularius praedicantium sive Variloquus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5782",
+"@type": "sc:Manifest",
+"label": "Boethius, -524. De trinitate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4705",
+"@type": "sc:Manifest",
+"label": "Regius, Raphael. Ducenta problemata in Quintiliani depravationes."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5089",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositione di frate Hieronymo da Ferrara sopra el Psalmo L, Miserere mei Deus."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5473",
+"@type": "sc:Manifest",
+"label": "Columna, G. de. Historia destructionis Troiae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4706",
+"@type": "sc:Manifest",
+"label": "Repertorium. Repertorium Aureum continens titulos quinque librorum Decretalium, sive Concordantiae utriusque iuris."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5090",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum LXXIX (80) 'Qui regis Israel'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5474",
+"@type": "sc:Manifest",
+"label": "Compendium octo partium orationis. Compendium octo partium orationis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4746",
+"@type": "sc:Manifest",
+"label": "Savonarola. Sermone sopra la nativita."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5130",
+"@type": "sc:Manifest",
+"label": "Dionysius Carthusiensis. Specula omnis status vitae humanae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5514",
+"@type": "sc:Manifest",
+"label": "Epistolae et evangelia. Epistolae et evangelia"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4831",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. De efficacia aquae benedictae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5215",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1497. Biblia cum concordantiis Ueteris et Noui Testamenti."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5599",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4748",
+"@type": "sc:Manifest",
+"label": "Peregrinus. Sermones de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5132",
+"@type": "sc:Manifest",
+"label": "Rolewinck, Werner. Forumula vivendi canonicorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5516",
+"@type": "sc:Manifest",
+"label": "Etymologicum magnum graecum. Etymologicum magnum graecum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4698",
+"@type": "sc:Manifest",
+"label": "Rainerus de Pisis. Pantheologia, sive Summa universae theologiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5082",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Quaestiones Evangeliorum de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5466",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. De officiis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5044",
+"@type": "sc:Manifest",
+"label": "Jordanus de Quedlinburg. Sermones dan de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5428",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Sermones de tempore et de sanctis et de diversis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5035",
+"@type": "sc:Manifest",
+"label": "Geradus de Zutphania. De reformatione virium animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5419",
+"@type": "sc:Manifest",
+"label": "Bartolinus, Pius Antonius. Correctio locorum LXX Iuris Civilis De ordine imperatorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4729",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum L (51) 'Miserere mei Deus'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5113",
+"@type": "sc:Manifest",
+"label": "Landora, Berengarius de. Lumen animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5497",
+"@type": "sc:Manifest",
+"label": "Diogenes Laertius. Vitae et sententiae philosophorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5022",
+"@type": "sc:Manifest",
+"label": "Statuta: Coloniensis. Statuta ecclesiae Coloniensis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5406",
+"@type": "sc:Manifest",
+"label": "Bossus, Matthaeus. Recuperationes Faesulanae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5005",
+"@type": "sc:Manifest",
+"label": "Petrus de Palude. In quartum sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5389",
+"@type": "sc:Manifest",
+"label": "Blondus, Flavius. Roma triumphans"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5773",
+"@type": "sc:Manifest",
+"label": "Vindicta seu defensio monasticae reformationis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4718",
+"@type": "sc:Manifest",
+"label": "Savonarola. Epistola a uno amico."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5102",
+"@type": "sc:Manifest",
+"label": "Isidorus Hispalensis. De summo bono."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5486",
+"@type": "sc:Manifest",
+"label": "Dalberg, Johann von. Gratulatio Innocentio VIII dicta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4714",
+"@type": "sc:Manifest",
+"label": "Sancta Ella. Oratio in die Parasceve anno 1477."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5098",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De passionibus animae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5482",
+"@type": "sc:Manifest",
+"label": "Curtius Rufus, Quintus. Historiae Alexandri Magni"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4896",
+"@type": "sc:Manifest",
+"label": "Eusebius Caesariensis (Eusebius Pamphili). Historia ecclesiastica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5280",
+"@type": "sc:Manifest",
+"label": "Aristotle. Opera [Greek] Vol. 5"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5664",
+"@type": "sc:Manifest",
+"label": "Lollius, Antonius. Oratio Circumcisionis dominicae coram Innocentio VIII habita"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5028",
+"@type": "sc:Manifest",
+"label": "Petrus de Palude. Sermones thesauri novi de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5412",
+"@type": "sc:Manifest",
+"label": "Brutus, Petrus. Victoria contra judaeos"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5034",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Meditationes de interiori homine."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5418",
+"@type": "sc:Manifest",
+"label": "Beda. Repertorum auctoritatum aristotelis et aliorum philosophorum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5012",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1481. Biblia latina cum postillis Nicolai de Lyra."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5396",
+"@type": "sc:Manifest",
+"label": "Biel. Epitoma expositionis sacri canonis missae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4835",
+"@type": "sc:Manifest",
+"label": "Turrecremata, Johannes de. Quaestiones Evangeliorum de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5219",
+"@type": "sc:Manifest",
+"label": "Psalterium. Psalterium cum apparatu vulgari familiariter appresso.  Lateinisch Psalter mit dem teutschen Nutzlichen dabey gedruckt.."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5603",
+"@type": "sc:Manifest",
+"label": "Imitatio Christi. Latin.. Imitatio Christi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4732",
+"@type": "sc:Manifest",
+"label": "Savonarola. Expositio in Psalmum LXXIX (80) 'Qui regis Israel'."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5116",
+"@type": "sc:Manifest",
+"label": "Gaguinus, Robertus. Compendium de origine et gestis Francorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5500",
+"@type": "sc:Manifest",
+"label": "Dio Chrysostomus. In Troia non capta"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4798",
+"@type": "sc:Manifest",
+"label": "Simonetta. Commentarii rerum gestarum Francisci Sfortiae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5182",
+"@type": "sc:Manifest",
+"label": "Maximilian I. Coronatio Maximiliani."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5566",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae et tractatus"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5054",
+"@type": "sc:Manifest",
+"label": "(pseudo) Eusebius. Epist. Ad Damasum et Theodosium."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5438",
+"@type": "sc:Manifest",
+"label": "Campano. Opera"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5027",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1483. Biblia Latina. Vol. 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5411",
+"@type": "sc:Manifest",
+"label": "Bruni. Historiae Florentini populi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4767",
+"@type": "sc:Manifest",
+"label": "Thomas Aquinas. Scripta ad Hanibaldum episcopum super quattuor libros Sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5151",
+"@type": "sc:Manifest",
+"label": "Mediavilla, Richardus de. Commentum super quarto Sententiarum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5535",
+"@type": "sc:Manifest",
+"label": "Gellius, Aulus. Noctes atticae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4800",
+"@type": "sc:Manifest",
+"label": "Silius Italicus. Punica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5184",
+"@type": "sc:Manifest",
+"label": "Novum Testamentum [French]. Cy commence la Table du nouueau testament."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5568",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Epistolae"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4905",
+"@type": "sc:Manifest",
+"label": "Tacitus. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5289",
+"@type": "sc:Manifest",
+"label": "Augustine. Expositio evangelii secundum Johannem"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5673",
+"@type": "sc:Manifest",
+"label": "Maillard. Sermones de adventu"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4725",
+"@type": "sc:Manifest",
+"label": "Savonarola. Esposizione sopra l'Ave Maria."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5109",
+"@type": "sc:Manifest",
+"label": "Antoninus, Florentinus. Confessionale."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5493",
+"@type": "sc:Manifest",
+"label": "Dialogus. Dialogus inter clericum et militem"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5043",
+"@type": "sc:Manifest",
+"label": "Anselm. Opera."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5427",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Modus Bene vivendi"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4848",
+"@type": "sc:Manifest",
+"label": "Bartolus de Saxonferrato. Infortiatum: Super secunda parte Infortiati."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5232",
+"@type": "sc:Manifest",
+"label": "Bible. Latin. Vulgate. 1479. Biblia latina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5616",
+"@type": "sc:Manifest",
+"label": "Jacobus de Theramo (Palladinus). Consolatio peccatorum, seu Processus Belial"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4770",
+"@type": "sc:Manifest",
+"label": "Savonarola. De simplicitate christianae vitae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5154",
+"@type": "sc:Manifest",
+"label": "Bernardus Claravallensis. Sermones de tempore et de sanctis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5538",
+"@type": "sc:Manifest",
+"label": "Gratianus. Decretum"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4713",
+"@type": "sc:Manifest",
+"label": "Samuel Maroccanus. Epistola contra Judaeorum errores."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5097",
+"@type": "sc:Manifest",
+"label": "Gerson, Johannes. De sollicitudine ecclesiasticorum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5481",
+"@type": "sc:Manifest",
+"label": "Crescenzi. Ruralia commoda"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5010",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Legenga aurea sanctorum, sive Lombardica historia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5394",
+"@type": "sc:Manifest",
+"label": "Boethius. De disciplina scholarium"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5778",
+"@type": "sc:Manifest",
+"label": "Catholic Church. [Missal (Olomouc).] Missale Olomucen[se]. Olomütz."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4690",
+"@type": "sc:Manifest",
+"label": "Pontano. Singularia."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5074",
+"@type": "sc:Manifest",
+"label": "Hieronymus. Vitae sanctorum patrum."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5458",
+"@type": "sc:Manifest",
+"label": "Cicero, Marcus Tullius. Epistolae ad familiares"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5046",
+"@type": "sc:Manifest",
+"label": "Augustine. De moribus ecclesiae catholicae."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5430",
+"@type": "sc:Manifest",
+"label": "Bertrandus. Libellus de iurisdictione ecclesiastica contra Petrum de Cugneriis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5781",
+"@type": "sc:Manifest",
+"label": "Hilary, Saint, Bishop of Poitiers, -367?. De trinitate contra Arianos."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5001",
+"@type": "sc:Manifest",
+"label": "Guillermus Alvernus, Episcopus Parisiensis. Rhetorica divina."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5385",
+"@type": "sc:Manifest",
+"label": "Bible. German. 1483.. Biblia germanica.  Copy 2."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5769",
+"@type": "sc:Manifest",
+"label": "De cordis compunctione. Add: Pseudo-Augustine: De contritione cordis."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/4692",
+"@type": "sc:Manifest",
+"label": "Psalterium. Commentaria in Psalmos et Cantica."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5076",
+"@type": "sc:Manifest",
+"label": "Jacobus de Voragine. Leben der Heiligen."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5460",
+"@type": "sc:Manifest",
+"label": "Cato. Documenta moralia Catonis"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5786",
+"@type": "sc:Manifest",
+"label": "Fliscus, Stephanus.Sententiarum variationes, seu Synonyma."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5779",
+"@type": "sc:Manifest",
+"label": "Ximenes de Cisneros, Garcia. Exercitatorium vitae spiritualis. [Spanish] Exercitatorio de la vida espiritual"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5780",
+"@type": "sc:Manifest",
+"label": "Augustine, of Hippo, Saint, 354-430. De trinitate."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5788",
+"@type": "sc:Manifest",
+"label": "Antoninus, Saint, Archbishop of Florence. Confessionale : Defecerunt scrutantes scrutinio."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5783",
+"@type": "sc:Manifest",
+"label": "[Apocalypsis Sancti Johannis]. 1 leaf."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5784",
+"@type": "sc:Manifest",
+"label": "[Coffret]"
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5790",
+"@type": "sc:Manifest",
+"label": "Bonaventure, Saint, Cardinal, approximately 1217-1274. Hier beghint boec van die vier oefeninghen Bonauenture."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5787",
+"@type": "sc:Manifest",
+"label": "Albertus, Magnus, Saint. Secreta mulierum et virorum, cum commento."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5789",
+"@type": "sc:Manifest",
+"label": "Savonarola, Girolamo (1452-1498). Prohemio sopra la expositione del Pater noster. Epistola della comunione."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5785",
+"@type": "sc:Manifest",
+"label": "Dominus quae pars (3 fragments)."
+},
+{
+"@id": "http://digitalcollections.smu.edu/digital/iiif-info/brinc/5791",
+"@type": "sc:Manifest",
+"label": "Fonseca, Alonso de, 1422-1505. [Bula de indulgencias a favor de la catedral de Burgo de Osma]"
+}
+]
+}

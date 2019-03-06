@@ -1,0 +1,341 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Newark Public Library",
+"viewingHint": "top",
+"description": "The medieval manuscripts are part of the Richard C. Jenkinson Collection in the Special Collections Division of The Newark Public Library. 50 Original Leaves from Medieval Manuscripts: Beginning in the late 1940’s, Otto Frederick Ege (pronounced EGG-ee), a professor of art history and later Dean of the Cleveland Institute of Art, created portfolios of individual leaves from fifty different medieval European illuminated manuscripts dating from the 12th to the 16th century. Ege boxed each portfolio, numbered the boxes from 1 to 40, and included brief descriptions of each manuscript. The Newark Public Library acquired set 34 from trustee Richard C. Jenkinson. https://cdm17229.contentdm.oclc.org/digital/collection/p17229coll19",
+"attribution": "Provided by Newark Public Library",
+"manifests": [
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/179",
+"@type": "sc:Manifest",
+"label": "Spanish Antiphonary"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/214",
+"@type": "sc:Manifest",
+"label": "14. Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/178",
+"@type": "sc:Manifest",
+"label": "Latin Manuscript"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/185",
+"@type": "sc:Manifest",
+"label": "1. New Testament (Testamentum Novum, cum Glossis Bedae, Hieronymi, et Gregorii)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/208",
+"@type": "sc:Manifest",
+"label": "15. Missal (Missale Bellovacense)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/218",
+"@type": "sc:Manifest",
+"label": "25. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/213",
+"@type": "sc:Manifest",
+"label": "49. Missal (Missale)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/229",
+"@type": "sc:Manifest",
+"label": "50. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/187",
+"@type": "sc:Manifest",
+"label": "9. Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/175",
+"@type": "sc:Manifest",
+"label": "Missal (bound)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/180",
+"@type": "sc:Manifest",
+"label": "Music Manuscripts, Leaves 8 & 40"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/202",
+"@type": "sc:Manifest",
+"label": "23. Breviary (Breviarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/184",
+"@type": "sc:Manifest",
+"label": "French Manuscript"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/228",
+"@type": "sc:Manifest",
+"label": "42. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/222",
+"@type": "sc:Manifest",
+"label": "26. Missal (Missale)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/176",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/230",
+"@type": "sc:Manifest",
+"label": "46. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/177",
+"@type": "sc:Manifest",
+"label": "Italian Manuscript"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/221",
+"@type": "sc:Manifest",
+"label": "31. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/231",
+"@type": "sc:Manifest",
+"label": "47. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/212",
+"@type": "sc:Manifest",
+"label": "32. Gradual (Graduale)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/225",
+"@type": "sc:Manifest",
+"label": "45. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/194",
+"@type": "sc:Manifest",
+"label": "37. Epistolary (Epistolarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/195",
+"@type": "sc:Manifest",
+"label": "5. Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/224",
+"@type": "sc:Manifest",
+"label": "30. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/198",
+"@type": "sc:Manifest",
+"label": "7. Aurora (Aurora)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/193",
+"@type": "sc:Manifest",
+"label": "13. Oxford Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/186",
+"@type": "sc:Manifest",
+"label": "41. Dialogues of Gregory the Great"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/197",
+"@type": "sc:Manifest",
+"label": "3. Lectionary (Lectionarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/211",
+"@type": "sc:Manifest",
+"label": "8. Gradual (Graduale)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/220",
+"@type": "sc:Manifest",
+"label": "4. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/204",
+"@type": "sc:Manifest",
+"label": "2. Missal (Missale Plenarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/182",
+"@type": "sc:Manifest",
+"label": "A Book of Services for Christmas"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/207",
+"@type": "sc:Manifest",
+"label": "21. Hymnal (Hymnarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/233",
+"@type": "sc:Manifest",
+"label": "29. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/199",
+"@type": "sc:Manifest",
+"label": "19. Vulgate Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/17",
+"@type": "sc:Manifest",
+"label": "Spanish Missal"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/217",
+"@type": "sc:Manifest",
+"label": "34. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/181",
+"@type": "sc:Manifest",
+"label": "German Missal(s)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/215",
+"@type": "sc:Manifest",
+"label": "44. Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/191",
+"@type": "sc:Manifest",
+"label": "12. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/232",
+"@type": "sc:Manifest",
+"label": "36. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/209",
+"@type": "sc:Manifest",
+"label": "6. Cambridge Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/183",
+"@type": "sc:Manifest",
+"label": "Music Manuscript French"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/188",
+"@type": "sc:Manifest",
+"label": "40. Thomas Aquinas' Commentary on the Sentences"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/216",
+"@type": "sc:Manifest",
+"label": "17. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/219",
+"@type": "sc:Manifest",
+"label": "20. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/189",
+"@type": "sc:Manifest",
+"label": "11. Bible (Biblia Sacra Latina, Versio Vulgata)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/206",
+"@type": "sc:Manifest",
+"label": "38. Missal (Missale Lemovicense Castrense)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/226",
+"@type": "sc:Manifest",
+"label": "48. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/174",
+"@type": "sc:Manifest",
+"label": "Breviary"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/210",
+"@type": "sc:Manifest",
+"label": "22. Missal (Missale Herbipolense)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/196",
+"@type": "sc:Manifest",
+"label": "35. Writings of St. Jerome (Sanctus Hieronymus, Contra Jovinianum)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/234",
+"@type": "sc:Manifest",
+"label": "43. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/200",
+"@type": "sc:Manifest",
+"label": "33. Missal (Missale)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/201",
+"@type": "sc:Manifest",
+"label": "27. Antiphonal (Antiphonarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/4",
+"@type": "sc:Manifest",
+"label": "Church Hymnal Manuscript"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/173",
+"@type": "sc:Manifest",
+"label": "Quaestio contra Judaeos"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/205",
+"@type": "sc:Manifest",
+"label": "18. Breviary (Breviarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/2",
+"@type": "sc:Manifest",
+"label": "Manuscript Book of Offices"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/223",
+"@type": "sc:Manifest",
+"label": "24. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/203",
+"@type": "sc:Manifest",
+"label": "16. Breviary (Breviarium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/190",
+"@type": "sc:Manifest",
+"label": "39. Livy's History of Rome (T. Livii ab Urbe Condita Libri)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/192",
+"@type": "sc:Manifest",
+"label": "10. Psalter (Psalterium)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/227",
+"@type": "sc:Manifest",
+"label": "28. Book of Hours (Horae Beatae Mariae Virginis)"
+},
+{
+"@id": "https://cdm17229.contentdm.oclc.org/digital/iiif-info/p17229coll19/18",
+"@type": "sc:Manifest",
+"label": "German Manuscript"
+}
+]
+}

@@ -11,7 +11,7 @@
 ## Missouri
 * Missouri State University , Special Collections & Archives: [mostate_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/mostate_collection.json)
 ## New Jersey
-* Newark Public Library: [newark_collection.json]()
+* Newark Public Library: [newark_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/newark_collection.json)
 ## Ohio
 * Ohio State University Rare Books & Manuscripts Library: [osu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json)
 * Ohio University Libraries: [ohiou_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiou_collection.json)

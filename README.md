@@ -1,7 +1,7 @@
 # IIIF Medieval Manuscripts - Collection Registry
 # Ireland
 ## Belfast
-* Queen's University, Belfast: [qubelfast_collection.json]()
+* Queen's University, Belfast: [qubelfast_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/qubelfast_collection.json)
 # United States of America
 ## Alabama
 * University of Alabama, Birmingham

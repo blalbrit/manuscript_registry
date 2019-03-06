@@ -1,0 +1,61 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Baylor University",
+"viewingHint": "top",
+"description": "The combined physical special collections of the Central Libraries hold over 10,000 volumes dating from the 12th century to the present. Collections include rare books, manuscripts, book arts, scholars' libraries, archives, early printed music, and more. Covering a broad range of subjects, the collections are particularly strong in rare Bible versions, hymnals, early American popular sheet music, and significant American imprints. http://digitalcollections.baylor.edu/cdm/centrallibrarieshome",
+"attribution": "Provided by Baylor University",
+"manifests": [
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13876",
+"@type": "sc:Manifest",
+"label": "Parts of the Matin in the Divine Office of the Feast of the Epiphany and Parts of the Holy Mass of the Feast of the Epiphany, Parts of the Hymns and the Holy Mass of the Feasts of Saint Agnes (Jan. 21) and Saint Agatha (Feb. 5) [Parts of the Common for a Virgin and Martyr] - ca. 1485"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13860",
+"@type": "sc:Manifest",
+"label": "Parts of the Divine Office in the Vigil of the Sunday Within the Octave of Christmas (Jan. 5), the Holy Mass of the Divine Office for the Sunday Within the Octave of Christmas, and the Holy Mass of the Divine Office in the Epiphany of Our Lord (Jan. 6), Parts of the Holy Mass in the Divine Office of the Sunday Within the Octave of the Epiphany - ca. 1150"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13865",
+"@type": "sc:Manifest",
+"label": "Parts of the Holy Mass for a Confessor and a Bishop and Parts of the Holy Mass for a Virgin Not a Martyr, ca. 1515"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13868",
+"@type": "sc:Manifest",
+"label": "Parts of the Holy Mass of the Tuesday and Wednesday in Holy Week, ca. 1390"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13871",
+"@type": "sc:Manifest",
+"label": "Parts of the Holy Mass in the Divine Office of the Feast of the Epiphany, ca. 1390"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13879",
+"@type": "sc:Manifest",
+"label": "Parts of the Divine Office in the Feast of St. Martin, Bishop and Confessor (November 11) - ca. 1070"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13882",
+"@type": "sc:Manifest",
+"label": "Parts of the Divine Office in the Feast of St. Bartholomew, Apostle (August 24) - ca. 1100"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13887",
+"@type": "sc:Manifest",
+"label": "Parts of the Holy Mass of Saturday Before Passion Sunday and Parts of the Holy Mass of Passion Sunday, ca. 1480"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/13890",
+"@type": "sc:Manifest",
+"label": "Parts of the Divine Office in the Feast of Corpus Christi, ca. 1490"
+},
+{
+"@id": "http://digitalcollections.baylor.edu/digital/iiif-info/bu-rarebook/14039",
+"@type": "sc:Manifest",
+"label": "Gradual, Containing the Ordinary of the Holy Mass and the Proper of the Divine Office From the Saturday Before the First Sunday of Advent to Trinity Sunday, ca. 1500"
+}
+]
+}

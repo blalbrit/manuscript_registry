@@ -15,6 +15,7 @@
 ## New Jersey
 * Newark Public Library: [newark_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/newark_collection.json)
 ## Ohio
+* Oberlin College and Conservatory: [oberlin_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/oberlin_collection.json)
 * Ohio State University Rare Books & Manuscripts Library: [osu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json)
 * Ohio University Libraries: [ohiou_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiou_collection.json)
 * Ohio Wesleyan University: [ohiowesleyan_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)

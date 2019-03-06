@@ -1,0 +1,51 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Queen's University, Belfast",
+"viewingHint": "top",
+"description": "A selection of medieval manuscripts from the Brett Collection. There are approximately 30 medieval fragments in the collection in total. The medieval section of the Brett Collection consists of a variety of material, mainly of antiquarian interest, including books, extracts, manuscript, and other documents relating principally to early English civil and ecclesiastical law, land and/ or property in Yorkshire, c.1220 - c. 1600. The collection was donated by Belfast solicitor, Sir Charles Brett (1839-1926), to the University Library on 20 June 1924. It was purchased by Sir Charles Brett on 29 March 1886 at Belfast (J.H. Smyth & Co., Auctioneers). http://digital-library.qub.ac.uk/digital/collection/p15979coll17",
+"attribution": "Provided by Queen's University, Belfast",
+"manifests": [
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/15",
+"@type": "sc:Manifest",
+"label": "Fragment of a grant of a toft and croft"
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/5",
+"@type": "sc:Manifest",
+"label": "Leaf containing the beginning of a \"compotus manualis\""
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/2",
+"@type": "sc:Manifest",
+"label": "Leaf, Manuscript containing part of the Brut, 15th Century"
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/18",
+"@type": "sc:Manifest",
+"label": "Portion of a Minister’s Account probably of Cooling, Co. Kent. "
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/11",
+"@type": "sc:Manifest",
+"label": "Blank form of indulgence, John [Sant] Abbot of Abingdon"
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/21",
+"@type": "sc:Manifest",
+"label": "Preamble to the decision of the Official of the Archdeacon of London in a dispute"
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/8",
+"@type": "sc:Manifest",
+"label": "Blank form of indulgence, John [Sant] Abbot of Abingdon"
+},
+{
+"@id": "http://digital-library.qub.ac.uk/digital/iiif-info/p15979coll17/14",
+"@type": "sc:Manifest",
+"label": "Grant, Thomas Flemmyng knight (chivaler) to John de Pylkynton"
+}
+]
+}

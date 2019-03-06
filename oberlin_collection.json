@@ -1,0 +1,456 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Oberlin College and Conservatory",
+"viewingHint": "top",
+"description": "This database started with high quality scans of our Medieval Latin, Byzantine, Armenian, Coptic and Russian codices and fragments in manuscript.  These images were a response to an invitation to be included in the Digital Scriptorium project in 2008.  Since then we have begun to add our significant manuscript holdings relating to other Collections, beginning with old Deeds of Indenture, the War of 1812, Anti-slavery, and select author manuscripts. http://dcollections.oberlin.edu/cdm/landingpage/collection/illumina",
+"attribution": "Provided by Oberlin College and Conservatory",
+"manifests": [
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1749",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Stirpium Historiae"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1858",
+"@type": "sc:Manifest",
+"label": "Aquinas' Commentary on The Sentences of Peter Lombard"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1725",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Erpositio Egidij romani Super libros de anima cum tertu, 1496"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1158",
+"@type": "sc:Manifest",
+"label": "Text of Divine Office for Dominicans or Franciscans"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1114",
+"@type": "sc:Manifest",
+"label": "Book of Judges"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1795",
+"@type": "sc:Manifest",
+"label": "Testament by Jean de Meun"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1834",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Catechisms by Martin Luthur"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1747",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Euclid's Elements"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1805",
+"@type": "sc:Manifest",
+"label": "Illuminated leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1740",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: De Consolatione Philosophiae, Boethius"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1823",
+"@type": "sc:Manifest",
+"label": "Armenian Bible fragment"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1748",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Summa contra gentiles, Thomas Aquinas"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1751",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Trutina Religionum"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1760",
+"@type": "sc:Manifest",
+"label": "Miniature Manuscript Bible leaf, ca. 1240 A.D."
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1111",
+"@type": "sc:Manifest",
+"label": "Leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1180",
+"@type": "sc:Manifest",
+"label": "Reading for the 4th Sunday after Pentecost"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1101",
+"@type": "sc:Manifest",
+"label": "St. Agnes Decorated initial D"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1791",
+"@type": "sc:Manifest",
+"label": "Sermons by Augustine"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1827",
+"@type": "sc:Manifest",
+"label": "St. Mark"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1802",
+"@type": "sc:Manifest",
+"label": "Liber de iudiciorum ordine"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1058",
+"@type": "sc:Manifest",
+"label": "Hall Antiphonal"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1820",
+"@type": "sc:Manifest",
+"label": "Armenian Manuscript Bible fragments"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1826",
+"@type": "sc:Manifest",
+"label": "Catechism and Book of Prayer"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1375",
+"@type": "sc:Manifest",
+"label": "Hannaford Manuscript"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1772",
+"@type": "sc:Manifest",
+"label": "Epistle of Paul to the Thessalonians I and II"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/57",
+"@type": "sc:Manifest",
+"label": "Presentation in the Temple (in a reversed position, facing left)"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1089",
+"@type": "sc:Manifest",
+"label": "Leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1133",
+"@type": "sc:Manifest",
+"label": "Maccabees II"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1746",
+"@type": "sc:Manifest",
+"label": "Breviary fragment"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1847",
+"@type": "sc:Manifest",
+"label": "Manuscript fragment"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1123",
+"@type": "sc:Manifest",
+"label": "Beginning of Book of Haggai"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1830",
+"@type": "sc:Manifest",
+"label": "Geometry"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1769",
+"@type": "sc:Manifest",
+"label": "Music manuscript"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/435",
+"@type": "sc:Manifest",
+"label": "Psalter 1471"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1730",
+"@type": "sc:Manifest",
+"label": "Fragment with printed title: Erasmi Dialogi"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1070",
+"@type": "sc:Manifest",
+"label": "The Venerable Gerasimus of the Jordan and the Lion"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1752",
+"@type": "sc:Manifest",
+"label": "Artz Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1778",
+"@type": "sc:Manifest",
+"label": "Music manuscript"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1177",
+"@type": "sc:Manifest",
+"label": "Litany from the Office for the Dead"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1808",
+"@type": "sc:Manifest",
+"label": "Illuminated leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1743",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Constitutiones Alexandrine, Catholic Church"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1757",
+"@type": "sc:Manifest",
+"label": "Armenian Manuscript Bible leaf, 1121 A.D."
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1781",
+"@type": "sc:Manifest",
+"label": "Music leaf folded"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1775",
+"@type": "sc:Manifest",
+"label": "Music manuscript"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1167",
+"@type": "sc:Manifest",
+"label": "Leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1811",
+"@type": "sc:Manifest",
+"label": "Illuminated leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1763",
+"@type": "sc:Manifest",
+"label": "Paris Manuscript Bible leaf, ca. 1310 A.D."
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1095",
+"@type": "sc:Manifest",
+"label": "Christ rising from tomb"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1120",
+"@type": "sc:Manifest",
+"label": "2 Paralipomenon 31:2-32:9"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1142",
+"@type": "sc:Manifest",
+"label": "Office of the Martyrs John and Paul"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1506",
+"@type": "sc:Manifest",
+"label": "John VI"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1733",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Papinianus"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1552",
+"@type": "sc:Manifest",
+"label": "Casus longi cum notabilibus decretalium by Bernardus Parmensis"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1736",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Herodoti Halicarnassei Historia"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1117",
+"@type": "sc:Manifest",
+"label": "1 St. John the Apostle"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1161",
+"@type": "sc:Manifest",
+"label": "Judges 1:13-4:3"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1784",
+"@type": "sc:Manifest",
+"label": "Leaf from an Antiphonal"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1788",
+"@type": "sc:Manifest",
+"label": "Sermons by Augustine"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1815",
+"@type": "sc:Manifest",
+"label": "Illuminated leaves from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1126",
+"@type": "sc:Manifest",
+"label": "Maccabees I"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1092",
+"@type": "sc:Manifest",
+"label": "Illuminated leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1164",
+"@type": "sc:Manifest",
+"label": "Psalm 80"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1171",
+"@type": "sc:Manifest",
+"label": "Folio from a missal"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1136",
+"@type": "sc:Manifest",
+"label": "Martyrdom or sufferage of St. Stephen"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2145",
+"@type": "sc:Manifest",
+"label": "Epigrammata and De spectaculis by Marcus Valerius Martial"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1863",
+"@type": "sc:Manifest",
+"label": "Crucifixion"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1866",
+"@type": "sc:Manifest",
+"label": "Breviary fragment"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1836",
+"@type": "sc:Manifest",
+"label": "flyleaf_a_verso"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1838",
+"@type": "sc:Manifest",
+"label": "flyleaf_b_verso"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1837",
+"@type": "sc:Manifest",
+"label": "flyleaf_b_recto"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2198",
+"@type": "sc:Manifest",
+"label": "Indenture of mortgage between Thomas Botolor, Edmund Roffet and Robert Wandham"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2207",
+"@type": "sc:Manifest",
+"label": "Indenture between William Lambs and Mary Harpour"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2148",
+"@type": "sc:Manifest",
+"label": "Indenture from 1486"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2189",
+"@type": "sc:Manifest",
+"label": "Indenture between John May of Merfield and Richard Kinchin “Waferend”"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2186",
+"@type": "sc:Manifest",
+"label": "Indenture of mortgage between John Head of Gillinham and William Haws"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2174",
+"@type": "sc:Manifest",
+"label": "Last Will and Testament of Elizabeth Pearce"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2195",
+"@type": "sc:Manifest",
+"label": "Indenture of lease between Mary Jane Gray, John Indermaux and Joan Julia Forman"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2183",
+"@type": "sc:Manifest",
+"label": "Indenture between Henry Alomer and William Sweenar"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2180",
+"@type": "sc:Manifest",
+"label": "Indenture of Apprenticeship for three years"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2208",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: In Acta Apostolo"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2171",
+"@type": "sc:Manifest",
+"label": "Will and Testament John Dyneley"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2204",
+"@type": "sc:Manifest",
+"label": "Indenture between William Belgrave and Richard Brotflesby"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2201",
+"@type": "sc:Manifest",
+"label": "Indenture between Benjamin Wallor  and George Baloy"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2177",
+"@type": "sc:Manifest",
+"label": "Indenture between Frances Chudleigh Worthington of Weybridge in the County of Surry, Charles Worthington of Weybridge and Robert Sulivan of Ashford in the County of Middlesex for the sale of a property"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/2192",
+"@type": "sc:Manifest",
+"label": "Indenture between Slator King, Maurine Johnson and John Johnson detaling the sale of property"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1145",
+"@type": "sc:Manifest",
+"label": "Leaf from a Book of Hours"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1139",
+"@type": "sc:Manifest",
+"label": "1 Paralipomenon 10:13-13:14"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1750",
+"@type": "sc:Manifest",
+"label": "Fragment with printed book: Index librorum prohibitorum, 1569"
+},
+{
+"@id": "http://dcollections.oberlin.edu/digital/iiif-info/illumina/1183",
+"@type": "sc:Manifest",
+"label": "Commentary on penance"
+}
+]
+}

@@ -1,6 +1,6 @@
 # IIIF Medieval Manuscripts - Collection Registry
 ## Alabama
-* University of Alabama, Birmingham [uab_collection.json]()
+* University of Alabama, Birmingham
 ## California
 * The Huntington Library
 * Loyola Marymount University

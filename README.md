@@ -14,6 +14,7 @@
 ## Connecticut
 ## Massachusetts
 * Boston College: [bc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/bc_collection.json)
+* Tufts University: [tufts_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/tufts_collection.json)
 ## Michigan
 * Western Michigan University: [wmu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/wmu_collection.json)
 ## Missouri

@@ -1,0 +1,41 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Tufts University",
+"viewingHint": "top",
+"description": "",
+"attribution": "Provided by Tufts University",
+"manifests": [
+{
+"@id": "https://dl.tufts.edu/concern/images/cj82kg593/manifest",
+"@type": "sc:Manifest",
+"label": "Leaf from a fifteenth century illuminated Italian missal (recto)"
+},
+{
+"@id": "https://dl.tufts.edu/concern/images/2v23w242t/manifest",
+"@type": "sc:Manifest",
+"label": "Leaf from a fifteenth century illuminated Italian missal (verso)"
+},
+{
+"@id": "https://dl.tufts.edu/concern/images/j3860g05p/manifest",
+"@type": "sc:Manifest",
+"label": "Leaves from a 12th Century Missal (a recto)"
+},
+{
+"@id": "https://dl.tufts.edu/concern/images/k643b841f/manifest",
+"@type": "sc:Manifest",
+"label": "Leaves from a 12th Century Missal (a verso)"
+},
+{
+"@id": "https://dl.tufts.edu/concern/images/s7526m25p/manifest",
+"@type": "sc:Manifest",
+"label": "Leaves from a 12th Century Missal (b recto)"
+},
+{
+"@id": "https://dl.tufts.edu/concern/images/wm117x24r/manifest",
+"@type": "sc:Manifest",
+"label": "Leaves from a 12th Century Missal (b verso)"
+}
+]
+}

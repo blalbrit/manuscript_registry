@@ -1,0 +1,41 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from the National Library of Medicine",
+"viewingHint": "top",
+"description": "The National Library of Medicine (NLM), in Bethesda, Maryland, is a part of the National Institutes of Health (NIH), US Department of Health and Human Services (HHS). Since its founding in 1836, NLM has played a pivotal role in translating biomedical research into practice. It is the world's largest biomedical library and the developer of electronic information services that deliver trillions of bytes of data to millions of users every day. Scientists, health professionals, and the public in the US and around the globe search the Library's online information resources more than one billion times each year. The NLM also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the NLM coordinates a 6,000-member National Network of Libraries of Medicine that promotes and provides access to health information in communities across the United States. The NLM supports an extensive digitization program to preserve and make available its historical collections, which stand among the richest of any institution in the world. To this end, the NLM is a principal contributor to the Medical Heritage Library (MHL), a collaborative effort of several large medical research libraries to digitize and make available online thousands of pieces of historical medical literature. All of NLM's digitized historical content is also available through NLM's Digital Collections, and much of the content will also be available with that of other contributors on the MHL’s collections page on the Internet Archive. https://archive.org/details/usnationallibraryofmedicine",
+"attribution": "Provided by Bthe National Library of Medicine",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/9414702.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "Regimen sanitatis Salernitanu[m] necno[n] [et] m[a]g[ist]ri Arnoldi d[e] noua villa feliciter i[n]cipit"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/100899906.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Leechbook, no. 1]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/100957835.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "Viaticus"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/101141503.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "Liber Aristotil[is] de nat[u]r[a] a[nima]li[u]m ag[res]tium [et] marino[rum]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/9400865.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "al-Adwīyah al-mufradah al-mustaʻmalah bi-khawāṣhā wa-afʻālhā al-mansūbah ilayhā al-mashhūrah bi-hā"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/100899308.nlm.nih.gov/manifest.json",
+"@type": "sc:Manifest",
+"label": "Tractato di medicina"
+}
+]
+}

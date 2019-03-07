@@ -1,0 +1,76 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Boston Public Library",
+"viewingHint": "top",
+"description": "The major part of this distinguished collection is comprised of religious and devotional texts, but there are also a number of secular and scientific titles. Many are superbly illuminated with exquisite miniatures illustrating the codices and single leaves. Some noteworthy volumes include a 10th-century Lectionary from the Benedictine Abbey of St. Allyre in Clermont, the earliest codex in New England; a Spanish Psalter consisting of 14 miniatures on vellum by Simon Bening, the most famous miniature painter of the time; a Chronique Universelle, a 33′ scroll detailing the secular and non-secular history of the world from the Creation to 1440; and a codex with ownership marks and signatures of England’s first printer, William Caxton. These are the only known examples of Caxton’s signature. Non-European manuscripts include several Armenian examples, three Hebrew scrolls, a 15th-century Persian copy of Nizami’s Khamsah illustrated by Ali Mahmud, and three palm-leaf Pali manuscripts. These unique and ancient manuscripts are some of the best sources for understanding the Middle Ages and the Renaissance. Revealing many elements of the artistic, intellectual, and spiritual life of the period, they date from the 10th through early 16th centuries and cover a wide range of subjects. They also represent a wide variety of schools of both script and illumination in France, Italy, Spain, the Netherlands, Germany, and England. The very nature of these texts renders them unique and rare. Executed in European monasteries or later in scriptoria, these manuscripts document the history of human thought from the 10th through early 16th centuries. Critical funding to support long-term preservation of and enhanced access to Boston Public Library collections, including this one, was provided by the Associates of the Boston Public Library. https://archive.org/details/bplmedmss",
+"attribution": "Provided by Boston Public Library",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/lelivredestroisv00chri/manifest.json",
+"@type": "sc:Manifest",
+"label": "Le livre des trois vertus"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/dasleidenunsersh00bras/manifest.json",
+"@type": "sc:Manifest",
+"label": "Das Leiden unsers Herren Jhesu Christi"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/hieronymianuslib00giov/manifest.json",
+"@type": "sc:Manifest",
+"label": "Hieronymianus liber"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/astronomiconlibe00mani/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Astronomica / Marcus Manilius. In morbis a capite ad pedes / Quintus Sammonicus Serenus]."
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/lasfera00dati/manifest.json",
+"@type": "sc:Manifest",
+"label": "[La sfera]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/lesditsmoraulsde00muba/manifest.json",
+"@type": "sc:Manifest",
+"label": "Dits des philosophes. Le mireon aux pecheurs. Le livre Griseledis. Le mireon des pecheurs"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/lapassiondenotre00fier/manifest.json",
+"@type": "sc:Manifest",
+"label": "Hours of the Passion : in verse"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/saintslivesfranc00unse/manifest.json",
+"@type": "sc:Manifest",
+"label": "Saints' lives : Franciscan : in French [manuscript]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/deinstitutionere00guil/manifest.json",
+"@type": "sc:Manifest",
+"label": "De institutione religiosorum"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/epistolamissacui00munt/manifest.json",
+"@type": "sc:Manifest",
+"label": "Epistola missa cuidam infecto predicatori in praga. Dyalogus lucidarii. Sermo bonus"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/viedejhesucristi00joha/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Vie de Jhesucrist : in French]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/postillasupertot00nich_0/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Postilla super totam bibliam : Parabolas, Ecclesiastes, Cantica canticorum. Prophetae minores]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/postillasupertot00nich/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Postilla super totam bibliam : Parabolas, Ecclesiastes, Cantica canticorum. Prophetae minores]"
+}
+]
+}

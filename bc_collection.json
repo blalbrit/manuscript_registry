@@ -1,0 +1,31 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Boston College",
+"viewingHint": "top",
+"description": "",
+"attribution": "Provided by Boston College",
+"manifests": [
+{
+"@id": "https://library.bc.edu/iiif/manifests/MS1986_097_83440.json",
+"@type": "sc:Manifest",
+"label": "[Connolly book of hours], MS.1986.097, John J. Burns Library, Boston College"
+},
+{
+"@id": "https://library.bc.edu/iiif/manifests/MS1986_093_83441.json",
+"@type": "sc:Manifest",
+"label": "Book of hours, MS.1986.093, John J. Burns Library, Boston College"
+},
+{
+"@id": "https://library.bc.edu/iiif/manifests/MS1986_044_62796.json",
+"@type": "sc:Manifest",
+"label": "[Illumination of the Crucifixion from a Missal : use of Troyes], MS.1986.044, John J. Burns Library, Boston College"
+},
+{
+"@id": "https://library.bc.edu/iiif/manifests/MS1996_097_87233.json",
+"@type": "sc:Manifest",
+"label": "Franciscan antiphoner (sanctorale) with sequences, circa 1300-1350, MS.1996.097, John J. Burns Library, Boston College"
+}
+]
+}

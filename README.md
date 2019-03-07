@@ -12,6 +12,8 @@
 ## Colorado
 * University of Colorado, Boulder: [ucboulder_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ucboulder_collection.json)
 ## Connecticut
+## Massachusetts
+* Boston College: [bc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/bc_collection.json)
 ## Michigan
 * Western Michigan University: [wmu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/wmu_collection.json)
 ## Missouri

@@ -1,0 +1,141 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Siena College",
+"viewingHint": "top",
+"description": "This collection contains images from the treasures of the J. Spencer & Patricia Standish Library's Convivium Collection of medieval and early modern manuscripts, manuscript leaves, and book leaves. Most of these items were produced in Europe between 1200 and 1685. Siena College's curriculum includes an interdisciplinary program in Medieval and Renaissance Studies. https://nyheritage.org/collections/convivium-collection",
+"attribution": "Provided by Siena College",
+"manifests": [
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/42",
+"@type": "sc:Manifest",
+"label": "Norman Charter of Ardenne Abbey"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/47",
+"@type": "sc:Manifest",
+"label": "Papal Bull of Innocent IV"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/48",
+"@type": "sc:Manifest",
+"label": "Charter by William Heyne of Risscheton"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/41",
+"@type": "sc:Manifest",
+"label": "Leaf from German Breviary, 15th Century"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/21",
+"@type": "sc:Manifest",
+"label": "Leaf of Breviary, Northern France (side 1)"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/4",
+"@type": "sc:Manifest",
+"label": "Charter of the Convent of Santa Cruce"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/27",
+"@type": "sc:Manifest",
+"label": "Leaf from Summa de Casibus of Bartolomeo da San Concordio (side 1)"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/11",
+"@type": "sc:Manifest",
+"label": "Book of Hours"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/0",
+"@type": "sc:Manifest",
+"label": "Papal Indulgence"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/2",
+"@type": "sc:Manifest",
+"label": "Grant of John Baker 1468-1470"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/66",
+"@type": "sc:Manifest",
+"label": "Leaf 2 from the Nuremberg Chronicle or the Chronicle of the World"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/67",
+"@type": "sc:Manifest",
+"label": "Leaf 3 of the Nuremberg Chronicle, or the Chronicle of the World"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/68",
+"@type": "sc:Manifest",
+"label": "Leaf 4 from the Nuremberg Chronicle, or the Chronicle of the World"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/24",
+"@type": "sc:Manifest",
+"label": "Postilla Super Epistolas et Evangelista"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/65",
+"@type": "sc:Manifest",
+"label": "Leaf 1 from the Nuremberg Chronicle or the Chronicle<br>of the World"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/20",
+"@type": "sc:Manifest",
+"label": "Letter of Ferdinand V, King of Spain (side 1)"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/54",
+"@type": "sc:Manifest",
+"label": "Indenture Grant of Land"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/5",
+"@type": "sc:Manifest",
+"label": "A Leaf from the Koran"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/31",
+"@type": "sc:Manifest",
+"label": "Document from the Reign of Elizabeth I"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/64",
+"@type": "sc:Manifest",
+"label": "Letter from Vincenzo Gonzaga, Duke of Mantua"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/156",
+"@type": "sc:Manifest",
+"label": "Illuminated Patent of Nobility, Spain"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/180",
+"@type": "sc:Manifest",
+"label": "Antiphoner leaf, Psalm 95"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/163",
+"@type": "sc:Manifest",
+"label": "Antiphoner, Nativity of Mary"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/61",
+"@type": "sc:Manifest",
+"label": "Leaf of Legal Manuscript"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/166",
+"@type": "sc:Manifest",
+"label": "Antiphoner, Advent and Holy Week"
+},
+{
+"@id": "https://cdm16694.contentdm.oclc.org/digital/iiif-info/siena/162",
+"@type": "sc:Manifest",
+"label": "Antiphoner or Choir Missal, 1650"
+}
+]
+}

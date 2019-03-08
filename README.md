@@ -5,8 +5,7 @@
   * [Collection of Manuscript Fragments](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher21:root)
   * [Manuscripts (not all medieval)](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher2:root)
   * [The Classics Department Papyrus Collection at the Thomas Fisher Rare Book Library](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher22:root)
-  * 
-# Ireland
+# United Kingdom
 ## Belfast
 * Queen's University, Belfast: [qubelfast_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/qubelfast_collection.json)
 # United States of America

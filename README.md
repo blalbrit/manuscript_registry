@@ -4,6 +4,7 @@
 * University of Alberta: [ualberta_collection.json](http://iiif.archivelab.org/iiif/horaebeataevirgi00cath/manifest.json)
 ## British Columbia
 ## Ontario
+* PIMS - University of Toronto: [pims_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/pims_collection.json)
 * University of Toronto (external links)
   * [Collection of Manuscript Fragments](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher21:root)
   * [Manuscripts (not all medieval)](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher2:root)

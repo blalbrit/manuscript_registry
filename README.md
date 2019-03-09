@@ -1,5 +1,7 @@
 # IIIF Medieval Manuscripts - Collection Registry
 # Canada
+## Alberta
+## British Columbia
 ## Ontario
 * University of Toronto (external links)
   * [Collection of Manuscript Fragments](https://iiif.library.utoronto.ca/presentation/v2/collections/fisher21:root)

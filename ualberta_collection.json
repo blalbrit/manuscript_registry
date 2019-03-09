@@ -1,0 +1,21 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from the University of Alberta",
+"viewingHint": "top",
+"description": "The University of Alberta (U of A) is a public research university located in Edmonton, Alberta, Canada. Founded in 1908 by Alexander Cameron Rutherford, the first premier of Alberta and Henry Marshall Tory, its first president, it is widely recognized as one of the best universities in Canada. The main campus covers 50 city blocks with over 90 buildings directly across the North Saskatchewan River from downtown Edmonton. The University of Alberta library system, received a tremendous boost with the opening of the Rutherford Library in May 1951, and now has one of the largest research libraries systems in Canada. As of 2004, according to the Association of Research Libraries, the library system is the second-largest, by the number of volumes held, among all Canadian universities, after the University of Toronto Library. https://www.library.ualberta.ca/",
+"attribution": "Provided by the University of Alberta",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/horaebeataevirgi00cath/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Horae Beatae Virginis Mariae]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/invectivescontre00tinc/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Invectives contre la secte de vauderie]"
+}
+]
+}

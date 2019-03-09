@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "http://iiif.archivelab.org/iiif/horaebeataevirgi00cath/manifest.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from the University of Alberta",
 "viewingHint": "top",

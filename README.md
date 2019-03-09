@@ -36,6 +36,7 @@
 ## New Jersey
 * Newark Public Library: [newark_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/newark_collection.json)
 ## New York
+* Fordham University: [fordham_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/fordham_collection.json)
 * Siena College: [siena_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/siena_collection.json)
 ## Ohio
 * Oberlin College and Conservatory: [oberlin_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/oberlin_collection.json)

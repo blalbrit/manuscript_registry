@@ -1,0 +1,31 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Fordham Library Special Collections",
+"viewingHint": "top",
+"description": "Fordham Library Special Collections. https://archive.org/details/specialcollections&tab=collection",
+"attribution": "Provided by Fordham Library Special Collections",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/deofficiis00cice_1/manifest.json",
+"@type": "sc:Manifest",
+"label": "De officiis"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/bookofhours00cath/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Book of hours]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/bookofhoursuseof00cath/manifest.json",
+"@type": "sc:Manifest",
+"label": "[Book of hours] : [use of Rome]"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/marcituliicicero00cice/manifest.json",
+"@type": "sc:Manifest",
+"label": "Marci Tulii ciceronis arpinatis [con]sul[isque] rom[ani] ac oratoris] maxi[mi] ad M. T. C. filium suum officiorum liber ... [etc.]"
+}
+]
+}

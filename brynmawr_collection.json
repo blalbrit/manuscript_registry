@@ -1,0 +1,21 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from Bryn Mawr College Library, Special Collections",
+"viewingHint": "top",
+"description": "As one of the leading women's colleges in the United States since its founding in 1885, Bryn Mawr College has strong holdings on the history of women's education. The Bryn Mawr College Library is contributing digital content to the Internet Archive relating to the history of the college, and more broadly on the history of women's education. The work is being supported by a grant from the Albert M. Greenfield Foundation, as part of The Albert M. Greenfield Digital Center for the History of Women and Higher Education at Bryn Mawr College. This collection of materials are part of the Bryn Mawr College Special Collections, which also include the Rare Book Collection, the Manuscript Collection, the Bryn Mawr College Archives, the Fine Arts Collection, the Ethnographic Arts Collection, the Classical and Near Eastern Archaeology Collection, the Decorative and Applied Arts Collection, and the Bryn Mawr College Geology Department mineral collection. https://archive.org/details/brynmawrcollege&tab=about",
+"attribution": "Provided by Bryn Mawr College Library, Special Collections",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/ArabicPsalterBV47BMCReduced/manifest.json",
+"@type": "sc:Manifest",
+"label": "Arabic Psalter BV 47 BMCReduced"
+},
+{
+"@id": "http://iiif.archivelab.org/iiif/PoggioBraccioliniDeMiseriaConditionisHumanae/manifest.json",
+"@type": "sc:Manifest",
+"label": "Poggio Bracciolini De Miseria Conditionis Humanae"
+}
+]
+}

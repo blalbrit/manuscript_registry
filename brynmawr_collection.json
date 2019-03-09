@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/brynmawr_collection.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from Bryn Mawr College Library, Special Collections",
 "viewingHint": "top",

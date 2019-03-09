@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from PIMS, University of Toronto",
+"viewingHint": "top",
+"description": "The Institute Library, which opened in 1929 with a mere 3,000 titles donated by St Michael’s College, today has holdings of about 120,000 volumes whose lustre is enhanced and complemented by specialized collections of 9,000 reels of microfilm and 50,000 slides. The Institute’s Academic Council alone exercises control and authority over Library policies and use. Access to the Library is normally granted to professors and graduate students of the University of Toronto who work in areas allied to the Library’s resources and, on a more restricted basis, to other members of the University of Toronto who need to consult unique copies or materials not otherwise available at the University of Toronto. Every reasonable opportunity to use the Library is also granted to Guests of the Institute and other visiting scholars.  Priority in collection development at the Institute Library has always been given to editions of texts and archival materials and to catalogues of manuscripts held in libraries around the world. There is a special strength in medieval philosophy and theology; but the collection is also very strong in history, law, liturgy, and literature. The published opera omnia of every major medieval figure, as well as the great multi-volume collections on national and ecclesiastical history, are all available in the Institute Library. The inventory of the library stands in 2000 at 101,900 books, with another 20,000 printed and manuscript books in microform. https://archive.org/details/pimslibrary%26tab=about&tab=collection",
+"attribution": "Provided by PIMS, University of Toronto",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/homiliaryongospe00heir/manifest.json",
+"@type": "sc:Manifest",
+"label": "Homiliary on Gospels from Easter to first Sunday of Advent"
+}
+]
+}

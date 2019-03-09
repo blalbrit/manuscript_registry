@@ -12,7 +12,7 @@
 ## Belfast
 * Queen's University, Belfast: [qubelfast_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/qubelfast_collection.json)
 ## Cambridge
-* [Parker Library, Corpus Christi College](http://dms-data.stanford.edu/data/manifests/Parker/collection.json)
+* [Parker Library, Corpus Christi College](http://dms-data.stanford.edu/data/manifests/Parker/collection.json) (external link)
 # United States of America
 ## Alabama
 * University of Alabama, Birmingham

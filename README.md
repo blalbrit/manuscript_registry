@@ -1,6 +1,7 @@
 # IIIF Medieval Manuscripts - Collection Registry
 # Canada
 ## Alberta
+* University of Alberta: [ualberta_collection.json](http://iiif.archivelab.org/iiif/horaebeataevirgi00cath/manifest.json)
 ## British Columbia
 ## Ontario
 * University of Toronto (external links)

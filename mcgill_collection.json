@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "replace",
+"@type": "sc:Collection",
+"label": "Manuscripts from McGill University",
+"viewingHint": "top",
+"description": "The McGill Library Rare Books and Special Collections began collecting rare materials in the 1850s, and through gift and purchase the holdings now constitute rich and highly diverse research collections. The humanities and social sciences and in particular art and architecture, Canadiana, history, literature, the history of ideas (philosophy and religion), travel and exploration, and the history of the book form the core of the collection. More information can be found on the library’s website http://www.mcgill.ca/library/branches/rarebooks/about",
+"attribution": "Provided by McGill University",
+"manifests": [
+{
+"@id": "http://iiif.archivelab.org/iiif/McGillLibrary-rbsc_ms-medieval-073-18802/manifest.json",
+"@type": "sc:Manifest",
+"label": "[A 15th century Italian antiphonal : manuscript]"
+}
+]
+}

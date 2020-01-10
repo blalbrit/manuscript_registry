@@ -34,6 +34,8 @@
 * Tufts University: [tufts_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/tufts_collection.json)
 ## Michigan
 * Western Michigan University: [wmu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/wmu_collection.json)
+## Minnesota
+* University of Minnesota: [Collection](https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/manifest.json)
 ## Missouri
 * Missouri State University , Special Collections & Archives: [mostate_collection.json](https://cdm17307.contentdm.oclc.org/iiif/info/Medieval/manifest.json)
 ## New Jersey

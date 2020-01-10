@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "replace",
+"@id": "https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/mostate_collection.json",
 "@type": "sc:Collection",
 "label": "Manuscripts from Missouri State University, Special Collections and Archives",
 "viewingHint": "top",

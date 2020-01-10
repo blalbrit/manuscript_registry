@@ -42,7 +42,7 @@
 * Fordham University: [fordham_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/fordham_collection.json)
 * Siena College: [siena_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/siena_collection.json)
 ## Ohio
-* Oberlin College and Conservatory: [oberlin_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/oberlin_collection.json)
+* Oberlin College and Conservatory: [oberlin_collection.json](https://cdm15963.contentdm.oclc.org/iiif/info/illumina/manifest.json)
 * Ohio State University Rare Books & Manuscripts Library: [osu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json)
 * Ohio University Libraries: [ohiou_collection.json](https://media.library.ohio.edu/iiif/info/p15808coll19/manifest.json)
 * Ohio Wesleyan University: [ohiowesleyan_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)

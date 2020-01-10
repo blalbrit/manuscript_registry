@@ -52,7 +52,7 @@
 * Bryn Mawr College: [brynmawr_collection.json](http://iiif.archivelab.org/iiif/PoggioBraccioliniDeMiseriaConditionisHumanae/manifest.json)
 * University of Scranton: [scranton_collection.json](https://cdm16214.contentdm.oclc.org/iiif/info/medieval/manifest.json)
 ## South Carolina
-* University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json)
+* University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://digital.tcl.sc.edu/iiif/info/pfp/manifest.json)
 ## Texas
 * Baylor University: [baylor_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/baylor_collection.json)
 * Southern Methodist University, Bridwell Library - single images from incunabula, not complete books: [smu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/smu_collection.json)

@@ -37,7 +37,7 @@
 ## Missouri
 * Missouri State University , Special Collections & Archives: [mostate_collection.json](https://cdm17307.contentdm.oclc.org/iiif/info/Medieval/manifest.json)
 ## New Jersey
-* Newark Public Library: [newark_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/newark_collection.json)
+* Newark Public Library: [newark_collection.json](https://cdm17229.contentdm.oclc.org/iiif/info/p17229coll19/manifest.json)
 ## New York
 * Fordham University: [fordham_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/fordham_collection.json)
 * Siena College: [siena_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/siena_collection.json)
@@ -50,7 +50,7 @@
 * University of Portland, Clark Library: [up_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/up_collection.json)
 ## Pennsylvania
 * Bryn Mawr College: [brynmawr_collection.json](http://iiif.archivelab.org/iiif/PoggioBraccioliniDeMiseriaConditionisHumanae/manifest.json)
-* University of Scranton: [scranton_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/scranton_collection.json)
+* University of Scranton: [scranton_collection.json](https://cdm16214.contentdm.oclc.org/iiif/info/medieval/manifest.json)
 ## South Carolina
 * University of South Carolina, Irvin Department of Special Collections: [usc_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/usc_collection.json)
 ## Texas

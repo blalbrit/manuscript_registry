@@ -44,7 +44,7 @@
 ## Ohio
 * Oberlin College and Conservatory: [oberlin_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/oberlin_collection.json)
 * Ohio State University Rare Books & Manuscripts Library: [osu_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/osu_collection.json)
-* Ohio University Libraries: [ohiou_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiou_collection.json)
+* Ohio University Libraries: [ohiou_collection.json](https://media.library.ohio.edu/iiif/info/p15808coll19/manifest.json)
 * Ohio Wesleyan University: [ohiowesleyan_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/ohiowesleyan_collection.json)
 ## Oregon
 * University of Portland, Clark Library: [up_collection.json](https://raw.githubusercontent.com/blalbrit/manuscript_registry/master/up_collection.json)
